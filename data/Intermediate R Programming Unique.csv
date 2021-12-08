@@ -1,0 +1,2682 @@
+video_id,publishedAt,channelId,title,description,thumbnails.default.url,channelTitle,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,tags,level,rVersion,relevant
+pSWaOOniVBk,2019-02-02T00:00:00Z,UC9o3UMJwzKDMmvo6lh_ppiA,Intermediate R Workshop - Data Management with dplyr and tidyr,"Workshop on data management using dplyr and tidyr at UW Tacoma. Assumes basic R knowledge. Recorded 1/31/2019.
+
+https://clanfear.github.io/Intermediate_R_Workshop/",https://i.ytimg.com/vi/pSWaOOniVBk/default.jpg,Charles Lanfear,12418,368,0,0,31,",",intermediate,3.5.2,TRUE
+v2wwFS7hLDc,2020-10-14T00:00:00Z,UCphRkPKsijM55kmmphXZLNw,Intermediate R: Conditionals and Control Flow [Part 1 of 5] | SPRK 1 | UC Merced | October 8 2020,"Lecture: Intermediate R: Conditionals and Control Flow [Part 1 of 5]
+Course: Spark Seminar 001: The Machine Learning Age
+DataCamp: https://learn.datacamp.com/courses/intermediate-r
+
+For more scholarly content: 
+
+Links to my publications:
+
+https://scholar.google.com/citations?user=jEGe8qAAAAAJ
+
+https://ucmerced.academia.edu/AdamCroom
+
+Link to my editorial and peer-review record:
+
+https://publons.com/researcher/195705/adam-m-croom/peer-review
+
+Link to my teaching evaluations:
+
+https://doctorcroom.com/teaching-evaluations 
+
+Link to a list of scholarly publications citing my work: 
+
+https://doctorcroom.com/citations",https://i.ytimg.com/vi/v2wwFS7hLDc/default.jpg,Dr. Adam M. Croom,1272,18,0,0,0,",",intermediate,4.0.3,TRUE
+_1IhfYIybSY,2020-10-14T00:00:00Z,UCphRkPKsijM55kmmphXZLNw,Intermediate R: Functions [Part 3 of 5] | SPRK 1 | UC Merced | October 8 2020,"Lecture: Intermediate R: Functions [Part 3 of 5]
+Course: Spark Seminar 001: The Machine Learning Age
+DataCamp: https://learn.datacamp.com/courses/intermediate-r
+
+For more scholarly content: 
+
+Links to my publications:
+
+https://scholar.google.com/citations?user=jEGe8qAAAAAJ
+
+https://ucmerced.academia.edu/AdamCroom
+
+Link to my editorial and peer-review record:
+
+https://publons.com/researcher/195705/adam-m-croom/peer-review
+
+Link to my teaching evaluations:
+
+https://doctorcroom.com/teaching-evaluations 
+
+Link to a list of scholarly publications citing my work: 
+
+https://doctorcroom.com/citations",https://i.ytimg.com/vi/_1IhfYIybSY/default.jpg,Dr. Adam M. Croom,951,14,0,0,0,",",intermediate,4.0.3,TRUE
+nHv_E2C-__U,2020-10-14T00:00:00Z,UCphRkPKsijM55kmmphXZLNw,Intermediate R: The Apply Family [Part 4 of 5] | SPRK 1 | UC Merced | October 8 2020,"Lecture: Intermediate R: The Apply Family [Part 4 of 5]
+Course: Spark Seminar 001: The Machine Learning Age
+DataCamp: https://learn.datacamp.com/courses/intermediate-r
+
+For more scholarly content: 
+
+Links to my publications:
+
+https://scholar.google.com/citations?user=jEGe8qAAAAAJ
+
+https://ucmerced.academia.edu/AdamCroom
+
+Link to my editorial and peer-review record:
+
+https://publons.com/researcher/195705/adam-m-croom/peer-review
+
+Link to my teaching evaluations:
+
+https://doctorcroom.com/teaching-evaluations 
+
+Link to a list of scholarly publications citing my work: 
+
+https://doctorcroom.com/citations",https://i.ytimg.com/vi/nHv_E2C-__U/default.jpg,Dr. Adam M. Croom,619,6,0,0,0,",",intermediate,4.0.3,TRUE
+zzXCkYR84M0,2019-05-10T00:00:00Z,UCuEn6gDsdFdTPRqadlI7G0w,R visualisation with ggplot2 – intermediate,"The UQ Library offers an intermediate session on R visualisations with ggplot2.
+
+In this screencast, you will learn about:
+
+* customising colour scales
+* extra tools for picking colours
+* dividing a visualisation in facets
+* new geometries
+* modifying statistical transformations
+* adjusting a geometry's position
+* exploring more themes
+
+If you need to follow the introductory session, the screencast is available here: https://www.youtube.com/watch?v=LoeBgXSJWTw
+
+Links for this session:
+Course material: https://gitlab.com/stragu/DSH/blob/master/R/ggplot2_intermediate/ggplot2_intermediate.md
+Link to the dataset: https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv
+
+If you run into the error when trying to lookup help for the ggthemes package and functions, start a new R session (or close RStudio entirely) and reload the packages.",https://i.ytimg.com/vi/zzXCkYR84M0/default.jpg,UQ Library,14198,339,3,0,28,"RStudio,RStats,ggplot2,data science,Tidyverse",intermediate,3.6.0,TRUE
+xByXkoOAcR0,2020-10-14T00:00:00Z,UCphRkPKsijM55kmmphXZLNw,Intermediate R: Loops [Part 2 of 5] | SPRK 1 | UC Merced | October 8 2020,"Lecture: Intermediate R: Loops [Part 2 of 5]
+Course: Spark Seminar 001: The Machine Learning Age
+DataCamp: https://learn.datacamp.com/courses/intermediate-r
+
+For more scholarly content: 
+
+Links to my publications:
+
+https://scholar.google.com/citations?user=jEGe8qAAAAAJ
+
+https://ucmerced.academia.edu/AdamCroom
+
+Link to my editorial and peer-review record:
+
+https://publons.com/researcher/195705/adam-m-croom/peer-review
+
+Link to my teaching evaluations:
+
+https://doctorcroom.com/teaching-evaluations 
+
+Link to a list of scholarly publications citing my work: 
+
+https://doctorcroom.com/citations",https://i.ytimg.com/vi/xByXkoOAcR0/default.jpg,Dr. Adam M. Croom,894,14,0,0,0,",",intermediate,4.0.3,TRUE
+CisVTp3KGkg,2020-10-23T00:00:00Z,UC2xTk-SuqqIBYQw3Mpy011g,Intermediate R markdown,"Create polished documents from .Rmd files: Add in-text citations and a bibliography, and move code chunks out of the text and into a single appendix. Also learn how to knit to .html documents for sharing online.",https://i.ytimg.com/vi/CisVTp3KGkg/default.jpg,Devan McGranahan,174,5,0,0,0,",",intermediate,4.0.3,TRUE
+VBgibhxP5nk,2020-05-05T00:00:00Z,UCnbUMFlIRLaY7fwfSintWuQ,May Institute 2020 Online - Kylie Bemis: Intermediate R crash course for MS practitioners,"Presenter : Kylie Bemis - Lecturer, Northeastern University
+
+Links for material : https://docs.google.com/document/d/1mXX5bPGJUgBt5qZAItQ4Lrfp8PTEdR2vPuHFwKZJfSs/edit",https://i.ytimg.com/vi/VBgibhxP5nk/default.jpg,May Institute NEU,897,15,0,0,0,"May,Institute,targeted,proteomics,mass,spectrometry,metabolomics,small,molecule",intermediate,4.0.0,TRUE
+VsMwZt3zF9Q,2020-03-20T00:00:00Z,UCHUizTgZTPxBEsHHE0ueV_Q,Intermediate R - Functions,"This video is about function in R, the pieces that make up a function, why they are important to understand, and how to write your own simple functions.",https://i.ytimg.com/vi/VsMwZt3zF9Q/default.jpg,Tyson Barrett,90,5,0,0,0,"RStudio,rstats,functions",intermediate,3.6.3,TRUE
+h0W2oP5Csr8,2020-10-15T00:00:00Z,UCphRkPKsijM55kmmphXZLNw,Intermediate R: Utilities [Part 5 of 5] | SPRK 1 | UC Merced | October 8 2020,"Lecture: Intermediate R: Utilities [Part 5 of 5]
+Course: Spark Seminar 001: The Machine Learning Age
+DataCamp: https://learn.datacamp.com/courses/intermediate-r
+
+For more scholarly content: 
+
+Links to my publications:
+
+https://scholar.google.com/citations?user=jEGe8qAAAAAJ
+
+https://ucmerced.academia.edu/AdamCroom
+
+Link to my editorial and peer-review record:
+
+https://publons.com/researcher/195705/adam-m-croom/peer-review
+
+Link to my teaching evaluations:
+
+https://doctorcroom.com/teaching-evaluations 
+
+Link to a list of scholarly publications citing my work: 
+
+https://doctorcroom.com/citations",https://i.ytimg.com/vi/h0W2oP5Csr8/default.jpg,Dr. Adam M. Croom,571,7,0,0,0,",",intermediate,4.0.3,TRUE
+shnFIdF6pSE,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 1,"Part 1 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+Getting started
+Setting up your workspace
+RStudio console
+The environment
+Reproducible research",https://i.ytimg.com/vi/shnFIdF6pSE/default.jpg,Research Software Workshops,75,2,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+qaDIAJRoGGQ,2018-03-02T00:00:00Z,UCfGUFz6EG5gBfRt8-du0jaA,Intermediate R Lesson,NA,https://i.ytimg.com/vi/qaDIAJRoGGQ/default.jpg,UofT Coders,669,5,1,0,0,"#hangoutsonair,Hangouts On Air,#hoa",intermediate,3.4.4,TRUE
+Qx3U9uGN50c,2020-04-18T00:00:00Z,UC79Gv3mYp6zKiSwYemEik9A,R Tutorial : Intermediate Functional Programming with purrr,"Want to learn more? Take the full course at https://learn.datacamp.com/courses/intermediate-functional-programming-with-purrr at your own pace. More than a video, you'll learn hands-on coding & quickly apply skills to your daily work.
+
+---
+
+Hello and welcome to this course on programming with purrr.
+
+I'm Colin Fay; I'm a data scientist and R hacker. As you can only hear me, here is a picture of me drinking coffee.
+
+A big part of my day job is writing R code, and I use purrr to help me optimize my workflow.
+Notably, I use purrr for writing functions, which is what you'll do in this course.
+
+Before starting this course, make sure you've got some basic knowledge of iteration using purrr.
+If you're not familiar with it, here are some great resources that can help you learn about iteration with purrr.
+
+If you're already familiar iterating with purrr, you can start this course right now!
+
+Almost every iteration process has two sides. The first are the elements we iterate over. The second is the function we apply to each element. purrr follows this format.
+
+The first purrr function everyone learns is the map() function. map() has two elements. First, .x, which is the object we are iterating over — this object can either be a vector, a list, or a data frame.
+
+The second part includes .f and the dot dot dot argument, which represents the functional part of the iteration. It's the description of what happens to each element of the object.
+In this course, you'll learn how to deal with the second half of the basic purrr skeleton: the .f and dot dot dot arguments.
+
+For this course, I have extracted three lists from a dataset taken from the open data portal of the French city of St. Malo.
+
+This dataset gathers a count of the number of visits on the website saint-malo.fr.
+
+Each of these newly created lists is a year: 2014, 2015, and 2016. Each contains 12 sublists corresponding to months. Each month is a vector with the number of website visits per day.
+
+These list objects are an extraction of the full dataset. This list format is one you regularly encounter when querying data on the web, notably when you have to deal with the JSON format, which is parsed as a nested list in R.
+
+Let's start with a refresher of purrr basic functions using these three lists. 
+
+First, let's see the map() function, that runs the .f function on each element of .x, and always returns a list. Here, we are mapping the sum() function on the list visit_2015.
+
+One strength of purrr is that it is type stable, which means that you always know upfront the class of the output. Here, for example, we are using the map_dbl() function, which does the same operation as map(), but the output is different. As you can see, the result is a numeric vector rather than a list.
+
+
+Let's now imagine we want to add visits from 2015 and 2016. To do this, I can use the map2() function to get a list, and its counterpart map2_dbl() to get a vector of numeric.
+
+What if we want to do the same computation as the one previous slide, but with three lists? In purrr, there is no map3(), map4(), et cetera. If you want to map over more than two elements, you'll need to pass a list of elements to the pmap() function. 
+
+To iterate over elements in three or more lists, you'll need to put all these lists into another list and pass this ""master list"" as the first argument of pmap().
+
+Now it's your turn to refresh your purrr memory!
+
+
+#DataCamp #RTutorial #IntermediateFunctionalProgrammingwithpurrr #Programmingwithpurrr",https://i.ytimg.com/vi/Qx3U9uGN50c/default.jpg,DataCamp,2141,17,4,0,0,"Intermediate Functional Programming with purrr,Programmingwithpurrr,R programming,data science,data analysis,learn R,R tutorial,data,big data,R for data science,R for data analysis,data science tutorial,data analysis tutorial,DataCamp,R Tutorial,want to learn R,Data Science,how to learn data science,Intermediate Tidyverse Toolbox,lambda functions",intermediate,4.0.0,TRUE
+jdMOmg9SMEc,2017-03-30T00:00:00Z,UCfGUFz6EG5gBfRt8-du0jaA,Intermediate Topics in R,"A live-coding demo of using regular expressions, the package ""forcats"", and the package ""stringr"" in R.
+https://uoftcoders.github.io/studyGroup/lessons/r/intermediate/lesson/",https://i.ytimg.com/vi/jdMOmg9SMEc/default.jpg,UofT Coders,1712,12,0,0,2,"uoftcoders,mozilla,studygroup,sciencelab,coding,programming,rstats,forcats,stringr,regex,#hangoutsonair,Hangouts On Air,#hoa,#hangoutsonair,Hangouts On Air,#hoa",intermediate,3.3.3,TRUE
+ry3Y3HrbAc4,2019-01-12T00:00:00Z,UC__R9FY_5BiCunWWfUPrGng,My Review of DataCamp: Intermediate R. [HD],Questions? Tips? Comments? Like me! Subscribe!,https://i.ytimg.com/vi/ry3Y3HrbAc4/default.jpg,Mr. Math Expert,314,3,2,0,0,"r programming,datacamp,the book of r,r in action,data science,data analytics,review,how to,intermediate r",intermediate,3.5.2,TRUE
+Df86Ul00dfo,2021-04-18T00:00:00Z,UCxcXOJV431MCVitRAf6bZ8A,Intermediate Data Visualization in R,NA,https://i.ytimg.com/vi/Df86Ul00dfo/default.jpg,Big Data & Analytics Association,23,1,0,0,0,"Data Analytics,Big Data,Data Visualization,Data Analysis,Rstudio,BDAA,Visualization",intermediate,4.0.5,TRUE
+SS4ZGImDDa4,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 6,"Part 6 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+Tidyverse
+Loading the tidyverse
+Tibbles and readr",https://i.ytimg.com/vi/SS4ZGImDDa4/default.jpg,Research Software Workshops,35,1,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+gj026rT0vlY,2020-09-18T00:00:00Z,UCVbfSvtfcHHrstfK0YS7K0Q,Biol 190: Intermediate R Skills,NA,https://i.ytimg.com/vi/gj026rT0vlY/default.jpg,Rebecca Clark,175,0,0,0,0,",",intermediate,4.0.2,TRUE
+8fRNehdDF3c,2021-04-11T00:00:00Z,UCxcXOJV431MCVitRAf6bZ8A,Intermediate Data Manipulation in R,NA,https://i.ytimg.com/vi/8fRNehdDF3c/default.jpg,Big Data & Analytics Association,39,0,0,0,0,",",intermediate,4.0.5,TRUE
+o79tkUKMzgw,2020-12-01T00:00:00Z,UCehWMFraLXk-BZYI61s2HDA,WWEN Intermediate R Lecture-Ghosh,Intermediate R Workshop hosted by Rohini Ghosh from the University of Wyoming for WWEN.,https://i.ytimg.com/vi/o79tkUKMzgw/default.jpg,UW Economics,37,0,0,0,0,",",intermediate,4.0.3,TRUE
+fu-7l-JTjQc,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 4,"Part 4 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+Functions
+Writing your own functions
+Scaffolding
+Errors",https://i.ytimg.com/vi/fu-7l-JTjQc/default.jpg,Research Software Workshops,40,1,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+Oqj_whSwIZg,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 2,"Part 2 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+String formatting
+C-style and sprintf
+Writing to a file",https://i.ytimg.com/vi/Oqj_whSwIZg/default.jpg,Research Software Workshops,51,2,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+Thqm40zA0GE,2020-10-24T00:00:00Z,UCxybW2TOok6O-dyqYfmVhhA,R2 - R Intermediate: Data Visualisation with ggplot2,"This video covers Data Visualisation with ggplot2
+
+Follow Us on Social Media:
+
+Website: www.cypheranalytica.com
+
+Facebook:  https://www.facebook.com/cypheranalytica
+
+Instagram: https://www.instagram.com/cypheranalytica/
+
+Twitter: https://twitter.com/AnalyticaCypher
+
+Linkedin: https://www.linkedin.com/company/cypheranalytica/",https://i.ytimg.com/vi/Thqm40zA0GE/default.jpg,Cypher Analytica,73,1,0,0,0,"Parmar Sir,Statistics,Probability,Data Analytics,Data Science,R Programming,R studio,Inferential Analysis,Descritptive Analysis,Cypher Analytica,Mean,median,measure of central tendency,measure of dispersion,quartile deviation,mean absolute deviation,correlation analysis,regression analysis,hypothesis testing,t-test,chi square test,parametric test,non parametric test,python,Anaconda,Machine Learning,Data Analysis,Artificial Intelligence",intermediate,4.0.3,TRUE
+IyMF1gSkx_A,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 5,"Part 5 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+data.frame
+Reading data tables from files",https://i.ytimg.com/vi/IyMF1gSkx_A/default.jpg,Research Software Workshops,29,1,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+8FGjvyLT45Y,2020-04-12T00:00:00Z,UC79Gv3mYp6zKiSwYemEik9A,R Tutorial : Intermediate Portfolio Analysis in R,"Want to learn more? Take the full course at https://learn.datacamp.com/courses/intermediate-portfolio-analysis-in-r at your own pace. More than a video, you'll learn hands-on coding & quickly apply skills to your daily work.
+
+---
+
+Hi, I am Ross Bennett. I am an analyst on a trading desk at a proprietary trading firm in Chicago. I am the co-author of PortfolioAnalytics and contribute to several other R packages used in finance. This course will build on the fundamental concepts from the Introduction to Portfolio Analysis in R course. We will explore more advanced concepts in the portfolio optimization process such as complex constraint and objective sets, methods for estimating moments, optimization with periodic rebalancing (also referred to as backtesting), and visualizations to better understand the optimization problem. The focus of the course is to use the PortfolioAnalytics package to solve portfolio optimization problems that mirror real-world applications.
+
+Although Modern Portfolio Theory was introduced over 60 years ago, it establishes a framework for defining and evaluating objectives. In the Modern Portfolio Theory framework, the optimal portfolio for an investor to hold is the portfolio that maximizes portfolio expected return for a given level of risk. The academic approach follows the Markowitz approach using mean return as a measure of gain and standard deviation of returns as a measure of risk. However, most real-world problems consider different measures of risk as well as multiple objectives and constraints. In this course, you will explore both the standard Markowitz approach and more complex problems similar to what you will encounter in industry.
+
+Let's begin with an example to demonstrate how you can use PortfolioAnalytics to solve a portfolio problem using the Modern Portfolio Theory framework to maximize mean return and minimize standard deviation. You start with loading the PortfolioAnalytics library and a sample dataset. In the example in this video, you will use the first 8 columns of the edhec dataset. The edhec dataset contains monthly returns of the EDHEC composite hedge fund style index returns. You can create the portfolio specification object by initializing it with the column names of the dataset as the asset names. Now you add two constraints to the portfolio specification, full investment and long only constraints. The full investment constraint means that the weights must sum to 1. The long only constraint means that all weights must be positive. You have two objectives in the portfolio problem, one to maximize portfolio mean return and one to minimize portfolio standard deviation. For the mean return objective, the objective type is ""return"" because you want to maximize the objective. The objective name is ""mean"" for portfolio mean return. For the standard deviation risk objective, the objective type is ""risk"" because you want to minimize the objective. The objective name is ""StdDev"" for portfolio standard deviation. Don't worry if this is a lot to take in for now, you will see plenty of other examples in this course!
+
+Now you can print the portfolio specification object to see a concise representation of the specification. You see the names of the assets in the portfolio, a list of the constraints and a list of the objectives. In this case, you can see the portfolio specification consists of 8 assets, 2 constraints (full investment and long only), and 2 objectives (mean and standard deviation).
+
+In this slide, you can see how to run the optimization and visualize the results of the optimal portfolio. To run the optimization, call the function optimize.portfolio passing in the returns data, portfolio specification object, and optimization method. Note that you specify optimize_method = ""random"" to use the random portfolios algorithm to solve the problem. Also, note that you specify trace = TRUE. This stores the results of each iteration of the optimization. You can chart the optimal portfolio in terms of risk and reward with the chart.RiskReward function, passing in the optimization output, the objective names to use for risk and return, and TRUE or FALSE if you want to chart the assets. You can see this in the chart in the slide where the gray points are the objective values of a given iteration. Collectively, these portfolios form the feasible space, the set of portfolios that satisfy the specified constraints. Now, let's get started and have a look at some initial exercises.
+
+#DataCamp #RTutorial #IntermediatePortfolioAnalysisinR #PortfolioAnalysisinR",https://i.ytimg.com/vi/8FGjvyLT45Y/default.jpg,DataCamp,1873,11,3,0,1,"R programming,data science,data analysis,learn R,R tutorial,data,big data,R for data science,R for data analysis,data science tutorial,data analysis tutorial,DataCamp,R Tutorial,want to learn R,Data Science,how to learn data science,Intermediate Portfolio Analysis in R,Portfolio Analysis in R",intermediate,4.0.0,TRUE
+VsCnuMRZH4M,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 7,"Part 7 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+Forward pipes
+What is the forward pipe?",https://i.ytimg.com/vi/VsCnuMRZH4M/default.jpg,Research Software Workshops,24,1,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+jzB-llM9_ZQ,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 8,"Part 8 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+Summary
+What have you learned?
+What's next?",https://i.ytimg.com/vi/jzB-llM9_ZQ/default.jpg,Research Software Workshops,18,1,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+kQ9W3qaIT6I,2021-03-07T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,Loop through data frames (Intermediate Data Analysis in R #6),"In this video we look at how to loop through dataframes.
+
+For similar videos on data analysis and visualization, check out the links attached:
+
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+https://tinyurl.com/data-analysis-basics-in-R
+
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+
+# Intermediate Data Analysis in R
+
+FOR Loop: https://www.youtube.com/watch?v=0KABMWuqeBE
+
+WHILE Loop: https://www.youtube.com/watch?v=9D46709Y6UM 
+
+REPEAT Loop: https://www.youtube.com/watch?v=atovsm9ZmdM 
+
+NESTED FOR Loop: https://www.youtube.com/watch?v=uY8tFsCcRNg 
+
+Sequence with increments: https://www.youtube.com/watch?v=IWPrz4nLO0I 
+
+
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Violin plots in R: https://www.youtube.com/watch?v=t_nYM1QMlKM&t=15s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+Area plots using geom_area() function: https://www.youtube.com/watch?v=qUP7ARMCb1s&t=21s 
+
+Stacking area plots: https://www.youtube.com/watch?v=Vc0RpD4-B3E 
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Creating density plots using ggplot2: https://www.youtube.com/watch?v=c-q-nUg9ZX8 
+
+Stacked density plots: https://www.youtube.com/watch?v=9-TAhR-I_aE 
+
+Dot plots: https://www.youtube.com/watch?v=IzI6hVyV3mo 
+
+Stacked histograms: https://www.youtube.com/watch?v=-fra6YGsF-Q 
+
+Frequency plots: https://www.youtube.com/watch?v=Vy7JKGqYH9U 
+
+Ribbon plots: https://www.youtube.com/watch?v=5WL7dVd2GOY 
+
+Plotting labels and text: https://www.youtube.com/watch?v=g7taIO_-_zM 
+
+Flipped bar plots: https://www.youtube.com/watch?v=mPAU7J3S2KU&t=36s 
+
+Mirror histograms: https://www.youtube.com/watch?v=VHN7YPCvhz0&t=17s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove background color in plots: https://www.youtube.com/watch?v=I46topm2IOQ 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+Export multiple plots as pdf. https://www.youtube.com/watch?v=4YIW6DHgoko
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to import .txt file in R: https://www.youtube.com/watch?v=VGHFbITcuGw 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a column in R: https://www.youtube.com/watch?v=c5KRWZvY5VA 
+
+How to add a row in R: https://www.youtube.com/watch?v=WPA4rML0TBU 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+How to find duplicate values in R: https://www.youtube.com/watch?v=-ANbouAfkBE 
+
+Clear console in R Studio: https://www.youtube.com/watch?v=EK6tNthvRBg 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/kQ9W3qaIT6I/default.jpg,The Nomadic Owl,473,3,0,0,0,"looping through dataframes r,loop dataframes r,nesting loops r,nesting for loops r,nesting in r,for loops r,basic for loops,looping in r,loops r,for loops,types of loops,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+8hKo9Xa4cXk,2021-04-20T00:00:00Z,UCU5RsUGkVcPM9QvFHyKm1OQ,Ep20 - Intermediate JavaScript Course,"Check out https://acadea.io/learn for more content!
+Join my newsletter here to get the BEST updates: https://sendfox.com/acadea
+Support me on: https://www.buymeacoffee.com/acadea 
+
+Learn intermediate JavaScript in 2 hours. 
+
+This is a compilation of our ""JavaScript Digging Deeper"" Series: https://www.youtube.com/watch?v=N1YwmbpMIrA&list=PLSfH3ojgWsQqwkA8SvHRqWa6Rh6roNWzM&index=1
+
+This course assumes basic familiarity with JavaScript. If you are new to JavaScript, watch my other JavaScript Introductory series here: https://www.youtube.com/watch?v=N1YwmbpMIrA&list=PLSfH3ojgWsQqwkA8SvHRqWa6Rh6roNWzM
+
+
+Source code for this lesson:
+https://github.com/acadea/frontend_javascript_digging_deeper
+Subscribe for more: https://www.youtube.com/channel/UCU5RsUGkVcPM9QvFHyKm1OQ?sub_confirmation=1
+Lessons:
+00:00 L1: Why not Var?! Var vs Let vs Const
+07:02 L2: The ""This"" keyword
+11:26 L3: Arrow vs Normal Function
+15:39 L4: Closure and Higher Order Function
+20:22 L5: Callback
+25:33 L6: Promises, Async and Await
+37:57 L7: Manipulating Clipboard - Copy and Paste Text + Images
+44:03 L8: API and HTTP explained
+59:21 L9: API requests with Fetch
+01:10:54 L10: API requests with Postman
+01:13:57 L11: True nature of Object - Intro to references, spread and rest
+01:20:27 L12: Object and Array Destructuring
+01:23:56 L13: Programming Paradigms
+01:30:03 L14: Object Orientated Programming
+01:36:44 L15: Inheritance
+01:41:06 L16: Polymorphism
+01:44:51 L17: Why inheritance is bad | Intro to object composition
+01:51:09 L18: Prototype Explained in Simple English
+02:04:13 L19: Modules",https://i.ytimg.com/vi/8hKo9Xa4cXk/default.jpg,Acadea.io,5349,159,4,0,29,"javascript,intermediate,js,oop,functional,crashcourse",intermediate,4.0.5,FALSE
+6dEUTmoXz0w,2020-11-15T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Machine Learning With R | Machine Learning Full Course | Machine Learning Tutorial | Simplilearn,"In this video on Machine Learning with R, you will understand machine learning, applications of machine learning, and learn R programming. In this machine learning full course,  you will also understand machine learning algorithms, such as linear regression, logistic regression, decision tree, and random forest to name a few. 
+
+🔥Free Machine Learning Course: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearning&utm_medium=Description&utm_source=youtube
+
+Dataset Link - https://drive.google.com/drive/folders/1DeoJO7NdoZ56jAM_6ruuWYiroVbpy9wK
+
+The topics covered in this Machine Learning Tutorial video are:
+00:00:00  Introduction 
+00:00:57 Machine Learning Basics
+00:31:50 Machine Learning Applications
+00:13:41 R programming
+05:51:08  Linear Regression in R  
+06:20:14 Logistic Regression in R
+06:38:20  Decision Tree in R  
+07:22:28 Random Forest in R
+07:47:36  Support Vector Machine in R  
+08:24:41 Hierarchical Clustering in R
+08:48:33 Time Series Analysis in R
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+⏩ Check out the Machine Learning tutorial videos: https://bit.ly/3fFR4f4
+
+#MachineLearningWithR #MachineLearningFullCourse #MachineLearningTutorial #MachineLearning #SimplilearnMachineLearning #MachineLearningCourse
+
+Machine learning is a core sub-area of artificial intelligence; it enables computers to get into a mode of self-learning without being explicitly programmed. When exposed to new data, these computer programs are enabled to learn, grow, change, and develop by themselves. So, put simply, the iterative aspect of machine learning is the ability to adapt to new data independently. This is possible as programs learn from previous computations and use “pattern recognition” to produce reliable results. 
+
+R is a widely popular programming language in the field of machine learning. R is an open-source programming language used for statistical computing. It is one of the most popular programming languages today. R was inspired by S+, which is similar to the S programming language. R has various data structures and operators. It can be integrated with other programming languages like C, C++, Java, and Python.
+
+About Simplilearn's Machine Learning course:
+A form of artificial intelligence, Machine Learning is revolutionizing the world of computing as well as all people’s digital interactions. Machine Learning powers such innovative automated technologies as recommendation engines, facial recognition, fraud protection and even self-driving cars. This Machine Learning course prepares engineers, data scientists and other professionals with knowledge and hands-on skills required for certification and job competency in Machine Learning.
+
+What skills will you learn from this Machine Learning course?
+
+By the end of this Machine Learning course, you will be able to:
+1. Master the concepts of supervised, unsupervised and reinforcement learning concepts and modeling.
+2. Gain practical mastery over principles, algorithms, and applications of Machine Learning through a hands-on approach which includes working on 28 projects and one capstone project.
+3. Acquire thorough knowledge of the mathematical and heuristic aspects of Machine Learning.
+4. Understand the concepts and operation of support vector machines, kernel SVM, naive Bayes, decision tree classifier, random forest classifier, logistic regression, K-nearest neighbors, K-means clustering and more.
+5. Be able to model a wide variety of robust Machine Learning algorithms including deep learning, clustering, and recommendation systems
+
+👉Learn more at: https://www.simplilearn.com/big-data-and-analytics/machine-learning-certification-training-course?utm_campaign=MachineLearning&utm_medium=Description&utm_source=youtube
+
+For more updates on courses and tips follow us on:
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn
+- Website: https://www.simplilearn.com
+
+Get the Android app: http://bit.ly/1WlVo4u
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/6dEUTmoXz0w/default.jpg,Simplilearn,28386,670,13,0,54,"Machine Learning With R,Machine Learning Full Course,Machine Learning Tutorial,Machine Learning Algorithms,Data Science Training,machine learning tutorial for beginners,machine learning,data science,data science in r,machine learning projects,data science projects,classification in r,regression in r,clustering in r,r machine learning tutorial,r machine learning example,r machine learning projects,learn ml,machine learning Simplilearn,Simplilearn",intermediate,4.0.3,TRUE
+2Icv46ARaUA,2017-11-18T00:00:00Z,UCZl4NrvWxwjh7Ile52RaXYQ,Data Analysis with R and SPSS Syntax Intermediate Level 1,Data Analysis with R and SPSS Syntax Intermediate Level 1,https://i.ytimg.com/vi/2Icv46ARaUA/default.jpg,ChoiFran's Way,335,1,0,0,0,"#hangoutsonair,Hangouts On Air,#hoa",intermediate,3.4.3,TRUE
+NuZbPZp0dYs,2018-06-18T00:00:00Z,UCCn2iJFpFyIxMyv24vC5lFw,How to Learn to Code: THE INTERMEDIATE STAGE [2018],"Learning to code can be fun and easy starting out, then hitting that intermediate stage turns it into a world of difficulty and annoyance.
+LOTS OF HELP IN THE DESCRIPTION BELOW
+Follow your interests.
+
+[WIP]
+
+ADDITIONAL STUFF YOU CAN DO (don’t feel overwhelmed, there is no wrong path)
+
+- Learn functional programming. Languages like Scheme. It’s a completely different style of coding. Disclaimer: it might not have much application use to you right now, but will open up your mind to a new perspective.
+- Develop an Alexa Skill. They’re becoming quite popular.
+- Learn something new on Udacity that is more specific than just a programming language (artificial intelligence, REACT Developer, Python automation, natural language processing, virtual reality)
+
+PRACTICE & PREMADE RESOURCES
+There’s an endless amount of practice resources on the internet, you’ll just have to dig through to see what you like best. 
+- Reddit Daily Programmer https://www.reddit.com/r/dailyprogrammer/
+- HackerRank https://www.hackerrank.com/
+- Github Community Projects with Solutions https://github.com/karan/Projects-Solutions/blob/master/README.md
+- Learn by Doing: The 8 Best Interactive Coding Websites https://medium.com/coderbyte/learn-by-doing-the-8-best-interactive-coding-websites-4c902915287c
+- Coderbyte Challenges https://coderbyte.com/challenges
+
+DATA STRUCTURES
+Data Structures are also an abstract idea when learning to code, and they can be created in multiple languages. 
+- Hackr.io Most Upvoted Tutorials https://hackr.io/tutorials/learn-data-structures-algorithms
+- Data Structures & Algorithms in Python https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+
+APIs
+APIs allow you to plug into some of your favorite websites and applications and grab data from it to use in your own programs. I’ll link a few popular APIs below.
+- How to Use APIs: A Painless Introduction + Tutorials https://snipcart.com/blog/apis-integration-usage-benefits
+- Spotify Web API (since mentioned in the video) https://developer.spotify.com/documentation/web-api/
+- OpenWeatherMap API (to pull weather data from) https://www.openweathermap.org/api
+
+OBJECT-ORIENTED PROGRAMMING
+This is a pretty abstract idea, that multiple languages are based off (Java, Python, Ruby, C++, and more). It turns out that many beginner courses don’t actually take advantage building objects in object-oriented languages. Instead, they first teach you variables, loops, if-statements, etc… so it make sense. Now is the best time to practice 🙂 
+Due to the very abstractness of it, the resources I list may not cover everything.",https://i.ytimg.com/vi/NuZbPZp0dYs/default.jpg,Bread,12061,489,13,0,41,"how to,learn to code,the intermediate stage,2018,how to learn to code,how to code,medium difficulty,learn web development,learn app development,codecademy,github,git tutorial,how to use github,practice projects,coding practice,object oriented programming,alexa skill",intermediate,3.5.0,TRUE
+B9kzFp6CCDc,2021-05-27T00:00:00Z,UC4_hSKmvUG4w0w270AH5bXQ,UROC SURI_-_Intermediate R workshop,UROC SURI_-_Intermediate R workshop,https://i.ytimg.com/vi/B9kzFp6CCDc/default.jpg,Derek Sollberger,4,0,0,0,0,",",intermediate,4.1.0,TRUE
+iJl1DKb9rgo,2021-03-14T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,dplyr package – practicing key functions (Intermediate Data Analysis in R #12),"In this video we will be looking at some of the key functions available through dplyr package in R. 
+
+For similar videos on data analysis and visualization, check out the links attached:
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+https://tinyurl.com/data-analysis-basics-in-R
+
+Intermediate Data Analysis in R tutorial series: 
+https://tinyurl.com/intermediate-data-analysis-R 
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+# Intermediate Data Analysis in R
+
+FOR Loop: https://www.youtube.com/watch?v=0KABMWuqeBE
+
+WHILE Loop: https://www.youtube.com/watch?v=9D46709Y6UM 
+
+REPEAT Loop: https://www.youtube.com/watch?v=atovsm9ZmdM 
+
+NESTED FOR Loop: https://www.youtube.com/watch?v=uY8tFsCcRNg 
+
+loop through dataframes: https://www.youtube.com/watch?v=kQ9W3qaIT6I 
+
+Sequence with increments: https://www.youtube.com/watch?v=IWPrz4nLO0I 
+
+Adding columns using mutate and transmute (dplyr): https://www.youtube.com/watch?v=iXSWu5Ws90A 
+
+Subsetting rows and columns using filter and select (dplyr): https://www.youtube.com/watch?v=TLIBBaeFKos 
+
+Subsetting rows using slice function (dplyr): https://www.youtube.com/watch?v=D03N0DeFwV8 
+
+Summarize and arrange: https://www.youtube.com/watch?v=3bXSm9YeVuE 
+
+Number and size of groups: https://www.youtube.com/watch?v=HPpsC2TE36M 
+
+
+----------------------------------------
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/iJl1DKb9rgo/default.jpg,The Nomadic Owl,51,4,0,0,0,"dplyr r,subset rows r,filter rows r,select columns r,dplyr functions r,column names r,dplyr package r,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+qVo1jpjBxZg,2019-10-10T00:00:00Z,UC6WlO0bsUzvYSFdd7pcDU4w,Día 6: Bioinformatics: Genome assembly and intermediate R commands (1/4),"Practical session: Kmer analysis and characterization of the genome (by Juan Montenegro). 
+Practical session: Genome assembly (by Juan Montenegro).",https://i.ytimg.com/vi/qVo1jpjBxZg/default.jpg,Inia Peru,429,4,0,0,0,",",intermediate,3.6.1,TRUE
+IG_ta5DjQ3U,2020-11-18T00:00:00Z,UCfDuhGAV0il-cDMcQ-fbZ8Q,Intermediate R: Part 3,"Part 3 of the Intermediate R workshop (https://chryswoods.com/intermediate_r).
+
+Packages and CRAN
+Using a package
+CRAN
+Updating packages",https://i.ytimg.com/vi/IG_ta5DjQ3U/default.jpg,Research Software Workshops,35,1,0,0,0,"RSE,Programming,Data Science,Research Software Engineering",intermediate,4.0.3,TRUE
+iXSWu5Ws90A,2021-03-11T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,dplyr package - mutate and transmute (Intermediate Data Analysis in R #7),"In this video, we will look at the transmute and mutate functions within dplyr package in R. These functions can be used for adding new columns.
+
+For similar videos on data analysis and visualization, check out the links attached:
+
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+https://tinyurl.com/data-analysis-basics-in-R
+
+Intermediate Data Analysis in R tutorial series: 
+https://tinyurl.com/intermediate-data-analysis-R 
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+
+# Intermediate Data Analysis in R
+
+FOR Loop: https://www.youtube.com/watch?v=0KABMWuqeBE
+
+WHILE Loop: https://www.youtube.com/watch?v=9D46709Y6UM 
+
+REPEAT Loop: https://www.youtube.com/watch?v=atovsm9ZmdM 
+
+NESTED FOR Loop: https://www.youtube.com/watch?v=uY8tFsCcRNg 
+
+loop through dataframes: https://www.youtube.com/watch?v=kQ9W3qaIT6I 
+
+Sequence with increments: https://www.youtube.com/watch?v=IWPrz4nLO0I 
+
+
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Violin plots in R: https://www.youtube.com/watch?v=t_nYM1QMlKM&t=15s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+Area plots using geom_area() function: https://www.youtube.com/watch?v=qUP7ARMCb1s&t=21s 
+
+Stacking area plots: https://www.youtube.com/watch?v=Vc0RpD4-B3E 
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Creating density plots using ggplot2: https://www.youtube.com/watch?v=c-q-nUg9ZX8 
+
+Stacked density plots: https://www.youtube.com/watch?v=9-TAhR-I_aE 
+
+Dot plots: https://www.youtube.com/watch?v=IzI6hVyV3mo 
+
+Stacked histograms: https://www.youtube.com/watch?v=-fra6YGsF-Q 
+
+Frequency plots: https://www.youtube.com/watch?v=Vy7JKGqYH9U 
+
+Ribbon plots: https://www.youtube.com/watch?v=5WL7dVd2GOY 
+
+Plotting labels and text: https://www.youtube.com/watch?v=g7taIO_-_zM 
+
+Flipped bar plots: https://www.youtube.com/watch?v=mPAU7J3S2KU&t=36s 
+
+Mirror histograms: https://www.youtube.com/watch?v=VHN7YPCvhz0&t=17s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove background color in plots: https://www.youtube.com/watch?v=I46topm2IOQ 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+Export multiple plots as pdf. https://www.youtube.com/watch?v=4YIW6DHgoko
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to import .txt file in R: https://www.youtube.com/watch?v=VGHFbITcuGw 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a column in R: https://www.youtube.com/watch?v=c5KRWZvY5VA 
+
+How to add a row in R: https://www.youtube.com/watch?v=WPA4rML0TBU 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+How to find duplicate values in R: https://www.youtube.com/watch?v=-ANbouAfkBE 
+
+Clear console in R Studio: https://www.youtube.com/watch?v=EK6tNthvRBg 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/iXSWu5Ws90A/default.jpg,The Nomadic Owl,34,4,0,0,0,"adding columns r,mutate function dplyr,transmute dplyr,dplyr package r,dplyr add columns r,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+uY8tFsCcRNg,2021-03-07T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,Simple nested FOR LOOPs (Intermediate Data Analysis in R #5),"Today’s video is gonna be on the topic “simple NESTED FOR Loops”. 
+For similar videos on data analysis and visualization, check out the links attached:
+
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+https://tinyurl.com/data-analysis-basics-in-R
+
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+
+# Intermediate Data Analysis in R
+
+FOR Loop: https://www.youtube.com/watch?v=0KABMWuqeBE
+
+WHILE Loop: https://www.youtube.com/watch?v=9D46709Y6UM 
+
+REPEAT Loop: https://www.youtube.com/watch?v=atovsm9ZmdM 
+
+Sequence with increments: https://www.youtube.com/watch?v=IWPrz4nLO0I 
+
+
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Violin plots in R: https://www.youtube.com/watch?v=t_nYM1QMlKM&t=15s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+Area plots using geom_area() function: https://www.youtube.com/watch?v=qUP7ARMCb1s&t=21s 
+
+Stacking area plots: https://www.youtube.com/watch?v=Vc0RpD4-B3E 
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Creating density plots using ggplot2: https://www.youtube.com/watch?v=c-q-nUg9ZX8 
+
+Stacked density plots: https://www.youtube.com/watch?v=9-TAhR-I_aE 
+
+Dot plots: https://www.youtube.com/watch?v=IzI6hVyV3mo 
+
+Stacked histograms: https://www.youtube.com/watch?v=-fra6YGsF-Q 
+
+Frequency plots: https://www.youtube.com/watch?v=Vy7JKGqYH9U 
+
+Ribbon plots: https://www.youtube.com/watch?v=5WL7dVd2GOY 
+
+Plotting labels and text: https://www.youtube.com/watch?v=g7taIO_-_zM 
+
+Flipped bar plots: https://www.youtube.com/watch?v=mPAU7J3S2KU&t=36s 
+
+Mirror histograms: https://www.youtube.com/watch?v=VHN7YPCvhz0&t=17s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove background color in plots: https://www.youtube.com/watch?v=I46topm2IOQ 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+Export multiple plots as pdf. https://www.youtube.com/watch?v=4YIW6DHgoko
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to import .txt file in R: https://www.youtube.com/watch?v=VGHFbITcuGw 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a column in R: https://www.youtube.com/watch?v=c5KRWZvY5VA 
+
+How to add a row in R: https://www.youtube.com/watch?v=WPA4rML0TBU 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+How to find duplicate values in R: https://www.youtube.com/watch?v=-ANbouAfkBE 
+
+Clear console in R Studio: https://www.youtube.com/watch?v=EK6tNthvRBg 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/uY8tFsCcRNg/default.jpg,The Nomadic Owl,79,6,0,0,0,"nesting loops r,nesting for loops r,nesting in r,for loops r,basic for loops,looping in r,loops r,for loops,types of loops,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+HPpsC2TE36M,2021-03-14T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,dplyr package – number and size of groups (Intermediate Data Analysis in R #11),"In this video we will try to calculate the number and size of groups within dplyr package in R. 
+
+For similar videos on data analysis and visualization, check out the links attached:
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+https://tinyurl.com/data-analysis-basics-in-R
+
+Intermediate Data Analysis in R tutorial series: 
+https://tinyurl.com/intermediate-data-analysis-R 
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+# Intermediate Data Analysis in R
+
+FOR Loop: https://www.youtube.com/watch?v=0KABMWuqeBE
+
+WHILE Loop: https://www.youtube.com/watch?v=9D46709Y6UM 
+
+REPEAT Loop: https://www.youtube.com/watch?v=atovsm9ZmdM 
+
+NESTED FOR Loop: https://www.youtube.com/watch?v=uY8tFsCcRNg 
+
+loop through dataframes: https://www.youtube.com/watch?v=kQ9W3qaIT6I 
+
+Sequence with increments: https://www.youtube.com/watch?v=IWPrz4nLO0I 
+
+Adding columns using mutate and transmute (dplyr): https://www.youtube.com/watch?v=iXSWu5Ws90A 
+
+Subsetting rows and columns using filter and select (dplyr): https://www.youtube.com/watch?v=TLIBBaeFKos 
+
+Subsetting rows using slice function (dplyr): https://www.youtube.com/watch?v=D03N0DeFwV8 
+
+Summarize and arrange: https://www.youtube.com/watch?v=3bXSm9YeVuE 
+
+
+----------------------------------------
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/HPpsC2TE36M/default.jpg,The Nomadic Owl,30,3,0,0,0,"Key words: dplyr r,group size r,group number r,distinct r,column names r,dplyr package r,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+lxq_46nY43g,2017-05-02T00:00:00Z,UCYUPLUCkMiUgiyVuluCc7tQ,"Intermediate Excel Skills, Tips, and Tricks Tutorial","Here's my entire playlist of Excel tutorials: http://bit.ly/tech4excel
+Learn many of the intermediate skills, tips, and tricks that you'll need in order to be able to use Excel effectively.  This is the second of several video tutorials on Excel.  Please consider watching my other video:  The Beginner's Guide to Excel.  In this intermediate video you'll learn some advanced formatting tools such as conditional formatting, how to save time by using the Autofill Handle, the basics of formulas and functions, sorting and filtering, and a few random useful tips such as Freeze Panes. Find my whole Excel playlist here: http://bit.ly/tech4excel
+***Consider supporting Technology for Teachers and Students on Patreon***:  https://www.patreon.com/technologyforteachersandstudents Here's the practice file that goes with the video: http://bit.ly/intermexcel
+
+Click below for more information about some of the movies mentioned in this tutorial:
+Dirty Rotten Scoundrels: http://amzn.to/2xTpck1
+The Princess Bride:  http://amzn.to/2yk3tDc
+Ladyhawke:  http://amzn.to/2xOhLsA
+Stardust: http://amzn.to/2yjJvs9
+Young Sherlock Holmes: http://amzn.to/2xaJJNv
+Mystery Men: http://amzn.to/2yRmQ3r",https://i.ytimg.com/vi/lxq_46nY43g/default.jpg,Technology for Teachers and Students,4617704,79236,1074,0,2227,"Intermediate excel,freeze panes excel,Conditional formatting,conditional formatting in excel,excel tutorial,excel 2016 tutorial,excel 2016,google sheets,google sheets tutorial,sorting in excel,filtering in excel,freeze panes in excel,format painter excel,formulas in excel,excel formulas,excel functions,basic excel functions,learn excel,how to use excel,excel help,excel tips,excel tricks,mid-level excel,tech excel tutorials",intermediate,3.4.0,FALSE
+-ETQ97mXXF0,2019-08-18T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,Data Science Full Course - Learn Data Science in 10 Hours | Data Science For Beginners | Edureka,"🔥 Data Science Master Program (Use Code ""𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎""): https://www.edureka.co/masters-program/data-scientist-certification
+This Edureka Data Science Full Course video will help you understand and learn Data Science Algorithms in detail. This Data Science Tutorial is ideal for both beginners as well as professionals who want to master Data Science Algorithms. Below are the topics covered in this Data Science for Beginners tutorial video:
+00:00 Agenda
+2:44 Introduction to Data Science
+9:55 Data Analysis at Walmart
+13:20 What is Data Science?
+14:39 Who is a Data Scientist?
+16:50 Data Science Skill Set
+21:51 Data Science Job Roles
+26:58 Data Life Cycle
+30:25 Statistics & Probability
+34:31 Categories of Data
+34:50 Qualitative Data
+36:09 Quantitative Data
+39:11 What is Statistics?
+41:32 Basic Terminologies in Statistics
+   42:50 Sampling Techniques
+   45:31 Random Sampling
+   46:20 Systematic Sampling
+   46:50 Stratified Sampling
+47:54 Types of Statistics
+50:38 Descriptive Statistics
+55:52 Measures of Spread
+   55:56 Range 
+   56:44 Inter Quartile Range
+   58:58 Variance
+   59:36 Standard Deviation
+1:14:25 Confusion Matrix
+1:19:16 Probability
+1:24:14 What is Probability?
+1:27:13 Types of Events
+1:27:58 Probability Distribution
+1:28:15 Probability Density Function
+1:30:02 Normal Distribution
+1:30:51 Standard Deviation & Curve
+1:31:19 Central Limit Theorem
+1:33:12 Types of Probablity
+   1:33:34 Marginal Probablity 
+   1:34:06 Joint Probablity 
+   1:34:58 Conditional Probablity 
+1:35:56 Use-Case
+1:39:46 Bayes Theorem
+1:45:44 Inferential Statistics
+1:56:40 Hypothesis Testing
+2:00:34 Basics of Machine Learning
+2:01:41 Need for Machine Learning 
+2:07:03 What is Machine Learning?
+2:09:21 Machine Learning Definitions
+2:!1:48 Machine Learning Process
+2:18:31 Supervised Learning Algorithm
+2:19:54 What is Regression?
+2:21:23 Linear vs Logistic Regression
+2:33:51 Linear Regression
+2:25:27 Where is Linear Regression used?
+2:27:11 Understanding Linear Regression
+2:37:00 What is R-Square?
+2:46:35 Logistic Regression
+2:51:22 Logistic Regression Curve
+2:53:02 Logistic Regression Equation
+2:56:21 Logistic Regression Use-Cases
+2:58:23 Demo
+3:00:57 Implement Logistic Regression
+   3:02:33 Import Libraries
+   3:05:28 Analyzing Data
+   3:11:52 Data Wrangling
+   3:23:54 Train & Test Data
+   3:20:44 Implement Logistic Regression
+3:31:04 SUV Data Analysis
+3:38:44 Decision Trees
+3:39:50 What is Classification?
+3:42:27 Types of Classification
+   3:42:27 Decision Tree
+   3:43:51 Random Forest
+   3:45:06 Naive Bayes
+   3:47:12 KNN
+3:49:02 What is Decision Tree?
+3:55:15 Decision Tree Terminologies
+3:56:51 CART Algorithm
+3:58:50 Entropy
+4:00:15 What is Entropy?
+4:23:52 Random Forest
+4:27:29 Types of Classifier
+4:31:17 Why Random Forest?
+4:39:14 What is Random Forest?
+4:51:26 How Random Forest Works?
+4:51:36 Random Forest Algorithm
+5:04:23 K Nearest Neighbour
+5:05:33 What is KNN Algorithm?
+5:08:50 KNN Algorithm Working
+5:14:55 kNN Example
+5:24:30 What is Naive Bayes?
+5:25:13 Bayes Theorem
+5:27:48 Bayes Theorem  Proof
+5:29:43 Naive Bayes Working
+5:39:06 Types of Naive Bayes
+5:53:37 Support Vector Machine
+5:57:40 What is SVM?
+5:59:46 How does SVM work?
+6:03:00 Introduction to Non-Linear SVM
+6:04:48 SVM Example
+6:06:12 Unsupervised Learning Algorithms - KMeans
+6:06:18 What is Unsupervised Learning?
+6:06:45 Unsupervised Learning: Process Flow
+6:07:17 What is Clustering?
+6:09:15 Types of Clustering
+6:10:15 K-Means Clustering
+6:10:40 K-Means Algorithm Working
+6:16:17 K-Means Algorithm
+6:19:16 Fuzzy C-Means Clustering  
+6:21:22 Hierarchical Clustering
+6:22:53 Association Clustering
+6:24:57 Association Rule Mining
+6:30:35 Apriori Algorithm
+6:37:45 Apriori Demo
+6:40:49 What is Reinforcement Learning?
+6:42:48 Reinforcement Learning Process
+6:51:10 Markov Decision Process
+6:54:53 Understanding Q - Learning
+7:13:12 Q-Learning Demo
+7:25:34 The Bellman Equation
+7:48:39 What is Deep Learning?
+7:52:53 Why we need Artificial Neuron?
+7:54:33 Perceptron Learning Algorithm
+7:57:57 Activation Function
+8:03:14 Single Layer Perceptron
+8:04:04 What is Tensorflow?
+8:07:25 Demo
+8:21:03 What is a Computational Graph?
+8:49:18 Limitations of Single Layer Perceptron
+8:50:08 Multi-Layer Perceptron
+8:51:24 What is Backpropagation?
+8:52:26 Backpropagation Learning Algorithm
+8:59:31 Multi-layer Perceptron Demo
+9:01:23 Data Science Interview Questions
+
+----------Edureka Data Science Training & Certifications------------
+
+🔵 Data Science Training using Python: http://bit.ly/2P2Qbl8
+
+🔵 Data Science Training using R: http://bit.ly/2u5Msw5
+
+🔵 Python Programming Training: http://bit.ly/2OYsVoE
+
+🔵Python Masters Program: https://bit.ly/3e640cY
+
+🔵 Machine Learning Course using Python: http://bit.ly/2SApG99
+
+🔵 Data Scientist Masters Program: http://bit.ly/39HLiWJ
+
+🔵 Machine Learning Engineer Masters Program: http://bit.ly/38Ch2MC
+
+For more information, please write back to us at sales@edureka.in or call us at IND: 9606058406 / US: 18338555775 (toll free).",https://i.ytimg.com/vi/-ETQ97mXXF0/default.jpg,edureka!,1814387,41152,513,0,450,"yt:cc=on,data science,Data Science full course,data science for beginners,data science course,data science tutorial,data science training,introduction to data science,data science tutorial for beginners,data scientist,what is data science,Learn Data Science,who is a data scientist,data science skills,statistics for data science,edureka,python data science tutorial,data science edureka,python edureka,machine learning edureka,Edureka data science",intermediate,3.6.1,TRUE
+9D46709Y6UM,2021-03-04T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,Basic WHILE Loops (Intermediate Data Analysis in R #2),"Today we gonna look at how a “WHILE Loop” works. Check out my yesterday’s video here, if you are interested in learning about FOR loop instead.
+
+https://www.youtube.com/watch?v=0KABMWuqeBE
+
+
+For similar videos on data analysis and visualization, check out the links attached:
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+
+https://tinyurl.com/data-analysis-basics-in-R
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Violin plots in R: https://www.youtube.com/watch?v=t_nYM1QMlKM&t=15s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+Area plots using geom_area() function: https://www.youtube.com/watch?v=qUP7ARMCb1s&t=21s 
+
+Stacking area plots: https://www.youtube.com/watch?v=Vc0RpD4-B3E 
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Creating density plots using ggplot2: https://www.youtube.com/watch?v=c-q-nUg9ZX8 
+
+Stacked density plots: https://www.youtube.com/watch?v=9-TAhR-I_aE 
+
+Dot plots: https://www.youtube.com/watch?v=IzI6hVyV3mo 
+
+Stacked histograms: https://www.youtube.com/watch?v=-fra6YGsF-Q 
+
+Frequency plots: https://www.youtube.com/watch?v=Vy7JKGqYH9U 
+
+Ribbon plots: https://www.youtube.com/watch?v=5WL7dVd2GOY 
+
+Plotting labels and text: https://www.youtube.com/watch?v=g7taIO_-_zM 
+
+Flipped bar plots: https://www.youtube.com/watch?v=mPAU7J3S2KU&t=36s 
+
+Mirror histograms: https://www.youtube.com/watch?v=VHN7YPCvhz0&t=17s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove background color in plots: https://www.youtube.com/watch?v=I46topm2IOQ 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+Export multiple plots as pdf. https://www.youtube.com/watch?v=4YIW6DHgoko
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to import .txt file in R: https://www.youtube.com/watch?v=VGHFbITcuGw 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a column in R: https://www.youtube.com/watch?v=c5KRWZvY5VA 
+
+How to add a row in R: https://www.youtube.com/watch?v=WPA4rML0TBU 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+How to find duplicate values in R: https://www.youtube.com/watch?v=-ANbouAfkBE 
+
+Clear console in R Studio: https://www.youtube.com/watch?v=EK6tNthvRBg 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/9D46709Y6UM/default.jpg,The Nomadic Owl,20,3,0,0,1,"while loops r,for and while loops,basic for loops,looping in r,loops r,for loops,types of loops,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+XKKSpPCT0BE,2019-10-16T00:00:00Z,UC6WlO0bsUzvYSFdd7pcDU4w,Día 6: Bioinformatics: Genome assembly and intermediate R commands (2/4),Practical session: Genome asembly (by Juan Montenegro). Practical session: Assembly quality assesment (by Juan Montenegro),https://i.ytimg.com/vi/XKKSpPCT0BE/default.jpg,Inia Peru,251,5,0,0,0,",",intermediate,3.6.1,TRUE
+D7YMSt2ntWY,2020-11-20T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Top 10 Programming Languages In 2021| Best Programming Languages To Learn In 2021 | Simplilearn,"🔥Explore our FREE Courses: https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=TopProgramming&utm_medium=DescriptionFirstFold&utm_source=youtube
+This Simplilearn video on ""Top 10 Programming Languages in 2021"" will take you through the most trending and demanding programming languages that you must learn to succeed in your career in 2021. These programming languages are expected to create a vast demand and open up many career opportunities in 2021. Let us know your list of Top 10 Programming Languages in 2021 in the comment section below.
+
+Top 10 Highest Paying jobs 2022: https://www.youtube.com/watch?v=tq9RojpSwuk&t=26s
+Top 10 Programming Languages to Learn in 2022: https://www.youtube.com/watch?v=Tck7MFXRQZg
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+✅ Check Out Our New Channel Exclusively for Coding: https://bit.ly/3eGepgQ
+
+⏩ Python programming: https://bit.ly/3jVU1KT
+⏩ Java Programming: https://bit.ly/31erBEK
+⏩ Javascript: https://bit.ly/3fiV3yz
+⏩ R Programming: https://bit.ly/38PEqtc
+
+#ProgrammingLanguages2021 #TopProgrammingLanguages2021 #BestProgrammingLanguagesToLearnIn2021 #PopularProgrammingLanguages2021 #Simplilearn
+
+Watch more trending videos:
+⏩Top 10 Programming Languages in 2021: https://www.youtube.com/watch?v=D7YMSt2ntWY
+⏩Top 10 Dying Programming Language in 2021: https://www.youtube.com/watch?v=wSIbbkl--ik
+⏩Top 10 Highest Paying Jobs in 2021: https://www.youtube.com/watch?v=ydZM192cnI4
+⏩Top 10 Certifications for 2021: https://www.youtube.com/watch?v=W-9jIVm0-p8
+⏩Top 10 Technologies to Learn in 2021: https://www.youtube.com/watch?v=vPk-H7Cu9Lo
+
+✅Explore our courses on programming
+
+✔️Java certification training course: https://bit.ly/35H1W9z
+✔️C# programming: https://bit.ly/3nBs2B1
+✔️Swift programming course: https://bit.ly/3lKRKCC
+✔️JavaScript certification training course: https://bit.ly/3kPQM76
+✔️Python training course: https://bit.ly/32WCADb
+
+Explore More Certification Courses from Simplilearn: https://bit.ly/2WdXkmB
+
+For more information about Simplilearn’s courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn
+- Website: https://www.simplilearn.com
+
+Get the Android app: http://bit.ly/1WlVo4u
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/D7YMSt2ntWY/default.jpg,Simplilearn,390407,10237,339,0,641,"top 10 programming languages 2021,top 10 programming languages,2021,programming,programming language,programming languages 2021,top 10 programming languages to learn in 2021,top programming languages 2021,programming languages,programming for beginners,best programming language,future programming languages,latest programming languages,latest programming languages to learn,top programming languages,learn programming,demanding programing languages,simplilearn",intermediate,4.0.3,TRUE
+rAxzR7lMGDM,2016-07-22T00:00:00Z,UC9IuUwwE2xdjQUT_LMLONoA,JuliaCon 2016 | Intermediate Level Julia (Workshop) | David Sanders,"The notebooks used in this session are available on github:
+
+https://github.com/dpsanders/hands_on_julia Visit http://julialang.org/ to download Julia. Time Stamps:
+
+00:00 Welcome!
+00:10 Help us add time stamps or captions to this video! See the description for details.
+
+Want to help add timestamps to our YouTube videos to help with discoverability? Find out more here: https://github.com/JuliaCommunity/YouTubeVideoTimestamps 
+
+Interested in improving the auto generated captions? Get involved here: https://github.com/JuliaCommunity/YouTubeVideoSubtitles",https://i.ytimg.com/vi/rAxzR7lMGDM/default.jpg,The Julia Programming Language,10462,131,1,0,0,"julia for data science,julia programming language tutorial,julia language,julia machine learning,julia jump,julia language tutorial,julia programming,julia programming tutorial,julia gui,julia dataframes,learn julia,computational sciences,julia,julia tutorial,julia introduction,julialang,julia intro,intro,julia lang,julia data science,language,julia programming language",intermediate,3.3.1,FALSE
+fAK5kIFyBFM,2021-07-04T00:00:00Z,UCKYzYTm1cnmc0CFAMhxDO8w,MQSS 2021 | Perseus intermediate tutorial | Daniela Ferretti,"!!!!!!!!!! If you use MaxQuant version v2.0.3.0 onwards, you have to download NET Core 3.1. (it has to be 3.1)
+https://dotnet.microsoft.com/download/dotnet/3.1
+
+Cox Lab website: https://www.biochem.mpg.de/cox
+MaxQuant Summer School website: https://www.maxquant.org/summer_school/
+MaxQuant twitter: https://twitter.com/maxquant
+Cox Lab twitter: https://twitter.com/TheCoxLab",https://i.ytimg.com/vi/fAK5kIFyBFM/default.jpg,Max Quant,1648,9,0,0,2,",",intermediate,4.1.0,FALSE
+2Sb1Gvo5si8,2018-08-15T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Linear Regression in R | Linear Regression in R With Example | Data Science Algorithms | Simplilearn,"This Linear regression in R video will help you understand what is linear regression, why linear regression, and linear regression in R with example. You will also look at a use case predicting the revenue of a company using multiple linear regression. Now, let's deep dive into this video and understand this data science algorithm.
+
+🔥 Enroll for FREE Machine Learning & Get your Completion Certificate:   https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearning&utm_medium=Description&utm_source=youtube
+
+Below topics are explained in this ""Linear Regression in R"" video:
+00:00  Introduction
+00:28  Why linear regression?
+03:09  What is linear regression?
+03:38  How linear regression works? 
+10:05  Use case - Predicting the revenue using linear regression 
+
+To learn more about Data Science, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1
+
+📚Linear Regression in R: https://bit.ly/2BJTB91
+
+You can also go through the Slides here: https://goo.gl/HBso29
+
+Watch more videos on Data Science: https://www.youtube.com/watch?v=0gf5iLTbiQM&list=PLEiEAq2VkUUIEQ7ENKU5Gv0HpRDtOphC6
+
+#LinearRegressionInR #LinearRegression #LinearRegressionInRWithExample #DataScienceAlgorithms #DataScienceWithR #DataScienceCourse #DataScience #DataScientist #MachineLearning
+
+What is Linear Regression?
+Linear Regression is the statistical model that is used to predict the relationship between independent and dependent variables by examining two factors. The first one is which variables, in particular, are significant predictors of the outcome variable and the second one is how significant is the regression line to make predictions with the highest possible accuracy. Linear regression is used in stock price prediction, weather forecasting, sales analysis, etc.
+
+Become an expert in data analytics using the R programming language in this data science certification training course. You’ll master data exploration, data visualization, predictive analytics and descriptive analytics techniques with the R language. With this data science course, you’ll get hands-on practice on R CloudLab by implementing various real-life, industry-based projects in the domains of healthcare, retail, insurance, finance, airlines, music industry, and unemployment.
+
+Why learn Data Science with R? 
+1. This course forms an ideal package for aspiring data analysts aspiring to build a successful career in analytics/data science. By the end of this training, participants will acquire a 360-degree overview of business analytics and R by mastering concepts like data exploration, data visualization, predictive analytics, etc
+2. According to marketsandmarkets.com, the advanced analytics market will be worth $29.53 Billion by 2019
+3. Wired.com points to a report by Glassdoor that the average salary of a data scientist is $118,709
+4. Randstad reports that pay hikes in the analytics industry are 50% higher than IT
+
+The Data Science Certification with R has been designed to give you in-depth knowledge of the various data analytics techniques that can be performed using R. The data science course is packed with real-life projects and case studies, and includes R CloudLab for practice.
+1. Mastering R language: The data science course provides an in-depth understanding of the R language, R-studio, and R packages. You will learn the various types of apply functions including DPYR, gain an understanding of data structure in R, and perform data visualizations using the various graphics available in R.
+2. Mastering advanced statistical concepts: The data science training course also includes various statistical concepts such as linear and logistic regression, cluster analysis and forecasting. You will also learn hypothesis testing.
+
+The Data Science with R is recommended for: 
+1. IT professionals looking for a career switch into data science and analytics
+2. Software developers looking for a career switch into data science and analytics
+3. Professionals working in data and business analytics
+4. Graduates looking to build a career in analytics and data science
+5. Anyone with a genuine interest in the data science field
+6. Experienced professionals who would like to harness data science in their fields
+
+Learn more at: https://www.simplilearn.com/big-data-and-analytics/data-scientist-certification-sas-r-excel-training?utm_campaign=Linear-Regression-in-R-2Sb1Gvo5si8&utm_medium=Description&utm_source=youtube
+
+For more information about Simplilearn courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/2Sb1Gvo5si8/default.jpg,Simplilearn,105563,1237,48,0,336,"linear regression in r,linear regression in r studio,linear regression in r with example,data science algorithms,data science with r,linear regression machine learning,linear regression in r step by step,linear regression in r programming,linear regression in r tutorial,linear regression analysis,linear regression statistics,linear regression,r programming for beginners,data science,data science tutorial,what is data science,data science simplilearn,simplilearn",intermediate,3.5.1,TRUE
+_8JMw7VATZA,2010-03-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,"Intermediate Java Tutorial - 13 - frequency, disjoint","Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/_8JMw7VATZA/default.jpg,thenewboston,104622,695,4,0,33,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+Wa_KLesqSoU,2021-06-19T00:00:00Z,UCLw9y_U2UjUrhShb98KA2OQ,Compiler Design || Lecture- 35|Intermediate-Code Generation|Three-Address Code: Quadruples &amp; Triples,"Compiler Design by Prof. R. Madana Mohana, Department of Computer Science and Engineering, BIET, Hyderabad
+
+Topic: Intermediate-Code Generation || Three-Address Code
+
+Outline:
+Three-Address Code
+• Addresses and Instructions
+• Quadruples
+• Triples
+• Indirect Triples
+• Static Single-Assignment Form
+
+Course Texts
+1. Aho, Lam, Sethi, Ullman. “Compilers: Principles, Techniques and Tools”, 2nd edition. (Aho2) 
+
+
+USEFUL LINKS:
+Udemy International Certificate course by Prof. R. Madana Mohana:
+
+1. Formal Languages and Automata Theory
+
+https://www.udemy.com/course/formal-languages-and-automata-theory-e/?referralCode=14D960864F5C5C67BD80
+
+2. Introduction to R Programming
+
+https://www.udemy.com/course/introduction-to-r-programming-w/?referralCode=DDA32DF87678620384C3
+
+Follow me on....
+
+LinkedIn:
+ 
+https://www.linkedin.com/in/dr-rasineni-madana-mohana/
+
+YouTube Channel Subscription:
+
+https://www.youtube.com/c/RASINENIMADANAMOHANA",https://i.ytimg.com/vi/Wa_KLesqSoU/default.jpg,RASINENI MADANA MOHANA,167,5,0,0,0,"Phases of compiler,Syntax-Directed Translation (SDT),Syntax-Directed Definitions (SDD),Inherited and Synthesized Attributes,Semantic Analysis,code generation,Syntax Trees,INTERMEDIATE-CODE GENERATION,Compiler Design,Variants of Syntax Trees,Static Checker,Intermediate Code Generator,intermediate code,type checking,Three-address code,Directed Acyclic Graph,DAG,buckets,Addresses and Instructions,Quadruples,Triples,Static Single-Assignment Form,Indirect Triples",intermediate,4.1.0,TRUE
+Wd4jfE-iNnE,2010-03-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 16 - HashSet,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/Wd4jfE-iNnE/default.jpg,thenewboston,162953,1089,23,0,96,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+YZcDTTc_VJM,2020-03-10T00:00:00Z,UC-AdvAxaagE9W2f0webyNUQ,Intermediate HCL: Configuration Languages in HCL2,"For those of you sitting between ""Hello World"" and HCL expert, there's a lot of ground to cover. Using examples and demos, this talk will walk through leveling up HCL knowledge from level 2 to level 7. -
+
+If you liked this video and want to see more from HashiCorp, subscribe to our channel: https://www.youtube.com/c/HashiCorp?sub_confirmation=1 
+
+To learn more, visit our hands-on interactive lab environment, HashiCorp Learn: https://learn.hashicorp.com/   
+
+HashiCorp is the leader in multi-cloud infrastructure automation software. The HashiCorp software suite enables organizations to adopt consistent workflows to provision, secure, connect, and run any infrastructure for any application. HashiCorp open source tools Vagrant, Packer, Terraform, Vault, Consul, Nomad, Boundary, and Waypoint are downloaded tens of millions of times each year and are broadly adopted by the Global 2000. Enterprise versions of these products enhance the open source tools with features that promote collaboration, operations, governance, and multi-data center functionality. 
+ 
+For more information, visit: www.hashicorp.com or follow us on social media: 
+Twitter: @hashicorp 
+LinkedIn: https://www.linkedin.com/company/hashicorp
+Facebook: https://www.facebook.com/HashiCorp",https://i.ytimg.com/vi/YZcDTTc_VJM/default.jpg,HashiCorp,3642,0,0,0,0,"HashiCorp,HCL,HashiCorp Terraform,Terraform,Nomad,Consul,Vault",intermediate,3.6.3,FALSE
+ME4k3U05RMo,2010-03-15T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 23 - Drawing an Oval with Slider,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/ME4k3U05RMo/default.jpg,thenewboston,108018,589,9,0,64,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+mIj8_PJXIvw,2021-06-22T00:00:00Z,UCLw9y_U2UjUrhShb98KA2OQ,Compiler Design || Lecture- 37 || Intermediate-Code Generation | Type Checking,"Compiler Design by Prof. R. Madana Mohana, Department of Computer Science and Engineering, BIET, Hyderabad
+
+Topic: Intermediate-Code Generation || Type Checking
+
+Outline:
+Type Checking
+. Rules for Type Checking
+. Type Conversions
+. Overloading of Functions and Operators
+. Type Inference and Polymorphic Functions
+. An Algorithm for Unification
+
+
+Course Texts
+1. Aho, Lam, Sethi, Ullman. “Compilers: Principles, Techniques and Tools”, 2nd edition. (Aho2) 
+
+
+USEFUL LINKS:
+Udemy International Certificate course by Prof. R. Madana Mohana:
+
+1. Formal Languages and Automata Theory
+
+https://www.udemy.com/course/formal-languages-and-automata-theory-e/?referralCode=14D960864F5C5C67BD80
+
+2. Introduction to R Programming
+
+https://www.udemy.com/course/introduction-to-r-programming-w/?referralCode=DDA32DF87678620384C3
+
+Follow me on....
+
+LinkedIn:
+ 
+https://www.linkedin.com/in/dr-rasineni-madana-mohana/
+
+YouTube Channel Subscription:
+
+https://www.youtube.com/c/RASINENIMADANAMOHANA",https://i.ytimg.com/vi/mIj8_PJXIvw/default.jpg,RASINENI MADANA MOHANA,368,6,0,0,0,"Phases of compiler,Syntax-Directed Translation (SDT),Syntax-Directed Definitions (SDD),Inherited and Synthesized Attributes,Semantic Analysis,code generation,Syntax Trees,Compiler Design,Intermediate Code Generator,Three-address code,Type Checking,Rules for Type Checking,Type Conversions,Overloading of Functions and Operators,Type Inference and Polymorphic Functions,An Algorithm for Unification,Type synthesis,Type inference,coercions",intermediate,4.1.0,TRUE
+WGJJIrtnfpk,2019-12-01T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka,"🔵Edureka Python Programming Certification Course (Use Code ""𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎""): https://www.edureka.co/python-programming-certification-training
+This Edureka video on Python Full Course will help you learn the Python programming language and its core concepts with examples from scratch. Below are the topics covered in this Python tutorial video:
+00:00 Introduction
+01:55 What is Python?
+03:40 Why is Python popular?
+04:55 Features of Python
+6:50 Where is Python used in the industry?
+7:50 Learning Path
+9:15 Career Opportunities
+10:30 How Netflix use Python?
+11:55 How does it use Python?
+18:15 Python Developer Salary
+18:50 Who is Python Developer?
+19:20 Python Developer Job Trends
+21:55 How to become a Python Developer?
+23:05 Who is a Python developer?
+33:50 Job Roles
+41:40 Emerging Job Roles
+44:30 Road Map
+47:05 Python Installation
+54:30 How to run a Python program?
+58:35 Best IDE for Python
+59:35 What is an IDE?
+59:50 Features of an IDE
+1:00:50 Best IDEs of Python
+1:07:40 PyCharm Tutorial
+1:07:42 Introduction to PyCharm
+1:09:07 Features of PyCharm
+1:28:02 Comments in Python
+1:28:52 What are Comments?
+1:29:47 When to use Python?
+1:30:22 How to write comments in Python?
+1:32:22 Types of Comments
+1:35:57 Docstring Comments
+1:39:02 Variables & Data Types
+1:39:17 Variable definition & Declaration
+1:41:22 Data Types
+1:41:42 Numbers
+1:43:12 String
+1:46:02 List
+1:48:12 Dictionary
+1:50:12 Tuple
+1:51:27 Set
+1:53:52 Type Conversion
+1:54:42 Python Collections
+1:57:12 Specialised Collections Data Types
+2:14:57 Arrays
+2:15:32 What is an Array?
+2:17:27 How to create Arrays in Python?
+2:20:52 Accessing Array Elements
+2:22:42 Basic Array Operations
+2:24:27 Adding elements to an Array
+2:27:52 Removing Elements of an Array
+2:33:42 Slicing an Array
+2:36:12 Looping through an Array
+2:39:57 Hash Table and HashMap
+2:41:37 Creating Dictionaries
+2:44:02 Nested dictionaries
+2:46:52 Performing Operations on Hash Table
+2:55:32 Operators in Python
+3:13:17 Loops in Python 
+3:13:52 Why to use Python?
+3:16:12 What are Loops?
+3:18:07 Loops in Python
+3:18:17 While Loop
+3:26:22 For Loop
+3:32:22 Nested Loop
+3:48:12 Patterns in Python
+4:24:27 File Handling
+4:25:07 Why need File Handling
+4:27:02 Types of Files
+4:28:37 What is File Handling?
+4:29:22 Python File Handling System
+4:32:52 File Operations for Reading
+4:41:27 Python File Write Method
+4:47:37 Decorator
+4:48:22 Functions in Python
+4:54:07 Decorators in Python
+5:08:32 Lambda
+5:10:17 How to write Anonymous functions?
+5:29:02 Map-Reduce Functions
+5:29:47 Introduction to map(), filter(), reduce()
+5:46:22 What are Generators?
+5:47:32 Normal functions vs Generators
+5:48:02 Writing Generators in Python
+5:52:57 Generators with Loops
+5:53:57 Generator Expressions
+5:56:22 Use-Cases
+6:02:27 OOPS Concepts
+6:03:07 Classes & Objects
+6:33:47 Inheritance in Python
+6:36:52 Types of Inheritance
+6:42:47 Python Super Function
+6:44:52 Exception Handling
+6:54:42 Try & Except block
+7:05:52 Python Module
+7:07:47 How to create a Module?
+7:17:33 Python Modules Search Path
+7:24:23 Date & Time
+7:24:58 time module
+7:38:23 Numpy
+7:38:58 What is Numpy?
+7:41:43 Numpy vs List
+7:49:03 Numpy Operations
+8:05:23 Numpy Special Functions
+8:09:58 SciPy
+8:10:48 What is Python SciPy?
+8:12:23 Basic Functions
+8:15:48 Special Functions
+8:18:53 Integration Functions
+8:24:43 Linear Algebra
+8:26:48 Interpolation Functions
+8:28:18 Pandas
+8:29:18 Data life-cycle
+8:31:23 What is Pandas?
+8:35:33 Pandas Operations
+8:54:13 Example
+8:59:38 Python for Statistics
+9:02:43 Pydoop
+9:04:03 Matplotlib
+9:04:28 Data Visualization
+9:09:13 Matplotlib
+9:10:13 Types of Plots
+9:30:13 Multiple Plots
+9:32:18 Seaborn
+9:32:53 Introduction to Seaborn
+9:33:33 Seaborn vs Matplotlib
+9:34:28 How to install Seaborn?
+9:34:48 Installing Dependencies
+9:35:33 Python Seaborn Functions
+9:44:23 Multi-Plot Grids
+9:47:08 Plot Aesthetics
+9:50:58 FIFA Use-case
+10:15:33 OpenCV Tutorial
+10:16:03 What is Computer Vision?
+10:16:48 How computer reads an Image?
+10:18:53 What is OpenCV?
+10:19:58 Basic operations with OpenCV
+10:27:33 Face Detection
+10:27:38 Face Detection using OpenCV
+10:31:53 Capturing Video
+10:43:28 Use-case - Motion Detector 
+10:54:58 Web Development Framework
+10:55:23 What are Frameworks in Python?
+11:08:34 Python Web Development
+11:09:04 Python Web Development Libraries
+11:09:24 Python & Django
+11:28:19 Web Scraping
+11:33:49 Packages used for web Scraping
+
+🔹Edureka Community: https://bit.ly/EdurekaCommunity
+🔹Edureka Python Tutorial Playlist: https://goo.gl/WsBpKe
+🔹Edureka Python Tutorial Blogs:  https://bit.ly/2ychSCq
+
+----------- Edureka Python Courses ------------
+🔵Python Programming Certification: http://bit.ly/37rEsnA
+🔵Python Certification Training for Data Science: http://bit.ly/2Gj6fux
+🔵Python Masters Program: https://bit.ly/2Yqpsmr
+🔵Data Scientist Masters Program: http://bit.ly/2t1snGM
+
+Got a question on the topic? Share in the comments.
+
+For more information, please write back to us at sales@edureka.in or call us at IND: 9606058406 / US: 18338555775 (toll-free).",https://i.ytimg.com/vi/WGJJIrtnfpk/default.jpg,edureka!,4125353,87535,1679,0,1095,"yt:cc=on,python tutorial,python,python for beginners,python tutorial for beginners,python full course,python programming,python (programming language),python programming language,learn python,edureka python,python training,python programming tutorial,learn python programming,python tutorials,python course,best python course,edureka,python from scratch,python edureka,python language,python basics,python tutorial 2021",intermediate,3.6.1,FALSE
+jU5ACV5MucM,2010-02-07T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 4 - Introduction to Collections,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/jU5ACV5MucM/default.jpg,thenewboston,434253,3132,70,0,231,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+GwIo3gDZCVQ,2019-09-22T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka,"🔥 Machine Learning Engineer Masters Program (Use Code ""𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎""): https://www.edureka.co/masters-program/machine-learning-engineer-training
+This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning Algorithms in detail. This Machine Learning Tutorial is ideal for both beginners as well as professionals who want to master Machine Learning Algorithms. Below are the topics covered in this Machine Learning Tutorial for Beginners video:
+00:00 Introduction
+2:47 What is Machine Learning?
+4:08 AI vs ML vs Deep Learning
+5:43 How does Machine Learning works?
+6:18 Types of Machine Learning
+6:43 Supervised Learning
+8:38 Supervised Learning Examples
+11:49 Unsupervised Learning
+13:54 Unsupervised Learning Examples
+16:09 Reinforcement Learning
+18:39 Reinforcement Learning Examples
+19:34 AI vs Machine Learning vs Deep Learning
+22:09 Examples of AI
+23:39 Examples of Machine Learning
+25:04 What is Deep Learning?
+25:54 Example of Deep Learning
+27:29 Machine Learning vs Deep Learning
+33:49 Jupyter Notebook Tutorial
+34:49 Installation
+50:24 Machine Learning Tutorial
+51:04 Classification Algorithm
+51:39 Anomaly Detection Algorithm
+52:14 Clustering Algorithm
+53:34 Regression Algorithm
+54:14 Demo: Iris Dataset
+1:12:11 Stats & Probability for Machine Learning
+1:16:16 Categories of Data
+1:16:36 Qualitative Data
+1:17:51 Quantitative Data 
+1:20:55 What is Statistics?
+1:23:25 Statistics Terminologies
+1:24:30 Sampling Techniques
+1:27:15 Random Sampling
+1:28:05 Systematic Sampling
+1:28:35 Stratified Sampling
+1:29:35 Types of Statistics
+1:32:21 Descriptive Statistics
+1:37:36 Measures of Spread
+1:44:01 Information Gain & Entropy
+1:56:08 Confusion Matrix
+2:00:53 Probability
+2:03:19 Probability Terminologies
+2:04:55 Types of Events
+2:05:35 Probability of Distribution
+2:10:45 Types of Probability
+2:11:10 Marginal Probability
+2:11:40 Joint Probability
+2:12:35 Conditional Probability
+2:13:30 Use-Case
+2:17:25 Bayes Theorem
+2:23:40 Inferential Statistics
+2:24:00 Point Estimation
+2:26:50 Interval Estimate
+2:30:10 Margin of Error
+2:34:20 Hypothesis Testing
+2:41:25 Supervised Learning Algorithms
+2:42:40 Regression
+2:44:05 Linear vs Logistic Regression
+2:49:55 Understanding Linear Regression Algorithm
+3:11:10 Logistic Regression Curve
+3:18:34 Titanic Data Analysis
+3:58:39 Decision Tree
+3:58:59 what is Classification?
+4:01:24 Types of Classification
+4:08:35 Decision Tree
+4:14:20 Decision Tree Terminologies
+4:18:05 Entropy
+4:44:05 Credit Risk Detection Use-case
+4:51:45 Random Forest
+5:00:40 Random Forest Use-Cases
+5:04:29 Random Forest Algorithm
+5:16:44 KNN Algorithm
+5:20:09 KNN Algorithm Working
+5:27:24 KNN Demo
+5:35:05 Naive Bayes
+5:40:55 Naive Bayes Working
+5:44:25Industrial Use of Naive Bayes
+5:50:25 Types of Naive Bayes
+5:51:25 Steps involved in Naive Bayes
+5:52:05 PIMA Diabetic Test Use Case
+6:04:55 Support Vector Machine
+6:10:20 Non-Linear SVM
+6:12:05 SVM Use-case
+6:13:30 k Means Clustering & Association Rule Mining  
+6:16:33 Types of Clustering
+6:17:34 K-Means Clustering
+6:17:59 K-Means Working
+6:21:54 Pros & Cons of K-Means Clustering
+6:23:44 K-Means Demo
+6:28:44 Hierarchical Clustering
+6:31:14 Association Rule Mining
+6:34:04 Apriori Algorithm
+6:39:19 Apriori Algorithm Demo
+6:43:29 Reinforcement Learning
+6:46:39 Reinforcement Learning: Counter-Strike Example
+6:53:59 Markov's Decision Process
+6:58:04 Q-Learning
+7:02:39 The Bellman Equation
+7:12:14 Transitioning to Q-Learning
+7:17:29 Implementing Q-Learning 
+7:23:33 Machine Learning Projects
+7:38:53 Who is a ML Engineer?
+7:39:28 ML Engineer Job Trends
+7:40:43 ML Engineer Salary Trends
+7:42:33 ML Engineer Skills
+7:44:08 ML Engineer Job Description
+7:45:53 ML Engineer Resume
+7:54:48 Machine Learning Interview Questions
+
+-----------Edureka Machine Learning Training ------------
+
+🔵 Machine Learning Course using Python: http://bit.ly/38BaJco
+
+🔵 Machine Learning Engineer Masters Program: http://bit.ly/2UYS46r
+
+🔵Python Masters Program: https://bit.ly/3cVibjY
+
+🔵 Python Programming Training: http://bit.ly/38ykZCg
+
+🔵 Data Scientist Masters Program: http://bit.ly/31ZsWOn
+
+PG in Artificial Intelligence and Machine Learning with NIT Warangal : https://www.edureka.co/post-graduate/machine-learning-and-ai
+
+🔴 Subscribe to our channel to get latest video updates: https://goo.gl/6ohpTV
+
+📌𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/edurekaupdates
+📌𝐓𝐰𝐢𝐭𝐭𝐞𝐫: https://twitter.com/edurekain
+📌𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: https://www.linkedin.com/company/edureka
+📌𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: https://www.instagram.com/edureka_learning/
+📌𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: https://www.facebook.com/edurekaIN/
+📌𝐒𝐥𝐢𝐝𝐞𝐒𝐡𝐚𝐫𝐞: https://www.slideshare.net/EdurekaIN
+📌𝐂𝐚𝐬𝐭𝐛𝐨𝐱: https://castbox.fm/networks/505?country=IN
+📌𝐌𝐞𝐞𝐭𝐮𝐩: https://www.meetup.com/edureka/
+📌𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲: https://www.edureka.co/community/
+
+Got a question on the topic? Please share it in the comment section below and our experts will answer it for you. 
+
+For more information, please write back to us at sales@edureka.in or call us at IND: 9606058406 / US: 18338555775 (toll-free).",https://i.ytimg.com/vi/GwIo3gDZCVQ/default.jpg,edureka!,1772052,34168,627,0,912,"yt:cc=on,Machine Learning Full Course,machine learning,Machine Learning tutorial,learn machine learning,machine learning for beginners,Machine Learning tutorial for beginners,learn machine learning with python,machine learning for beginner to advance,machine learning course,machine learning complete course,machine learning python,machine learning algorithms,machine learning projects,edureka,edureka machine learning,edureka data science,edureka python",intermediate,3.6.1,FALSE
+Sj2kCLjZZgk,2010-02-08T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 8 - Converting Lists to Arrays,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/Sj2kCLjZZgk/default.jpg,thenewboston,183618,1277,14,0,96,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+0KABMWuqeBE,2021-03-03T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,Basic FOR Loops (Intermediate Data Analysis in R #1),"Today we will be starting a new tutorial series ""Intermediate Data Analysis in R"" and this video is gonna be on “FOR Loops”.
+
+For similar videos on data analysis and visualization, check out the links attached:
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+
+https://tinyurl.com/data-analysis-basics-in-R
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Violin plots in R: https://www.youtube.com/watch?v=t_nYM1QMlKM&t=15s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+Area plots using geom_area() function: https://www.youtube.com/watch?v=qUP7ARMCb1s&t=21s 
+
+Stacking area plots: https://www.youtube.com/watch?v=Vc0RpD4-B3E 
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Creating density plots using ggplot2: https://www.youtube.com/watch?v=c-q-nUg9ZX8 
+
+Stacked density plots: https://www.youtube.com/watch?v=9-TAhR-I_aE 
+
+Dot plots: https://www.youtube.com/watch?v=IzI6hVyV3mo 
+
+Stacked histograms: https://www.youtube.com/watch?v=-fra6YGsF-Q 
+
+Frequency plots: https://www.youtube.com/watch?v=Vy7JKGqYH9U 
+
+Ribbon plots: https://www.youtube.com/watch?v=5WL7dVd2GOY 
+
+Plotting labels and text: https://www.youtube.com/watch?v=g7taIO_-_zM 
+
+Flipped bar plots: https://www.youtube.com/watch?v=mPAU7J3S2KU&t=36s 
+
+Mirror histograms: https://www.youtube.com/watch?v=VHN7YPCvhz0&t=17s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove background color in plots: https://www.youtube.com/watch?v=I46topm2IOQ 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+Export multiple plots as pdf. https://www.youtube.com/watch?v=4YIW6DHgoko
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to import .txt file in R: https://www.youtube.com/watch?v=VGHFbITcuGw 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a column in R: https://www.youtube.com/watch?v=c5KRWZvY5VA 
+
+How to add a row in R: https://www.youtube.com/watch?v=WPA4rML0TBU 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+How to find duplicate values in R: https://www.youtube.com/watch?v=-ANbouAfkBE 
+
+Clear console in R Studio: https://www.youtube.com/watch?v=EK6tNthvRBg 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/0KABMWuqeBE/default.jpg,The Nomadic Owl,153,11,0,0,0,"for loops r,basic for loops,looping in r,loops r,for loops,types of loops,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+OOWAk2aLEfk,2021-02-09T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Data Analytics In Excel Full Course | Data Analytics Course For Beginners | Simplilearn,"🔥Free Data Analytics Course: https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup?utm_campaign=DataAnalytics&utm_medium=DescriptionFirstFold&utm_source=youtube
+This video on Data Analytics In Excel Full Course will help you will understand the various crucial functions available in Excel, such as vlookup, hlookup, sumif/s, counif/s, iferror and others. Finally, you will see how to use the Data Analysis Toolpak to perform various data analysis operations. So, let's begin.
+
+00:00:00 Basic of excel 
+00:04:20 Lookup & functions
+01:37:58 Conditional formating
+01:54:30 Data validation
+02:36:30 Sorting and filtering
+03:23:55 Data analysis using toolpak
+
+Dataset Link: https://drive.google.com/drive/folders/1U8CF0Xx3NivXdfrQvXJ_462tEb26oPuX
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+⏩ Check out the Business Analytics tutorial videos: https://bit.ly/3hQFfDP
+
+#DataAnalyticsInExcel #DataAnalyticsInExcelFullCourse #DataAnalyticsWithExcel #DataAnalyticsUsingExcel #DataAnalyticsCourse #DataAnalyticsCourseForBeginners  #ExcelForDataAnalysis #ExcelForBeginners #ExcelBasicsForBeginners #ExcelTutorial #ExcelTutorialForBeginners #BusinessAnalystCourse #BusinessAnalyst #BusinessAnalytics #Simplilearn
+
+What is Microsoft Excel?
+Excel is one of the best applications available on the market for creating spreadsheets to crunch numbers and dashboard reports as well as storing and administering data. This software first appeared on the scene back in 1987, and since then it has grown to become one of the most popular pieces of software for home or business. Excel can be used for data entry to store data in the form of a table such as recording your daily expenses or business expenditure. It can also be used for inventory management. 
+
+Post Graduate Program in Business Analysis:
+Get your business analysis career started with our Post Graduate Program in Business Analysis, in partnership with Purdue University. This business analysis certification program helps you build extensive business expertise with real-world projects and prepares you for the business analyst role. This Post Graduate Program in Business Analysis will help you master business analysis techniques, Agile Scrum methodologies, SQL database, and visualization tools, including Excel, Power BI, and Tableau. You will learn about business analysis planning and monitoring, build interactive dashboards and understand the competencies of a Business Analyst.
+
+Program Details:
+Jumpstart your career as a Business Analysis Professional with this comprehensive curriculum covering the concepts of business analysis tools and techniques, statistics fundamentals, interaction with databases using SQL, and data visualization using excel, Power BI, and Tableau.
+
+Key Features:
+✅ Purdue Post Graduate Program Certification
+✅ Purdue Alumni Association Membership
+✅ Masterclasses from Purdue faculty
+✅ Enrollment in Simplilearn’s JobAssist
+✅ Get noticed by the top hiring companies
+✅ Case Studies from Harvard Business Publishing Education
+✅ Obtain 35 IIBA PDs/CDUs and 25 PMI PDUs
+✅ 170+ hours of Applied Learning
+✅ 11+ hands-on projects
+✅ Capstone project in 3 domains
+
+Learn more at: https://www.simplilearn.com/pgp-business-analysis-certification-training-course?utm_campaign=BusinessAnalytics&utm_medium=Description&utm_source=youtube
+
+For more information about Simplilearn’s courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+- Instagram: https://www.instagram.com/simplilearn_elearning
+- Telegram Mobile: https://t.me/simplilearnupdates
+- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/OOWAk2aLEfk/default.jpg,Simplilearn,455053,10409,145,0,1006,"data analytics course,data analytics in excel,data analytics in excel Full Course,data analytics in excel course,data analytics in excel for beginners,data analytics in excel tutorial,data analytics with excel,data analytics with excel course,excel data analysis,excel data analysis tutorial,excel for data analytics,how to use excel for data analytics,microsoft excel for data analysis,microsoft excel for data analytics,simplilearn,simplilearn data analytics",intermediate,4.0.4,FALSE
+HRH3H4ahMgo,2019-11-06T00:00:00Z,UC6WlO0bsUzvYSFdd7pcDU4w,Día 7: Intermediate R and sequence alignment (2/2),Sequence alignment algorithms (by David Toubiana). Practical session: Sequence alignment algorithms with local Blast (by David Toubiana). Practical session: Multiple sequence alignment in R (by David Toubiana).,https://i.ytimg.com/vi/HRH3H4ahMgo/default.jpg,Inia Peru,132,0,1,0,0,",",intermediate,3.6.1,TRUE
+goU8ueR7O08,2020-12-10T00:00:00Z,UCxybW2TOok6O-dyqYfmVhhA,R2-R Intermediate: Data Visualisation,"This video covers Data Visualisation with R Basics
+Follow Us on Social Media:
+
+Website: www.cypheranalytica.com
+
+Facebook:  https://www.facebook.com/cypheranalytica
+
+Instagram: https://www.instagram.com/cypheranalytica/
+
+Twitter: https://twitter.com/AnalyticaCypher
+
+Linkedin: https://www.linkedin.com/company/cypheranalytica/",https://i.ytimg.com/vi/goU8ueR7O08/default.jpg,Cypher Analytica,34,1,0,0,0,"Parmar Sir,Statistics,Probability,Data Analytics,Data Science,R Programming,R studio,Inferential Analysis,Descritptive Analysis,Cypher Analytica,Mean,median,measure of central tendency,measure of dispersion,quartile deviation,mean absolute deviation,correlation analysis,regression analysis,hypothesis testing,t-test,chi square test,parametric test,non parametric test,python,Anaconda,Machine Learning,Data Analysis,Artificial Intelligence",intermediate,4.0.3,TRUE
+QB5pQT45zvg,2010-03-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 19 - Generic Return Types,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/QB5pQT45zvg/default.jpg,thenewboston,184281,1683,31,0,151,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+2owQOOuRX60,2010-03-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 20 - Introduction to Applets,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/2owQOOuRX60/default.jpg,thenewboston,209728,1086,14,0,169,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+BRcY2vIr-EQ,2010-02-08T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 6 - LinkedList,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/BRcY2vIr-EQ/default.jpg,thenewboston,368039,1830,65,0,169,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+vrHaAdjC97A,2017-06-09T00:00:00Z,UC4w57FRKQgFTgtib1LTfVHg,SEM Intermediate - Path Modeling - Latent Growth Curve pt.1,"In this video you will learn latent growth curve modeling in OpenMx.
+
+Download R: https://www.r-project.org/
+Download OpenMx: http://openmx.ssri.psu.edu/installing-openmx
+Data and Scripts: https://drive.google.com/drive/folders/0B48ddQ1HQJCEekN5WDV3NURNanM?usp=sharing
+
+OpenMx runs on Mac OS X, Windows (XP, Vista, 7, 8), and several varieties of Linux. This means the same scripts you write in Windows will run in Mac OS X or Linux.
+
+OpenMx is free and open source software for use with R that allows estimation of a wide variety of advanced multivariate statistical models. OpenMx consists of a library of functions and optimizers that allow you to quickly and flexibly define an SEM model and estimate parameters given observed data.
+
+OpenMx can be used by those who think in terms of path models or by those who prefer to specify models in terms of matrix algebra. OpenMx is extremely powerful, taking full advantage of the R programming environment. This means that complicated models and data sets can be specified and modified using the R language.",https://i.ytimg.com/vi/vrHaAdjC97A/default.jpg,OpenMx TV,663,4,0,0,0,"hypothesis testing,statistics,path analysis,statistics (field of study),learning,linear regression,confirmatory factor analysis,latent variable path analysis,statistics 101,factor analysis,sem,OpenMx,tutorial,structural equation modeling,latent growth curve",intermediate,3.4.1,TRUE
+r4UqF2UO0g4,2021-12-02T00:00:00Z,UCxgltMj9h8kdW0pL15kK5hg,Python Programming Intermediate   Session 19,NA,https://i.ytimg.com/vi/r4UqF2UO0g4/default.jpg,R Ganesh Kumar Engineering CSE,0,0,0,0,0,",",intermediate,4.1.2,NA
+4Vvc1YurUYA,2017-12-04T00:00:00Z,UCsyHonfwHi4fLb2lkq0DEAA,Intermediate C++ Game Programming DirectX [Virtual Funcs. / Polymorphism] Tutorial 18.1,"Virtual functions (dynamic binding) are kind of a big deal. Polymorphism. Other big words.
+
+Tutorial 18 wiki page: http://wiki.planetchili.net/index.php?title=Intermediate_C%2B%2B_Game_Programming_Tutorial_18
+
+Check out my Patreon!
+https://www.patreon.com/planetchili
+
+Website: http://www.planetchili.net
+Twitter: https://twitter.com/planetchili
+
+End slate theme: We're all under the stars by Eric Skiff
+http://ericskiff.com/music/
+End slate animation: ""Amitai Angor AA VFX"" 
+https://www.youtube.com/dvdangor2011",https://i.ytimg.com/vi/4Vvc1YurUYA/default.jpg,ChiliTomatoNoodle,4456,341,0,0,44,"C++,DirectX,Direct3D,D3D,programming,game,lesson,cpp,how to,beginner,guide,code,tutorial,coding,introduction,software,development,windows,visual studio,game programming,game development,game dev,chili,visual studio 2015,virtual function,polymorphism,late binding,dynamic binding,virtual",intermediate,3.4.3,FALSE
+8ZXOub8tYFs,2020-11-28T00:00:00Z,UCX-uNb4Dpp-VB6_T-vYMjOA,Julia Intermediate 2: Implementing Various Functions,"#julialang #tutorial #programming
+Anyway, I go into how to implement different kinds of functions and a bit of the different forms that functions can take. There is assignment form for simple functions and anonymous form for mapping-link functions. All these can be utilized in your code design and have their own pros and cons depending on what you need in your project.
+
+
+SECTIONS
+-----------------
+0:00 - simple function design
+2:32 - adding arguments
+6:22 - assignment form functions
+7:51 - anonymous functions
+
+
+Learning Repo
+-----------------------
+https://github.com/da-james/djs-office-hours
+
+
+IG: https://www.instagram.com/djsofficehours/
+TT: https://www.tiktok.com/@djsofficehours
+T: https://twitter.com/DJsOfficeHours",https://i.ytimg.com/vi/8ZXOub8tYFs/default.jpg,DJ's Office Hours,266,11,0,0,0,"julia,julia programming language,julia tutorial,julia language,julia programming,julia programming tutorial,julia introduction,julia programming language tutorial,julia machine learning,julia language tutorial,julia data science,julia for data science,julia intro,learn julia,julia lang,julia dataframes,julia jump,introduction to julia,multi level intermediate representation,functions,arguments,anonymous,assignment,assignment form,adding arguments",intermediate,4.0.3,FALSE
+nWeW3sCmD2k,2016-03-30T00:00:00Z,UC29ju8bIPH5as8OGnQzwJyA,SQL Crash Course - Beginner to Intermediate,"Updated MySQL Crash Course - https://www.youtube.com/watch?v=9ylj9NR0Lcg
+
+In this course we will cover all of the fundamentals of the SQL (Structured Query Language). This course is great for beginners and also intermediates. We will cover the following...
+
+Overview of SQL
+Create, alter and delete databases & tables
+Query a database using multiple operators
+Data types
+Insert, update and delete records
+Join tables together
+Use aliases
+Constraints (Primary, foreign)
+Indexes
+
+WANT MORE? CHECK OUT MY SQL COURSE: https://www.eduonix.com/affiliates/id/16-10034
+
+SPONSORS:
+DevMountain Bootcamp - https://goo.gl/6q0dEa",https://i.ytimg.com/vi/nWeW3sCmD2k/default.jpg,Traversy Media,742394,10522,164,0,416,"sql,sql beginners,sql tutorial,mysql,sql join,sql insert,table join,sql aliases,primary key,foreign key",intermediate,3.2.4,FALSE
+SOG-wXDyk5s,2019-11-14T00:00:00Z,UCpgXGIymH-LEI18o3LxEn0g,Intermediate Object Oriented Programming,CSE1IOX Intermediate Object Oriented Programming,https://i.ytimg.com/vi/SOG-wXDyk5s/default.jpg,Didasko Group,112,1,1,0,0,",",intermediate,3.6.1,FALSE
+7Y2rj3tFQK0,2012-06-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 41 - Waiting for a Connection,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/7Y2rj3tFQK0/default.jpg,thenewboston,94784,696,9,0,51,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.15.0,TRUE
+VkzBApy3q7c,2021-04-20T00:00:00Z,UCxybW2TOok6O-dyqYfmVhhA,R2-R Intermediate,"This video covers Data Preparation 
+Follow Us on Social Media:
+
+Website: www.cypheranalytica.com
+
+Facebook:  https://www.facebook.com/cypheranalytica
+
+Instagram: https://www.instagram.com/cypheranalytica/
+
+Twitter: https://twitter.com/AnalyticaCypher
+
+Linkedin: https://www.linkedin.com/company/cypheranalytica/",https://i.ytimg.com/vi/VkzBApy3q7c/default.jpg,Cypher Analytica,12,0,0,0,0,"Parmar Sir,Statistics,Probability,Data Analytics,Data Science,R Programming,R studio,Inferential Analysis,Descritptive Analysis,Cypher Analytica,Mean,median,measure of central tendency,measure of dispersion,quartile deviation,mean absolute deviation,correlation analysis,regression analysis,hypothesis testing,t-test,chi square test,parametric test,non parametric test,python,Anaconda,Machine Learning,Data Analysis,Artificial Intelligence",intermediate,4.0.5,TRUE
+J-qFLdWBct8,2021-03-03T00:00:00Z,UCxybW2TOok6O-dyqYfmVhhA,R2-R Intermediate: Data Viusalisation,"This video covers Data Visualisation with qplot(), and ggplot(). 
+
+Follow Us on Social Media:
+
+Website: www.cypheranalytica.com
+
+Facebook:  https://www.facebook.com/cypheranalytica
+
+Instagram: https://www.instagram.com/cypheranalytica/
+
+Twitter: https://twitter.com/AnalyticaCypher
+
+Linkedin: https://www.linkedin.com/company/cypheranalytica/",https://i.ytimg.com/vi/J-qFLdWBct8/default.jpg,Cypher Analytica,17,0,0,0,0,"Parmar Sir,Statistics,Probability,Data Analytics,Data Science,R Programming,R studio,Inferential Analysis,Descritptive Analysis,Cypher Analytica,Mean,median,measure of central tendency,measure of dispersion,quartile deviation,mean absolute deviation,correlation analysis,regression analysis,hypothesis testing,t-test,chi square test,parametric test,non parametric test,python,Anaconda,Machine Learning,Data Analysis,Artificial Intelligence",intermediate,4.0.5,TRUE
+PVOG57JaHPg,2012-05-28T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 36 - loadCrap,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/PVOG57JaHPg/default.jpg,thenewboston,67878,441,3,0,59,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.15.0,TRUE
+Ud9G_AFqTsk,2010-03-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 22 - init for Applets,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/Ud9G_AFqTsk/default.jpg,thenewboston,112797,545,6,0,70,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+bsUcyzg-SX8,2021-12-02T00:00:00Z,UCxgltMj9h8kdW0pL15kK5hg,Python Programming Intermediate   Session 23,NA,https://i.ytimg.com/vi/bsUcyzg-SX8/default.jpg,R Ganesh Kumar Engineering CSE,0,0,0,0,0,",",intermediate,4.1.2,NA
+xfOHahLUeoM,2020-10-20T00:00:00Z,UCxybW2TOok6O-dyqYfmVhhA,R2-R Intermediate: Data Visualistion with R,"This video covers Introduction to Data Visualisation and explain how to make various graphs with R Basics
+
+Follow Us on Social Media:
+
+Website: www.cypheranalytica.com
+
+Facebook:  https://www.facebook.com/cypheranalytica
+
+Instagram: https://www.instagram.com/cypheranalytica/
+
+Twitter: https://twitter.com/AnalyticaCypher
+
+Linkedin: https://www.linkedin.com/company/cypheranalytica/",https://i.ytimg.com/vi/xfOHahLUeoM/default.jpg,Cypher Analytica,76,2,0,0,0,"Parmar Sir,Statistics,Probability,Data Analytics,Data Science,R Programming,R studio,Inferential Analysis,Descritptive Analysis,Cypher Analytica,Mean,median,measure of central tendency,measure of dispersion,quartile deviation,mean absolute deviation,correlation analysis,regression analysis,hypothesis testing,t-test,chi square test,parametric test,non parametric test,python,Anaconda,Machine Learning,Data Analysis,Artificial Intelligence",intermediate,4.0.3,TRUE
+s74oWO1cKZI,2017-06-02T00:00:00Z,UCsyHonfwHi4fLb2lkq0DEAA,|Homework 3| Intermediate C++ Game Programming,"This is the solution to the homework problem given in Tutorial 3
+
+http://wiki.planetchili.net/index.php?title=Intermediate_C%2B%2B_Game_Programming_Tutorial_3",https://i.ytimg.com/vi/s74oWO1cKZI/default.jpg,ChiliTomatoNoodle,5029,225,1,0,26,"C++,DirectX,Direct3D,D3D,programming,game,lesson,cpp,how to,guide,code,tutorial,coding,software,development,windows,visual studio,game programming,game development,game dev,chili,visual studio 2015,homework,intermediate",intermediate,3.4.1,FALSE
+lZc06BeS_mg,2021-12-02T00:00:00Z,UCxgltMj9h8kdW0pL15kK5hg,Python Programming Intermediate   Session 24,NA,https://i.ytimg.com/vi/lZc06BeS_mg/default.jpg,R Ganesh Kumar Engineering CSE,0,0,0,0,0,",",intermediate,4.1.2,NA
+QCQMBM8kKFc,2017-11-07T00:00:00Z,UC4w57FRKQgFTgtib1LTfVHg,SEM Intermediate - Path Modeling - Latent Growth Curve pt.2,"In this video you will learn latent growth curve modeling with a curvature parameter in OpenMx.
+
+Download R: https://www.r-project.org/
+Download OpenMx: http://openmx.ssri.psu.edu/installing-openmx
+Data and Scripts: https://drive.google.com/drive/folders/0B48ddQ1HQJCEekN5WDV3NURNanM?usp=sharing
+
+OpenMx runs on Mac OS X, Windows (XP, Vista, 7, 8), and several varieties of Linux. This means the same scripts you write in Windows will run in Mac OS X or Linux.
+
+OpenMx is free and open source software for use with R that allows estimation of a wide variety of advanced multivariate statistical models. OpenMx consists of a library of functions and optimizers that allow you to quickly and flexibly define an SEM model and estimate parameters given observed data.
+
+OpenMx can be used by those who think in terms of path models or by those who prefer to specify models in terms of matrix algebra. OpenMx is extremely powerful, taking full advantage of the R programming environment. This means that complicated models and data sets can be specified and modified using the R language.",https://i.ytimg.com/vi/QCQMBM8kKFc/default.jpg,OpenMx TV,171,2,0,0,0,"structural equation modeling,sem,statistics,statistics (field of study),research methods,structural equation modeling (sem),multivariate statistics,theory building,hypothesis development,lecture,r studio,r program,latent growth curve,LGC,Curve,OpenMx,factor analysis,CFA,EFA,growth,change,modeling growth,longetudinal",intermediate,3.4.3,TRUE
+P6skXp4sLdQ,2010-03-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 21 - How to put an Applet on a Website,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/P6skXp4sLdQ/default.jpg,thenewboston,165589,865,19,0,144,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.10.1,TRUE
+vJ3jAaKPFIU,2012-06-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 40 - Setting Up the Server,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/vJ3jAaKPFIU/default.jpg,thenewboston,137900,926,14,0,64,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.15.0,TRUE
+5CrOXL7iMwY,2021-12-02T00:00:00Z,UCxgltMj9h8kdW0pL15kK5hg,Python Programming Intermediate   Session 21,NA,https://i.ytimg.com/vi/5CrOXL7iMwY/default.jpg,R Ganesh Kumar Engineering CSE,0,0,0,0,0,",",intermediate,4.1.2,NA
+YfJ4amLbpBs,2017-07-11T00:00:00Z,UCsyHonfwHi4fLb2lkq0DEAA,|Homework 5| Intermediate C++ Game Programming,"Skip to 10:52 to skip the foreplay and get to the code bullshit.
+This is the solution to the homework problem given in Tutorial 5
+
+http://wiki.planetchili.net/index.php?title=Intermediate_C%2B%2B_Game_Programming_Tutorial_5",https://i.ytimg.com/vi/YfJ4amLbpBs/default.jpg,ChiliTomatoNoodle,5555,268,3,0,38,"C++,DirectX,Direct3D,D3D,programming,game,lesson,cpp,how to,guide,code,tutorial,coding,software,development,windows,visual studio,game programming,game development,game dev,chili,visual studio 2015,homework,intermediate",intermediate,3.4.1,FALSE
+hBh_CC5y8-s,2019-06-23T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,Java Full Course | Java Tutorial for Beginners | Java Online Training | Edureka,"🔥Edureka Java Training (Use Code ""𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎""): https://www.edureka.co/java-j2ee-training-course 
+This Edureka Java Full Course will help you in understanding the various fundamentals of Java in detail with examples. 
+Check out Java Playlist: https://goo.gl/ES3dI3
+This video covers the following topics:
+00:00 Agenda
+3:36 - Introduction to Java
+      3:41 -      What is Java?
+      8:56 -      Java Features
+      16:36 -    Where is Java Used?
+23:46 - Java Enviromental SetUp
+       23:52 -    Java JDK Download & Installation
+       25:27 -    Setting Enviromental variables
+       27:38 -    Eclipse Setup
+28:43 - Java Internals
+       28:47 - Java Virtual Machine
+       32:10 - Java Run Time Environment
+       33:31 - Java Development Kit
+       34:11 - JDK, JRE & JVM        
+35:05 - Java Working
+       38:21 - First Java Program
+53:27 - Modifiers in Java
+     54:34 - Access Control Modifiers
+     1:00:12 - Non Access Modifiers
+ 1:10:05 - Variables in Java
+      1:10:11 - Types of Variables
+1:14:59 - Data types in Java
+    1:16:19 - Primitive Data types
+    1:17:36 - Non Primitive Data types
+    1:18:35 - Demo - Variables and Data Types
+    1:19:20 - Data type Conversions
+    1:20:32 - Implicit Conversions
+    1:22:50 - Explicit Conversions
+1:25:52 - Operators
+     1:28:56 - Operators Types and Examples
+1:33:11 - Control Statements in Java
+    1:35:51 - Selection Statements 
+     1:37:17 - Iteration Statements
+     1:44:04 - Jump Statements
+1:46:06 - Methods in Java
+      1:48:52 - Methods Syntax
+      1:50:51 - What is a return Statement
+      1:52:00 - Program to add 2 numbers using a Method   
+      2:00:38 - Method Execution
+      2:05:48 - Method Overloading
+2:09:00 - Arrays in Java
+    2:11:38 - Arraay Declaration
+    2:15:32 - Types of Arrays
+    2:18:15 - Memory Allocation in Arrays
+    2:22:30  - Demo - Arrays
+2:27:50  - Strings
+    2:30:51 - Immutability of Strings
+    2:29:00 - String Pool
+     2:33:43 - Memory Allocation
+     2:40:03 - String Operations - Demo
+     2:44:15 - StringBuffer
+     2:48:50 - StringBuilder
+2:52:45: Classes and Objects
+2:57:17 - Java Naming Conventions
+2:57:30 - Types of variables
+3:01:30 - Constructor
+     3:06:24 - Difference between Constructor and Method
+     3:08:10 - How Does Constructor work
+     3:08:35 - Types of Constructor
+3:19:09 - Java Static Keyword
+      3:19:16 - Demo - Java Static Keyword
+3:24:32 - Java this keyword
+    3:26:29: Demo - Java this keyword
+3:29:27 - Object-Oriented Programming Concepts
+   3:30:10 - Inheritance
+   3:49:46 - Polymorphism
+   4:09:20 - Java super keyword
+   4:09:28 - Java final keyword
+   4:14:33 - Dynamic Binding
+   4:15:48 - Abstraction
+   4:22:44 - Abstract Class and Method
+   4:23:33 - Encapsulation
+    4:26:52 - Advantages of Encapsulation
+4:29:44 - Interface
+  4:32:44 - Difference between Interface and Class
+  4:35:23 - Difference between Class and Abstract Class
+  4:36:10 - Difference between Abstract Class and Interfaces
+   4:37:46 - Class-Interface relationship
+   4:39:55 - Demo - Interface
+   4:46:10 - Rules for using private methods in interfaces
+   4:43:10 - Demo - A class Extending one class and implementing more than one interface
+   4:49:12 - Interface Features for Different JDK 
+4:50:55 - What is a Package?
+   4:52:11 - Package Naming Conventions
+   4:53:26 - Java Pre-defined Packages
+4:58:12 - Access Modifiers
+           4:59:49 - Public
+           5:00:37 - Protected
+           5:01:32 - Private
+           5:02:00 - Protected
+5:05:00 - Demo - Access package from another package
+5:08:55 - Regular Expression 
+5:21:50 - Exception 
+            5:23:49 - Types of Exception
+5:31:45 - Exception handling
+5:50:27 - XML using DOM, SAX, and StAX parser 
+in Java 
+            5:56:15 - Introduction to XML
+            5:57:44 - Demo - To Read From and Write To a File
+            6:17:51 - Reading and Writing File Objects
+            6:21:40 - Demo - XML File
+            6:25:33 - XML File Tree Structure
+6:36:00 - Serialization in Java
+            6:36:37 - Demo - Serialization in Java
+            6:48:13 - Demo - Deserialization in Java
+6:54:00 - Wrapper Classes
+          6:57:31 - Demo on Wrapper Class
+6:58:06 - Generics in Java
+
+----------- Edureka Java Training ------------
+
+🔵 Java Certification Training: http://bit.ly/3a5wPG1
+🔵 Selenium Certification Training: http://bit.ly/3r1XBpF
+🔵 Microservices Certification Training: http://bit.ly/2MjLnJK
+🔵 Spring Certification Training: http://bit.ly/3sTulTB
+🔵 Test Automation Engineer Masters Program: http://bit.ly/369W6xE
+
+Subscribe to our channel to get video updates
+
+#edureka #javaedureka #JavaFullCourse #Javatutorial #Javaonlinetraining #Javaforbeginners
+
+Instagram: https://www.instagram.com/edureka_learning/
+Facebook: https://www.facebook.com/edurekaIN/
+LinkedIn: https://www.linkedin.com/company/edureka
+Telegram: https://t.me/edurekaupdates
+
+For Java Training & Certification, please write back to us at sales@edureka.in or call us at IND: 9606058406 / US: 18338555775 (toll free).",https://i.ytimg.com/vi/hBh_CC5y8-s/default.jpg,edureka!,2695531,51207,1106,0,392,"yt:cc=on,java full course,java,java tutorial,java tutorial for beginners,java programming tutorial,complete java course,java online training,java certification training,java for beginners,java programming for beginners,java video tutorial,java beginner tutorial,java (programming language),java 8 tutorial,what is java,learn java,java programming,java data types,java basics,java course,java certification,java training,java edureka,edureka,Edureka java",intermediate,3.6.0,FALSE
+CLhBQsd0ZgE,2021-12-02T00:00:00Z,UCxgltMj9h8kdW0pL15kK5hg,Python Programming Intermediate   Session 22,NA,https://i.ytimg.com/vi/CLhBQsd0ZgE/default.jpg,R Ganesh Kumar Engineering CSE,1,0,0,0,0,",",intermediate,4.1.2,NA
+atovsm9ZmdM,2021-03-05T00:00:00Z,UC606VesdNZfqJkGpDBf0iZQ,Basic REPEAT Loops (Intermediate Data Analysis in R #3),"Today we gonna look at how a “REPEAT Loop” works. Check out the videos listed below, if you are interested in learning about FOR and/or WHILE loop! Enjoy!
+
+FOR Loop: https://www.youtube.com/watch?v=0KABMWuqeBE
+
+WHILE Loop: https://www.youtube.com/watch?v=9D46709Y6UM 
+
+
+For similar videos on data analysis and visualization, check out the links attached:
+
+Data Visualization Basics tutorial series:
+https://tinyurl.com/data-viz-basics-in-R
+
+Data Analysis Basics in R tutorial series:
+
+https://tinyurl.com/data-analysis-basics-in-R
+
+
+----------------------------------------
+
+Other related videos/links:
+
+
+# Data Visualization Basics in R
+
+Intro to plotting using qplot in R: https://www.youtube.com/watch?v=iU_h7zMX9To&t=7s 
+
+Histogram and boxplot in R: https://www.youtube.com/watch?v=7XXS6s3Q4Sc&t=8s 
+
+Violin plots in R: https://www.youtube.com/watch?v=t_nYM1QMlKM&t=15s 
+
+Add or change legend names while using qplot: https://www.youtube.com/watch?v=Eet0a8l1QYE&t=12s 
+
+Change scatter plot colors in R manually: https://www.youtube.com/watch?v=LjjlanizB90&t=5s 
+
+Area plots using geom_area() function: https://www.youtube.com/watch?v=qUP7ARMCb1s&t=21s 
+
+Stacking area plots: https://www.youtube.com/watch?v=Vc0RpD4-B3E 
+
+Saving plots as .JPEG / .PNG: https://www.youtube.com/watch?v=ZbxIBFpB2K4&t=3s 
+
+Creating density plots using ggplot2: https://www.youtube.com/watch?v=c-q-nUg9ZX8 
+
+Stacked density plots: https://www.youtube.com/watch?v=9-TAhR-I_aE 
+
+Dot plots: https://www.youtube.com/watch?v=IzI6hVyV3mo 
+
+Stacked histograms: https://www.youtube.com/watch?v=-fra6YGsF-Q 
+
+Frequency plots: https://www.youtube.com/watch?v=Vy7JKGqYH9U 
+
+Ribbon plots: https://www.youtube.com/watch?v=5WL7dVd2GOY 
+
+Plotting labels and text: https://www.youtube.com/watch?v=g7taIO_-_zM 
+
+Flipped bar plots: https://www.youtube.com/watch?v=mPAU7J3S2KU&t=36s 
+
+Mirror histograms: https://www.youtube.com/watch?v=VHN7YPCvhz0&t=17s 
+
+Error bars for bar plots: https://www.youtube.com/watch?v=MRDlD24Ggh4 
+Adjusting geom positions while using ggplot2 package: https://www.youtube.com/watch?v=4Q0iEfCeGlM 
+
+Adding plot labels: https://www.youtube.com/watch?v=pdXTXuRP4yQ&t=6s 
+
+Remove background color in plots: https://www.youtube.com/watch?v=I46topm2IOQ 
+
+Remove legend and legend titles: https://www.youtube.com/watch?v=BRlhN9ags2s 
+
+Create custom color palette: https://www.youtube.com/watch?v=wvmIaO8t8V0 
+
+Plot multiple plots: https://www.youtube.com/watch?v=yIDEcWgIft0 
+
+Export multiple plots as pdf. https://www.youtube.com/watch?v=4YIW6DHgoko
+
+
+----------------------------------------
+
+# Data Analysis Basics in R
+
+Setting a working directory in R Studio: https://www.youtube.com/watch?v=pEIJwp8BuFM 
+
+Data structures in R: https://www.youtube.com/watch?v=ytSrlKP3ghA 
+
+Create a dataframe in R: https://www.youtube.com/watch?v=rCHu5KYBqSU 
+
+Install packages in R: https://www.youtube.com/watch?v=deHi_IjQJx4 
+
+How to import .csv file in R: https://www.youtube.com/watch?v=Au--TNVdW4o 
+
+How to import .txt file in R: https://www.youtube.com/watch?v=VGHFbITcuGw 
+
+How to add a column in R: https://www.youtube.com/watch?v=WRLWKWgLHnM 
+
+How to remove a column in R: https://www.youtube.com/watch?v=c5KRWZvY5VA 
+
+How to add a row in R: https://www.youtube.com/watch?v=WPA4rML0TBU 
+
+How to remove a row in R: https://www.youtube.com/watch?v=xSYVOMBR2pE  
+
+Count the number of rows and columns in R: https://www.youtube.com/watch?v=dCRXtDH_WoM 
+
+Sum of rows in R: https://www.youtube.com/watch?v=BYBzljbtlGM&t=27s
+
+Sum of columns in R: https://www.youtube.com/watch?v=32tXGuUsnxc&t=32s 
+
+Finding names of rows and columns in R: https://www.youtube.com/watch?v=4RKalGnS9yo 
+
+How to change column names in R dataframes: https://www.youtube.com/watch?v=52Lk4Ch4lEg&t=17s 
+
+How to remove rows with 0 values in R dataframes: https://www.youtube.com/watch?v=R0m61qLie5E 
+
+How to find unique column values in R dataframes: https://www.youtube.com/watch?v=Sda71Og1TuQ 
+
+How to find duplicate values in R: https://www.youtube.com/watch?v=-ANbouAfkBE 
+
+Clear console in R Studio: https://www.youtube.com/watch?v=EK6tNthvRBg 
+
+
+----------------------------------------
+
+# GIS/Remote Sensing 
+
+Intro to GIS and Remote Sensing: https://www.youtube.com/watch?v=VfDAd-MO94o 
+
+What is LiDAR Remote Sensing: https://www.youtube.com/watch?v=TpFSDevs7X8&t=814s 
+
+Intro to spaceborne lidar and NASA GEDI: https://www.youtube.com/watch?v=T0Usm2QZBhQ&t=27s 
+
+LiDAR Remote Sensing/NASA GEDI Tutorial Series: https://www.youtube.com/watch?v=TpFSDevs7X8&list=PLoARWRpovQjDZny-ngMdKW-TQJnDPvyHL 
+
+
+----------------------------------------",https://i.ytimg.com/vi/atovsm9ZmdM/default.jpg,The Nomadic Owl,19,4,0,0,0,"repeat loops r,for and while loops and repeat loops,basic for loops,loops r types,looping in r,loops r,for loops,types of loops,data analysis r,r data analysis beginners,data frames,r programming,rstudio,r tutorial,data analysis basics in r,data analysis,data visualization in r,r data analysis,r programming tutorial,data science",intermediate,4.0.5,TRUE
+8PopR3x-VMY,2019-10-15T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,C Programming For Beginners | Learn C Programming | C Tutorial For Beginners | Edureka,"🔥 Edureka C Programming Course (Use Code ""𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎""): https://www.edureka.co/c-programming-course
+🔥 Edureka Computer Science Bootcamp Program: https://www.edureka.co/masters-program/computer-science-bootcamp-program
+This Edureka video on ""C Programming For Beginners"" ( C Tutorial blog: https://www.edureka.co/blog/c-programming-tutorial/ ) will help you to Learn C Programming basics with examples. This C tutorial for beginners covers all the topics for all the three categories of learners, beginner, intermediate and experienced professionals.  Below topics are covered in this C Programming Tutorial :
+00:42 Agenda
+02:04 History of C Programming
+02:50 Features of C Programming
+04:56 Installation
+08:40 C-Tokens
+15:30 Operators
+21:47 Datatypes
+22:34 Variables
+29:11 Preprocessor Directives
+34:40 First C Program
+34:55 Control Statements
+53:30 Loops
+01:03:00 Pointers
+01:06:45 Escape Sequence
+01:08:29 Functions
+01:15:42 Data Structures
+01:47:10 Structures
+01:49:31 Union
+01:52:59 Dynamic Memory Allocation
+1:56: 37 Sorting Algorithms
+
+Subscribe to our channel to get video updates. Hit the subscribe button above: https://goo.gl/6ohpTV
+
+Join Edureka’s Meetup community and never miss any event – YouTube Live, Webinars, Workshops etc. https://bit.ly/2EfTXS1  
+
+Instagram: https://www.instagram.com/edureka_learning
+Facebook: https://www.facebook.com/edurekaIN/
+Twitter: https://twitter.com/edurekain
+LinkedIn: https://www.linkedin.com/company/edureka
+SlideShare: https://www.slideshare.net/edurekaIN
+
+Got a question on the topic? Please share it in the comment section below and our experts will answer it for you.
+
+For more information, please write back to us at sales@edureka.in or call us at IND: +91-9606058406 / US: 1833-855-5775 (toll-free).",https://i.ytimg.com/vi/8PopR3x-VMY/default.jpg,edureka!,1556199,27851,755,0,231,"yt:cc=on,c programming,c programming for beginners,c tutorial for beginners,c programming tutorial,c tutorial,learn c programming,c (programming language),c programming language,programming in c,control statements in c,c programming basics,data structures in c,learn c language,c language demo,c language overview,edureka,c edureka,c language,c language tutorial,c language tutorial for beginners,edureka c programming",intermediate,3.6.1,FALSE
+A6HbDBb_hdU,2021-10-26T00:00:00Z,UC5Myj_qAX3BcxnOIGUjI54g,intermediate userforms with VBA,More information at: https://vba-course.blogspot.com/2021/08/more-user-forms.html,https://i.ytimg.com/vi/A6HbDBb_hdU/default.jpg,Gove Allen,134,0,0,0,0,",",intermediate,4.1.1,FALSE
+9gDErZCtdzM,2012-06-01T00:00:00Z,UCJbPGzawDH1njbqV-D5HqKw,Intermediate Java Tutorial - 39 - GUI for Bucky Instant Messenger,"Join our community below for all the latest videos and tutorials!
+
+Website - https://thenewboston.com/
+Discord - https://discord.gg/thenewboston
+GitHub - https://github.com/thenewboston-developers
+Reddit - https://www.reddit.com/r/thenewboston/
+LinkedIn - https://www.linkedin.com/company/thenewbostoncoin/
+Facebook - https://www.facebook.com/thenewbostoncoin/
+Twitter - https://twitter.com/thenewboston_og
+Instagram - https://www.instagram.com/thenewbostoncoin/
+Twitch - https://www.twitch.tv/thenewboston/videos
+
+TNBC Donations: b6e21072b6ba2eae6f78bc3ade17f6a561fa4582d5494a5120617f2027d38797",https://i.ytimg.com/vi/9gDErZCtdzM/default.jpg,thenewboston,124662,735,7,0,78,"install,download,jdk,se,ee,java,development,kit,new,beginner,tutorials,eclipse,variables,if,while,loop,object,classes",intermediate,2.15.0,TRUE
+mFnuRi-_ecg,2019-11-06T00:00:00Z,UC6WlO0bsUzvYSFdd7pcDU4w,Día 7: Intermediate R and sequence alignment (1/2),Practical session: Functions in R (by David Toubiana),https://i.ytimg.com/vi/mFnuRi-_ecg/default.jpg,Inia Peru,317,3,0,0,0,",",intermediate,3.6.1,TRUE
+-iV-7XhUMT0,2020-09-26T00:00:00Z,UCmnlTWVJysjWPFiZhQ5uudg,Are You An Intermediate Or Advanced Guitar Player?,"Have you ever questioned whether you are an intermediate or advanced guitar player? Well, today I'm breaking down how I differentiate between the two playing levels. Check it out!
+
+Become a Patron - https://www.patreon.com/MartyMusic
+http://www.MartyMusic.com
+https://teespring.com/stores/martymusic
+Instagram - http://www.instagram.com/martyschwartz
+Reddit: https://www.reddit.com/r/martymusic/
+Twitter - http://www.twitter.com/martyschwartz
+Facebook - http://www.facebook.com/martyschwartzofficial
+
+My Favorite Guitar + Filming Gear
+https://imp.i114863.net/e4A326
+
+Disclosure: I only recommend products I would use myself and all opinions expressed here are my own. The link above is an affiliate link, that at no additional cost to you, I may earn a small commission on.",https://i.ytimg.com/vi/-iV-7XhUMT0/default.jpg,Marty Music,83396,3066,30,0,786,"Marty Schwartz,music,guitar,marty music,generic atlas feet,guitar lessons,how to play guitar,beginner guitar lessons,guitar lessons for beginners,easy guitar songs,guitar for beginners,electric guitar,acoustic guitar,marty schwartz guitar lesson,marty schwartz guitar,intermediate or advanced guitar,intermediate vs advanced guitar,am i an intermediate or advanced guitarist,am i an intermediate or advanced guitar player,intermediate guitar,advanced guitar,easy",intermediate,4.0.2,TRUE
+FhXl7BGr5FI,2020-04-25T00:00:00Z,UCWPdrNHSvLetgyOQIdHkeDQ,DataCamp 5 - INTERMEDIATE PYTHON FOR DATA SCIENCE,"Basic Plots with Matplotlib, Histogram, Customization
+https://www.facebook.com/pythonthefirst/
+https://github.com/kzavrazhnyi/pythonthefirst/blob/master/DataCamp%205
+https://www.youtube.com/watch?v=Z9XRrXOdfjA",https://i.ytimg.com/vi/FhXl7BGr5FI/default.jpg,Kostiantyn Zavrazhnyi,1868,27,2,0,0,"Basic Plots with Matplotlib Python,Histogram Python,Customization Python,datacamp intermediate python answers",intermediate,4.0.0,FALSE
+PNXk2x0Vzvc,2011-10-24T00:00:00Z,UCBgSCTqTUk5PrItkQF4bjSA,Starting Our Game Engine - #1 - Intermediate Java Game Programming Tutorials (TheJavaHub),"Source Code + Images: http://www.thejavahub.net/index.php?topic=266.msg824#msg824
+Hi guys! Sorry I haven't been online in so long, I've just been swamped with work these past couple of weeks. I hope you enjoy the new series!",https://i.ytimg.com/vi/PNXk2x0Vzvc/default.jpg,TheJavaHub,26206,142,0,0,37,"thejavahub,the,java,hub,absolute,beginner,game,programming,development,help,windows,tips,maker,tutorial,need,tricks",intermediate,2.13.2,FALSE
+S0fKPIX_4Ec,2017-11-09T00:00:00Z,UC4w57FRKQgFTgtib1LTfVHg,SEM Intermediate - Matrix Modeling - Latent Growth Curve pt.2,"In this video you will learn latent growth curve modeling with a curvature parameter in OpenMx.
+
+Download R: https://www.r-project.org/
+Download OpenMx: http://openmx.ssri.psu.edu/installing-openmx
+Data and Scripts: https://drive.google.com/drive/folders/0B48ddQ1HQJCEekN5WDV3NURNanM?usp=sharing
+
+OpenMx runs on Mac OS X, Windows (XP, Vista, 7, 8), and several varieties of Linux. This means the same scripts you write in Windows will run in Mac OS X or Linux.
+
+OpenMx is free and open source software for use with R that allows estimation of a wide variety of advanced multivariate statistical models. OpenMx consists of a library of functions and optimizers that allow you to quickly and flexibly define an SEM model and estimate parameters given observed data.
+
+OpenMx can be used by those who think in terms of path models or by those who prefer to specify models in terms of matrix algebra. OpenMx is extremely powerful, taking full advantage of the R programming environment. This means that complicated models and data sets can be specified and modified using the R language.",https://i.ytimg.com/vi/S0fKPIX_4Ec/default.jpg,OpenMx TV,107,0,0,0,1,"structural equation modeling,sem,statistics,statistics (field of study),research methods,multivariate statistics,factor analysis,latent factor,latent variable,structural equation model,structural equation modeling (sem),path analysis,hypothesis development,theory building,lecture,identification,measurement,r studio,r program,introduction to structural equation modeling (sem),latent growth curve,LGC,LGC with curve,three factor lgc,longitudinal,OpenMx",intermediate,3.4.3,TRUE

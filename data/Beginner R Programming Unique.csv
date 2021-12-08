@@ -1,0 +1,2356 @@
+video_id,publishedAt,channelId,title,description,thumbnails.default.url,channelTitle,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,tags,level,rVersion,relevant
+9kYUGMg_14s,2018-12-15T00:00:00Z,UCfJyQ3P2k_SuqfxVdqIEQNw,R programming for beginners -  Why you should use R,"R programming is typically used to analyze data and do statistical analysis. In this video, I talk about why R is a better option than other statistical packages and software options (including SPSS, STATA, SAS etc.) I also give a short demonstration in which I calculate the mean, median of two variables, plot a histogram and calculate the correlation coefficient.",https://i.ytimg.com/vi/9kYUGMg_14s/default.jpg,R Programming 101,312523,6872,129,0,275,"R programming,data science,statistics,machine learning,AI,statistical software,STATA,SPSS,data,quantitative,research",beginner,3.5.2,TRUE
+FIrsOBy5k58,2020-12-01T00:00:00Z,UCHh66eN0alLxVCyiDVaX_GQ,RStudio for the Total Beginner,An accessible introduction to RStudio for the total beginner. Includes basic treatment of the four primary panels and a few easy examples to help you get started using R with RStudio.,https://i.ytimg.com/vi/FIrsOBy5k58/default.jpg,HRanalytics101.com,20749,447,5,0,21,",",beginner,4.0.3,TRUE
+FLurYlV_kiI,2021-03-15T00:00:00Z,UCy55grHyjRAiJ5TwOuGg0Zg,Top 10 RStudio Features Every Beginner Must Know | R Programming,"The following topics are discussed in this video:
+1. Recap learning's from the last video [https://youtu.be/UEuyoKciwt0] (00:11)
+2. List of topics for today's video (00:32)
+3. R console (00:56)
+4. Scripting Section (01:52)
+5. Environment (02:57)
+6. History (04:11)
+7. Session Drop-Down (04:49)
+8. Files Section (05:34)
+9. Packages Section (06:20)
+10. Help Section (06:56)
+11. Plots Section (07:16)
+13. The 123 Shortcut (07:39)
+----------------------------------------------------------------------------------------------------------------------------------------
+- Share your thoughts and suggestions in the comments below
+- Like this video if you learned something new from this video
+- Highlight issues in the comments if you did not like this video
+- Subscribe to the channel for more content on R, RStudio and data analysis
+----------------------------------------------------------------------------------------------------------------------------------------
+Good Luck & Happy Learning!
+----------------------------------------------------------------------------------------------------------------------------------------
+#rstudio #rstudiotour #rprogramming #rcodeeditor #frontendinterfaceR",https://i.ytimg.com/vi/FLurYlV_kiI/default.jpg,Rlytical,294,17,0,0,2,"#rstudio,#rprogramming,#dataanalysis,#ide,#rprogrammingide,#codeeditor,#rconsole,#rcodeeditor,#ride,#rstudiofeatures,#frontenduiforR",beginner,4.0.5,TRUE
+6xne8g48Wck,2020-05-13T00:00:00Z,UCmwXj6e8iVZMyFh3ngrEmvg,Beginner Intro to R/R Studio (no coding experience!) ~20 minutes,"This video is for people with no coding experience. Please pause the video on the first slide to get the links to download R/R studio. I am not a great at public speaking, so I am trying  to improve my presentation skills by recording videos!",https://i.ytimg.com/vi/6xne8g48Wck/default.jpg,Alexis Hruby,116,2,0,0,0,",",beginner,4.0.0,TRUE
+cxZNpBhgtzM,2015-07-02T00:00:00Z,UCdBJfJuZbMhO1mok9V3vzZg,"Beginner&#39;s Guide to R, Part 1",NA,https://i.ytimg.com/vi/cxZNpBhgtzM/default.jpg,Frances Chumney,2732,14,0,0,2,",",beginner,3.2.1,TRUE
+4tWrfjNHXX8,2018-06-14T00:00:00Z,UC4f47QjRZYefjnhVACSOnKg,1. Statistics with R - Beginner Level (Introduction),"If you want to learn how to perform the basic statistical analyses in the R program, you have come to the right place.
+
+Now you don’t have to scour the web endlessly in order to find how to compute the statistical indicators in R, how to build a cross-table, how to build a scatterplot chart or how to compute a simple statistical test like the one-sample t test. Everything is here, in this course, explained visually, step by step.
+
+So, what will you learn in this course?
+
+First of all, you will learn how to manipulate data in R, to prepare it for the analysis: how to filter your data frame, how to recode variables and compute new variables.
+
+Afterwards, we will take care about computing the main statistical figures in R: mean, median, standard deviation, skewness, kurtosis etc., both in the whole population and in subgroups of the population.
+
+Then you will learn how to visualize data using tables and charts. So we will build tables and cross-tables, as well as histograms, cumulative frequency charts, column and mean plot charts, scatterplot charts and boxplot charts.
+
+Since assumption checking is a very important part of any statistical analysis, we could not elude this topic. So we’ll learn how to check for normality and for the presence of outliers.
+
+Finally, we will perform some basic, one-sample statistical tests and interpret the results. I’m talking about the one-sample t test, the binomial test and the chi-square test for goodness-of-fit.
+
+Credit for Video: Bogdan Anastasiei (University Teacher and Consultant)",https://i.ytimg.com/vi/4tWrfjNHXX8/default.jpg,Data Science Materials,454,4,0,0,3,"Statistics,R Begginner Level,R Studio,R Programming,Data Science,Introduction to R,Statistics in R,Data Analysis,Bogdan,Romania,R Statistics,Stats,Stats in R,Basic R,R Function for Statistics,Learn R Code,Learn R,Python,Data Analyst,Statitician",beginner,3.5.0,TRUE
+TgyWeKoK1HA,2020-04-22T00:00:00Z,UCrpq9hzMQSq0ldVcXlLgpvQ,How to use ggplot2 in R | A Beginner&#39;s RStudio Tutorial,"Sorry for the click bait title, but I do hope this can reach a little more people. :P. You can also see me slowly dying because of the heat I am recording this on. 
+
+ Source of Data
+-https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+Rstudio Cheatsheet
+-https://rstudio.com/resources/cheatsheets/
+
+Package Documentation
+-https://ggplot2.tidyverse.org
+-https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf
+
+Script file
+https://github.com/brandonyph/ggplot2-tutorial
+
+Email:         liquidbrain.r@gmail.com
+Github:        https://github.com/brandonyph
+Twitter:       https://twitter.com/Brandon_yeoph",https://i.ytimg.com/vi/TgyWeKoK1HA/default.jpg,Liquid Brain,12820,206,2,0,17,"Rstudio,Science news,Rstudio Tutorial,Bioinformatic,Computing,Research,statistic",beginner,4.0.0,TRUE
+EHwOAXBDi6U,2020-05-25T00:00:00Z,UCjs9nqFmqec7wm_sbFNh-Dg,Introduction of R | R Language for absolute beginner | Programming Adventure,"👉Introduction of R 
+
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
+.
+.
+.
+.
+.
+.
+
+R Download: https://cran.r-project.org/bin/windows/base/
+
+
+R Studio Download: https://rstudio.com/products/rstudio/download/
+
+
+FB: 
+https://www.facebook.com/108437000862172/posts/108438410862031/?substory_index=0&sfnsn=wiwspmo&extid=bwjinSizZIJii95S
+
+Insta: https://www.instagram.com/invites/contact/?i=npl69jgzta7d&utm_content=ed9dr8d
+
+Telegram: 
+https://t.me/joinchat/AAAAAEPTCIx6s4wycnwjvA
+
+Twitter: https://twitter.com/ProgrammingAdv1?s=0
+.
+.",https://i.ytimg.com/vi/EHwOAXBDi6U/default.jpg,Programming Adventure,278,51,1,0,24,"r language,r studio,data science,r programming,r programming for beginners,r programming tutorial,data science tutorial,In Hindi,r programming online,r programming tutorial beginners,Hindi,R Programming Tutorial,r online course,In Hind,r programming tutorial for beginners,r programming basic,r programming for basic,r programming online course",beginner,4.0.0,TRUE
+inJsu-ygBfM,2020-02-09T00:00:00Z,UCcG3AGLDyT8EGfbwDSQKvVA,R Beginner Monte Carlo Simulation,"Beginner introduction to Monte Carlo simulation in R. R basic Monte Carlo code for pi estimation. Learn to program in R with simple code examples.
+
+R programming language: http://lib.stat.cmu.edu/R/CRAN/
+RStudio: https://rstudio.com/products/rstudio/download/#download",https://i.ytimg.com/vi/inJsu-ygBfM/default.jpg,codeRtime,14802,283,4,0,9,"R tutorial,tutorial,R beginner,R programming,R programming language,programming tutorial,R programming tutorial,R programming for beginners,introduction to R programming,computer programming,computer programming tutorial,R coding,R coding tutorial,code walkthrough,R data visualization,R code optimization,R code walkthrough,monte carlo algorithm",beginner,3.6.3,TRUE
+rtixRiDxbwc,2020-08-19T00:00:00Z,UCrVqDbq_ZJ8QoP0mqp6qNrg,"SQL, Python, and R: A Guide In Under 4 Minutes | Sisense Beginner&#39;s Guide","A quick and complete guide to understanding SQL, Python, and R and how they work together.",https://i.ytimg.com/vi/rtixRiDxbwc/default.jpg,Sisense,13435,159,1,0,5,",",beginner,4.0.2,TRUE
+zuYHCl3bSF4,2021-10-30T00:00:00Z,UCP0U3Ily7OP2CmfBhcTBbzA,Practical easy hands-on beginner R RMarkdown workshop  | Open Science workshops | Gilad Feldman,"This is an online/remote workshop titled ""Practical easy hands-on beginner R/RMarkdown workshop | R is easier than you think, time to move to R"" given on October 29, 2021, by Gilad Feldman
+
+Cloud folder: https://mgto.org/rworkshop
+
+Chapters:
+00:00 Introduction and setting up
+10:23 RStudio and R console: Getting started, loading packages
+19:59 Swirl - how to learn R on your own
+31:05 Loading datasets, entering data, editing data, recoding
+50:12 RCommander: Easy dialog boxes, point and click in R
+1:08:08 Esquisse: Easy plotting 
+1:19:40 Our collaborative guides: R/Rstudio 
+1:26:12 Statscloud 
+1:31:47 JAMOVI and R connection/integration
+1:45:39 Statsnotebook
+1:51:04 ggstatsplot, Dataexplorer, dlookr, easystats: Power in single line of code
+2:05:05 Effect size and power analysis collarbotive guides
+2:12:30 Rmarkdown
+2:21:05 Powerful packages and Shiny app for open science: Statcheck and p-explorer
+
+Other open-science workshops: https://www.youtube.com/playlist?list=PLRAF6P3W1K4cvLnkXXHb0jFUR-OwVcJ9k
+
+Given by Gilad Feldman
+Website: http://giladfeldman.org 
+Twitter: @giladfeldman https://twitter.com/giladfeldman
+Workshops on open-science: http://mgto.org/workshops/ 
+Open teaching materials: http://mgto.org/teaching-courses/  
+Mailing list with updates about activities/workshops: https://mgto.org/giladmailinglist
+
+Open Science webpage: https://mgto.org/open-science/
+Mass replication & extensions project at the University of Hong Kong: https://mgto.org/pre-registered-replications/
+
+= 
+
+Resources used/reviewed:
+
+My main resources page: https://mgto.org/resources
+
+Collaborative R/Rmarkdown guide: https://mgto.org/rrmarkdownguide 
+Collaborative JAMOVI/JASP guide: https://mgto.org/jamovijaspguide
+Collaborative effect size and confidence intervals guide: https://mgto.org/effectsizeguide
+Collaborative power analysis guide: https://mgto.org/poweranalysisguide 
+
+Download and install ​R/RStudio: https://www.rstudio.com/products/rstudio/download/#download 
+Howto install R/Rstudio video:  https://www.youtube.com/watch?v=d-u_7vdag-0​
+
+Other tools mentioned:
+JAMOVI: https://www.jamovi.org/
+Statcloud: https://statscloud.app/
+Statsnotebook: https://statsnotebook.io/
+
+Packages mentioned:
+swirl
+Tidyverse (haven/readxl)
+questionr
+datapasta
+DataEditR
+Rcmdr
+jmv
+jmvconnect
+ggstatsplot
+DataExplorer
+dlookr
+skimr
+easystats
+remedy
+statcheck",https://i.ytimg.com/vi/zuYHCl3bSF4/default.jpg,Gilad Feldman,454,15,1,0,0,",",beginner,4.1.1,TRUE
+Cq_QzzmItQw,2021-05-03T00:00:00Z,UCZaDJfCUIbkXolm8uYskZuw,Data Science Course Tutorial with R for Beginners - Go from Beginner To Expert,"➤Learn Data Science & Machine Learning from A-Z: https://rcl.ink/BLQHK
+➤Learn Python Programming from A-Z: https://rcl.ink/tsIqs
+
+In this video, we go through an introduction to Data Science with R programming. This video takes you from beginner to expert in 2 hours with R programming.
+
+When working in the data science field you will definitely become acquainted with the R language and the role it plays in data analysis. This course introduces you to the basics of the R language such as data types, techniques for manipulation, and how to implement fundamental programming tasks. 
+
+You will begin the process of understanding common data structures, programming fundamentals and how to manipulate data all with the help of the R programming language. 
+
+The emphasis in this course is hands-on and practical learning . You will write a simple program using RStudio, manipulate data in a data frame or matrix, and complete a final project as a data analyst using Watson Studio and Jupyter notebooks to acquire and analyze data-driven insights.",https://i.ytimg.com/vi/Cq_QzzmItQw/default.jpg,Tech Education & Marketing,2912,319,1,0,2,"r programming,r programming tutorial,r programming training,data science with r,data scientist,machine learning with r,data science training,data science tutorial,data science with r programming,data science course,learn data science,data science tutorial for beginners,how to learn data science,data science for beginners,introduction to data science,data science course for beginners,r tutorials for beginners,r programming for data science",beginner,4.1.0,TRUE
+p8JUsvNbaWg,2020-02-03T00:00:00Z,UCUc4CZ5ysGkQaDGDR74i1Ew,r programming- r language for beginner - r programming tutoria Class 4,"r programming - r language for beginners - r programming tutorial
+https://youtu.be/p8JUsvNbaWg
+
+R Programming For Beginners:-
+so why is it that our is becoming such a popular and useful tool in data analysis and statistical analysis I'm gonna tell you why stay tuned now the short answer
+is this is one of the rare occasions when something that is free and open-source is in fact better and that this is in my opinion better then the expensive commercially available
+alternatives that are out there and if you don't believe me just look at the trends there are masses of people moving from SPSS to are from Stata to are from SS to R I don't see anybody moving the other direction now R is essentially a programming 
+language and you might find that fact a little bit intimidating or scary but don't and you'll see when I do the little demonstration at the end of the video that it's not difficult to use that it's relatively intuitive and you can learn
+it and there's loads and loads of support out there if you need it the importance of using code to it when you do data analysis is that your your your analysis is reproducible somebody else
+can see exactly how it is that you got to the answers that you got to added to that you've got the ability to collaborate with other people and they
+can look at what you've done and make suggestions or changes or identify mistakes in your analysis and you can't do that with a point-and-click system and the next reason why using code to do
+your analysis is important is that not only is your analysis reproducible but it's also repeatable in other words if a year from now you've got additional data
+let's say you had data for 2018 and 2019 you've got double the data set you want to rerun that analysis you just run your your code and everything your your data
+cleaning your data manipulation and your analysis all gets repeated right there and then at the push of a button now one of the most exciting things about R is
+because it's open source you've got people all over the world writing packages and packages and things that you can install and use that deal with very specific data analytic
+problems and these are free and there are literally thousands of them another big advantage of using R is that it has incredible data visualization and graphics capabilities in fact in that sense it beats any other package hands down it's a slam dunk nothing  comes close right now I'm going to do a short demonstration just to show you that using a program language to do analysis is not difficult it's not scary it's relatively simple okay so watch this so in this particular example I have got a little data frame called friends I click on that and we can see it over here we've got some variables and some observations I'm looking at age and height let's see what we can do with those basically the way the coding works is you apply a function to an object so in this case the function might be the mean we want to know the mean of age which is the object which is 23 we might want to know the median of the height we can plot a histogram of the age or plot age against height and we might want to know if there is a statistically significant correlation between age and height and as we can see in this particular case there isn't right so clearly writing code is not that scary at all I mean I haven't broken up into a sweat you'll notice that I don't have a tremor I don't have a heart palpitation I haven't fallen over dead I've actually survived it's not difficult it's not scary you can do it now if you're interested in learning art and why don't you subscribe to this channel follow the videos I'm going to start off by just talking you through how to install our how to install rstudio which is where you're going to write the code and then we're going to go through everything data analysis data manipulation erotic visualization all the way up to machine learning and AI thanks for watching leave your comments and questions in the discussion section below
+see you soon
+Subscribe Our Channel and Press The Bell Icon:
+https://www.youtube.com/channel/UCUc4CZ5ysGkQaDGDR74i1Ew/videos",https://i.ytimg.com/vi/p8JUsvNbaWg/default.jpg,Academy 2020,37,0,0,0,1,"r programming,r language for beginners,r programming tutorial,r programming for beginners,r tutorial,learn r programming for beginners,r language tutorial,r training for beginners,r tutorial for beginners,data analytics for beginners,r programming course,introduction to r,r tutorial for data analysis,r programing,r programming download,tutorial on r programming,learn r programming,how to learn r programming,what is r programming,Academy 2020",beginner,3.6.3,TRUE
+QcRznNFvG6o,2021-07-26T00:00:00Z,UCVjKwMEPxAREnsED8K8mBfg,R Programming for Beginner - Basic RStudio Tutorial,#Rtutorial #R,https://i.ytimg.com/vi/QcRznNFvG6o/default.jpg,Data Science Tech,3,0,0,0,0,"R Programming Tutorial - Learn the Basics of R,R Programming For Beginners,R Language Tutorial,RStudio Tutorial For Beginners,R & RStudio",beginner,4.1.0,TRUE
+2Sb1Gvo5si8,2018-08-15T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Linear Regression in R | Linear Regression in R With Example | Data Science Algorithms | Simplilearn,"This Linear regression in R video will help you understand what is linear regression, why linear regression, and linear regression in R with example. You will also look at a use case predicting the revenue of a company using multiple linear regression. Now, let's deep dive into this video and understand this data science algorithm.
+
+🔥 Enroll for FREE Machine Learning & Get your Completion Certificate:   https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearning&utm_medium=Description&utm_source=youtube
+
+Below topics are explained in this ""Linear Regression in R"" video:
+00:00  Introduction
+00:28  Why linear regression?
+03:09  What is linear regression?
+03:38  How linear regression works? 
+10:05  Use case - Predicting the revenue using linear regression 
+
+To learn more about Data Science, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1
+
+📚Linear Regression in R: https://bit.ly/2BJTB91
+
+You can also go through the Slides here: https://goo.gl/HBso29
+
+Watch more videos on Data Science: https://www.youtube.com/watch?v=0gf5iLTbiQM&list=PLEiEAq2VkUUIEQ7ENKU5Gv0HpRDtOphC6
+
+#LinearRegressionInR #LinearRegression #LinearRegressionInRWithExample #DataScienceAlgorithms #DataScienceWithR #DataScienceCourse #DataScience #DataScientist #MachineLearning
+
+What is Linear Regression?
+Linear Regression is the statistical model that is used to predict the relationship between independent and dependent variables by examining two factors. The first one is which variables, in particular, are significant predictors of the outcome variable and the second one is how significant is the regression line to make predictions with the highest possible accuracy. Linear regression is used in stock price prediction, weather forecasting, sales analysis, etc.
+
+Become an expert in data analytics using the R programming language in this data science certification training course. You’ll master data exploration, data visualization, predictive analytics and descriptive analytics techniques with the R language. With this data science course, you’ll get hands-on practice on R CloudLab by implementing various real-life, industry-based projects in the domains of healthcare, retail, insurance, finance, airlines, music industry, and unemployment.
+
+Why learn Data Science with R? 
+1. This course forms an ideal package for aspiring data analysts aspiring to build a successful career in analytics/data science. By the end of this training, participants will acquire a 360-degree overview of business analytics and R by mastering concepts like data exploration, data visualization, predictive analytics, etc
+2. According to marketsandmarkets.com, the advanced analytics market will be worth $29.53 Billion by 2019
+3. Wired.com points to a report by Glassdoor that the average salary of a data scientist is $118,709
+4. Randstad reports that pay hikes in the analytics industry are 50% higher than IT
+
+The Data Science Certification with R has been designed to give you in-depth knowledge of the various data analytics techniques that can be performed using R. The data science course is packed with real-life projects and case studies, and includes R CloudLab for practice.
+1. Mastering R language: The data science course provides an in-depth understanding of the R language, R-studio, and R packages. You will learn the various types of apply functions including DPYR, gain an understanding of data structure in R, and perform data visualizations using the various graphics available in R.
+2. Mastering advanced statistical concepts: The data science training course also includes various statistical concepts such as linear and logistic regression, cluster analysis and forecasting. You will also learn hypothesis testing.
+
+The Data Science with R is recommended for: 
+1. IT professionals looking for a career switch into data science and analytics
+2. Software developers looking for a career switch into data science and analytics
+3. Professionals working in data and business analytics
+4. Graduates looking to build a career in analytics and data science
+5. Anyone with a genuine interest in the data science field
+6. Experienced professionals who would like to harness data science in their fields
+
+Learn more at: https://www.simplilearn.com/big-data-and-analytics/data-scientist-certification-sas-r-excel-training?utm_campaign=Linear-Regression-in-R-2Sb1Gvo5si8&utm_medium=Description&utm_source=youtube
+
+For more information about Simplilearn courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/2Sb1Gvo5si8/default.jpg,Simplilearn,105557,1237,48,0,336,"linear regression in r,linear regression in r studio,linear regression in r with example,data science algorithms,data science with r,linear regression machine learning,linear regression in r step by step,linear regression in r programming,linear regression in r tutorial,linear regression analysis,linear regression statistics,linear regression,r programming for beginners,data science,data science tutorial,what is data science,data science simplilearn,simplilearn",beginner,3.5.1,TRUE
+lMZPGDilUAk,2021-10-05T00:00:00Z,UCP4Sgo98znEWrK4F-3s0pHw,R/Rstudio: How to select your data - Subsetting tutorial [Beginner],Follow me along when I present how to select data from data.frames and a little bit about lists as well in R.,https://i.ytimg.com/vi/lMZPGDilUAk/default.jpg,Coding on the fly,13,0,0,0,0,",",beginner,4.1.1,TRUE
+gA0jYDP6XhA,2020-08-21T00:00:00Z,UCIHPu9hJFY4Rb86r5qhZk1g,[R Beginners]: Beginner guide for connecting and using SQL Server in R. Code for Windows included.,"Easy and step by step guide explains how to connect to SQL Server, how to read, write, delete and append data in SQL Server in Windows environment.
+Code https://rpubs.com/techanswers88/sqlserver
+
+How to run stored procedures from R and how to provide parameters to the stored procedures.
+Easy and step by step guide for Windows.",https://i.ytimg.com/vi/gA0jYDP6XhA/default.jpg,TechAnswers88,2539,53,2,0,16,",",beginner,4.0.2,TRUE
+kujeEVBwY2E,2020-08-05T00:00:00Z,UCKwktLYYilL6nEnksseojRA,Stock Analysis Tutorial - Advanced Beginner R programming - Building the Shiny Dashboard (Part 6),"This is a beginner data science tutorial where we will build an interactive stock analysis dashboard using RStudio, the R programming language, and the 'Shiny' dashboard package. This tutorial covers web scraping, dynamically downloading stock data, basic r programming and data cleaning, plotting with ggplot2, and coding an interactive dashboard in Shiny.
+
+In this video we combine all of the data and charts we’ve created to build a dynamic Shiny dashboard.
+________
+Download RStudio:
+https://rstudio.com/products/rstudio/download/
+
+________
+Tidyverse:
+https://www.tidyverse.org/
+________
+Basic Data Manipulation in R:
+https://youtu.be/IhTszOAA3EM
+
+Pipe operator shortcut:
+ctrl + shift + m
+
+dplyr:
+ - filter()
+ - select()
+ - mutate()
+ - group_by() & summarize()
+ - left_join()
+
+tidyr: 
+ - spread()
+ - gather()
+
+________
+Basic R videos:
+https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg
+
+_______
+Social
+Twitter: 
+@Matt_C_137
+
+GitHub: 
+@MattC137
+https://github.com/MattC137
+
+Email:
+earthc0137@gmail.com",https://i.ytimg.com/vi/kujeEVBwY2E/default.jpg,Matt C137,483,8,0,0,4,"Dplyr,Tidyr,Shiny,Rvest,Ggplot2,Charting,Charting data,R programming,R tutorial,tutorial,R programming tutorial,R programming basics,data science,r programming language,data cleaning,data science R,data science tutorial,tidy data,Tidyverse,Programming,data science projects,Web scraping,Scraping,investing,Stock,Stocks,Stock market,s&p 500,Finance,Dashboard,Interactive dashboard,Stock data,Investment data,R tutorial for beginners,R tutorial for data analysis",beginner,4.0.2,TRUE
+uCHkoMf_xAM,2020-08-05T00:00:00Z,UCKwktLYYilL6nEnksseojRA,Stock Analysis Tutorial - Advanced Beginner R programming - Getting Stock Price Data (Part 2),"This is a beginner data science tutorial where we will build an interactive stock analysis dashboard using RStudio, the R programming language, and the 'Shiny' dashboard package. This tutorial covers web scraping, dynamically downloading stock data, basic r programming and data cleaning, plotting with ggplot2, and coding an interactive dashboard in Shiny.
+
+In this video we use a simple method to import the historical stock for the S&P 500 constituents.
+________
+Download RStudio:
+https://rstudio.com/products/rstudio/download/
+
+________
+Tidyverse:
+https://www.tidyverse.org/
+________
+Basic Data Manipulation in R:
+https://youtu.be/IhTszOAA3EM
+
+Pipe operator shortcut:
+ctrl + shift + m
+
+dplyr:
+ - filter()
+ - select()
+ - mutate()
+ - group_by() & summarize()
+ - left_join()
+
+tidyr: 
+ - spread()
+ - gather()
+
+________
+Basic R videos:
+https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg
+
+_______
+Social
+Twitter: 
+@Matt_C_137
+
+GitHub: 
+@MattC137
+https://github.com/MattC137
+
+Email:
+earthc0137@gmail.com",https://i.ytimg.com/vi/uCHkoMf_xAM/default.jpg,Matt C137,458,15,0,0,1,"Dplyr,Tidyr,Shiny,Rvest,Ggplot2,Charting,Charting data,R programming,R tutorial,tutorial,R programming tutorial,R programming basics,data science,r programming language,data cleaning,data science R,data science tutorial,tidy data,Tidyverse,Programming,data science projects,Web scraping,Scraping,investing,Stock,Stocks,Stock market,s&p 500,Finance,Dashboard,Interactive dashboard,Stock data,Investment data,R tutorial for beginners,R tutorial for data analysis",beginner,4.0.2,TRUE
+V74V43WNt4A,2021-03-04T00:00:00Z,UCOhqYf8097V3Wk3exiJGxcw,Overview of R Programming | Best R Programming Course Tutorial for Beginner | Henry Harvin,"🔥Henry Harvin R Programming course  (Use code “YOUTUBE20”)
+https://www.henryharvin.com/r-programming-data-science-course  
+
+This Henry Harvin video on “Overview of R Programming”   is a complete Overview of R Programming tutorial for beginners who want to learn the Overview of R Programming. R is a programming language and free software environment for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. It is widely used among statisticians and data miners for developing statistical software and data analysis. R is a programming language for statistical computing and graphics that you can use to clean, analyze, and graph your data. It is widely used by researchers from diverse disciplines to estimate and display results and by teachers of statistics and research methods.28
+
+Henry Harvin Course with Completion Certificate:
+https://www.henryharvin.com/r-programming-data-science-course 
+
+---------------------------------------------------------------------------
+
+✅ 𝐅𝐨𝐥𝐥𝐨𝐰 𝐇𝐞𝐧𝐫𝐲 𝐇𝐚𝐫𝐯𝐢𝐧 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐎𝐧𝐥𝐢𝐧𝐞 for more information, visit:
+
+𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧:    https://bit.ly/2VyjTVa
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:   https://bit.ly/2TTQUuN
+𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦:  https://bit.ly/3lwcGzV
+𝐓𝐰𝐢𝐭𝐭𝐞𝐫:       https://bit.ly/2VqdSKB
+---------------------------------------------------------------------------
+
+🔴 Subscribe to our channel to get the latest video Updates:
+https://bit.ly/3fspZxu
+
+🔴 Check out more R Programming course Tutorials:
+https://youtube.com/playlist?list=PL28eq_nhJTOe17MIwBkAU0EVQS0w-i8cb 
+
+#Henryharvin #BestOnlineRProgramminglcourseTutorialForBeginners #RProgrammingcourse #RProgrammingcourse #RProgrammingcourse #RProgramming 
+#rprogramming #pythonprogramming #programming #programminglanguage #programminglove #programminglife #programmingstudents #javaprogramming #programmingislife #programminglanguages #programmingjokes #crossfitprogramming #programmings #learnprogramming #programmingquotes #cprogramming #programmingisfun #programminghumour #webprogramming #programminghumor #programmingmemes #cncprogramming #datascience #computerprogramming #rprogramming #programmingcontest #warriorprogramming #programmingfacts #python #OverviewofRProgramming
+
+𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐂𝐨𝐮𝐫𝐬𝐞:
+
+Henry Harvin RProgramming course certification is Ranked 1 in the industry by BNC.com. 
+One of our very best courses in Data Analytics, the R programming for Data Science Course from Henry Harvin® covers foundational R programming concepts such as data types, vectors, and indexing as well as introduces participants to performing data operations in R including Data wrangling, and making plots | R Programming for Data Science guarantees your success as a Data Scientist! Amongst the best R Programming for Data Science Courses in India currently, this is one of Henry Harvin’s signature training, where a lot of time and resources have been carefully invested in ensuring only the most relevant knowledge, is imparted to students R Programming for Data Science given upon successful completion of the course will be endorsed by Henry Harvin® which has affiliations from the American Association of EFL, UK Cert, UKAF, MSME & Govt of India or Trainers are well versed in the subject matter with 10+ Experience. They Focus on giving Learner Industry Graded Projects, as per the Curriculum during the training for Practical and In-Depth Learning of the Subject Matter
+
+⏩ 𝐖𝐚𝐭𝐜𝐡 𝐦𝐨𝐫𝐞 𝐯𝐢𝐝𝐞𝐨𝐬: https://bit.ly/3fspZxu
+
+Key Features:
+
+✅  Recognised Certification
+✅  Integrated Curriculum
+✅  100% Practical Training
+✅  Gain Experience of 12+ Projects
+✅  Job guidance and 1-year support of Analytics academy
+✅  Trusted by 160+ Corporates and 60+ Colleges
+✅  Become Eligible for jobs demanding an Analytics background.
+✅  Fill the void of thousands of untapped High-Paying Jobs.
+✅  Open doors to Job Opportunities Abroad demanding specialization.
+✅  Improve your CV & Linkedin Profile with technical & professional development.
+
+
+Learn more at our Website:      https://bit.ly/3Cibw0U
+
+👉 𝐑𝐞𝐚𝐜𝐡 𝐮𝐬 𝐨𝐮𝐭:
+
+Email:    info@henryharvin.com
+Helpline No.:  +91 9015266266
+Whatsapp:  +91-9891953953
+
+---------------------------------------------------",https://i.ytimg.com/vi/V74V43WNt4A/default.jpg,Henry Harvin,88,1,0,0,0,",",beginner,4.0.5,TRUE
+#NAME?,2020-08-05T00:00:00Z,UCKwktLYYilL6nEnksseojRA,Stock Analysis Tutorial - Advanced Beginner R programming - Creating a Candlestick Chart (Part 3),NA,https://i.ytimg.com/vi/-DuDDLB7FoA/default.jpg,Matt C137,0,0,0,0,0,",",beginner,4.0.2,TRUE
+SHwoC9vR8qY,2020-09-17T00:00:00Z,UC2rRvWHURzOwDJ5hhVL4oLA,R Beginner Workshop @ Vancouver Datajam 2020,Workshop Delivered by Yuka Takemon and Travis Blimkie as part of Vancouver Datajam 2020.,https://i.ytimg.com/vi/SHwoC9vR8qY/default.jpg,Vancouver Datajam,71,0,0,0,0,"r workshop,r training,vancouver tech,vancouver r,vancouver rladies,vancouver datajam,rladies,datajam workshop,vancouver datajam workshop,vancouver datajam r workshop",beginner,4.0.2,TRUE
+xWjO3QNdMyY,2020-08-05T00:00:00Z,UCKwktLYYilL6nEnksseojRA,Stock Analysis Tutorial - Advanced Beginner R programming - Performance Calculations (Part 4),"This is a beginner data science tutorial where we will build an interactive stock analysis dashboard using RStudio, the R programming language, and the 'Shiny' dashboard package. This tutorial covers web scraping, dynamically downloading stock data, basic r programming and data cleaning, plotting with ggplot2, and coding an interactive dashboard in Shiny.
+
+In this video we calculate long term performance numbers for each stock.
+________
+Download RStudio:
+https://rstudio.com/products/rstudio/download/
+
+________
+Tidyverse:
+https://www.tidyverse.org/
+________
+Basic Data Manipulation in R:
+https://youtu.be/IhTszOAA3EM
+
+Pipe operator shortcut:
+ctrl + shift + m
+
+dplyr:
+ - filter()
+ - select()
+ - mutate()
+ - group_by() & summarize()
+ - left_join()
+
+tidyr: 
+ - spread()
+ - gather()
+
+________
+Basic R videos:
+https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg
+
+_______
+Social
+Twitter: 
+@Matt_C_137
+
+GitHub: 
+@MattC137
+https://github.com/MattC137
+
+Email:
+earthc0137@gmail.com",https://i.ytimg.com/vi/xWjO3QNdMyY/default.jpg,Matt C137,234,5,0,0,0,"Dplyr,Tidyr,Shiny,Rvest,Ggplot2,Charting,Charting data,R programming,R tutorial,tutorial,R programming tutorial,R programming basics,data science,r programming language,data cleaning,data science R,data science tutorial,tidy data,Tidyverse,Programming,data science projects,Web scraping,Scraping,investing,Stock,Stocks,Stock market,s&p 500,Finance,Dashboard,Interactive dashboard,Stock data,Investment data,R tutorial for beginners,R tutorial for data analysis",beginner,4.0.2,TRUE
+g8XYktrLfrk,2020-07-05T00:00:00Z,UCs0uoN-pLaQjlWUqfU7GCzw,Common errors you&#39;ll get in R as a beginner and how to quickly figure them out,"This video is part of the online data visualization R course prepared for the University of Edinburgh PPLS Writing Centre summer session of 2020.
+
+If you're following the course: once you've finished watching, head back to the worksheet and just continue with the exercises.
+
+01:16 What to do when you see a + in the Console and nothing is happening
+02:01 Too many commas or brackets: Error unexpected ')', argument is empty
+02:53 Missing things: object not found, unused argument, could not find function, there is no package called
+04:07 How to google for errors
+06:55 ggplot2 syntax and the trailing ""+""
+08:23 When ggplot2 doesn't throw an error but doesn't work either",https://i.ytimg.com/vi/g8XYktrLfrk/default.jpg,Andres Karjus,6837,44,3,0,6,"rstats,dataviz,data visualization,errors,debugging,data science,rstudio",beginner,4.0.2,TRUE
+BpjkQNw_Em8,2021-09-19T00:00:00Z,UCrpq9hzMQSq0ldVcXlLgpvQ,Data manipulation in R (For Bioinformatics)| R tutorial | For beginner,"Just some of the functions I used a lot to make my life easieR :)
+
+R functions I mentioned: 
+- To split the string within a cell
+- To extract particular string within a text
+- To create a data frame from sketch
+- To convert wide to long data frame
+- To set conditions based on other columns
+- To rearrange the column order
+
+
+Connect with me: 
+Email:         liquidbrain.r@gmail.com
+Github:        https://github.com/Lindseynicer
+Twitter:       https://twitter.com/LianFoong
+
+More information:
+https://bit.ly/LiancheeFoong",https://i.ytimg.com/vi/BpjkQNw_Em8/default.jpg,Liquid Brain,287,20,0,0,2,"Rstudio,Science news,Rstudio Tutorial,Bioinformatic,statistic",beginner,4.1.1,TRUE
+8xo4Lx9fiRc,2020-06-18T00:00:00Z,UCcG3AGLDyT8EGfbwDSQKvVA,R Beginner Monte Carlo Integration,Beginner introduction to Monte Carlo simulation in R. Estimate integrals with Monte Carlo integration. Basic Monte Carlo tutorial in R and RStudio.,https://i.ytimg.com/vi/8xo4Lx9fiRc/default.jpg,codeRtime,4017,79,0,0,6,"Monte Carlo integration,R Monte Carlo simulation,Monte Carlo simulation in R,Introduction to Monte Carlo simulation,simulation in R",beginner,4.0.2,TRUE
+g4xZemeE40g,2020-05-25T00:00:00Z,UCfcY_BOpfgpk_gUoyQxlfEQ,"## R203 Beginner Stats in R  - Basic Histogram,  Density, Stem and Leaf Plot","This series is for statistics beginners.  I will cover dozens of examples at a basic level in R.  This is a short example of 3 methods of plotting data 
+a) Histograms
+b) Density Plots
+c) Stem and Leaf Plots",https://i.ytimg.com/vi/g4xZemeE40g/default.jpg,Scott Burk,196,1,0,0,0,",",beginner,4.0.0,TRUE
+fSz0gDFN_4Q,2021-05-10T00:00:00Z,UCf5-hgklL61FDoGvGZlcR6A,RBD analysis in R for beginner,"This video is very important for beginner who do not know about of R.
+
+Download R : https://cran.r-project.org/
+Download Rstudio : https://www.rstudio.com/products/rstudio/download/",https://i.ytimg.com/vi/fSz0gDFN_4Q/default.jpg,SAHIL KANZARIYA,180,5,0,0,2,",",beginner,4.1.0,TRUE
+cF9OhwXyr7s,2018-01-05T00:00:00Z,UCZ84jZC75V9anJvVq2Y6c-A,R help tips for beginner || How to get help in R ??,"This R programming tutorial provides info on different help options in R while using the R studio. For more R tutorials, don't forget to like and subscribe my channel.",https://i.ytimg.com/vi/cF9OhwXyr7s/default.jpg,R-programming Library,126,1,0,0,0,"help in R,help in r studio,r tutorial,best r tutorials,r programming library,Durga siwakoti,how to get help in R,help functions in R,r plots,graphics in R,vectors in R,r studio,r programming,r help tips,help in r",beginner,3.4.3,TRUE
+-26V8J9SfkA,2020-03-31T00:00:00Z,UCMaeGsI0fIQ9UFoJBHVN_AA,DiSC Beginner R lesson 3,"Data frames, importing data from CSV and Excel files, creating a histogram and scatterplot, and regression. Introduction to factors.",https://i.ytimg.com/vi/-26V8J9SfkA/default.jpg,Steve Baskauf,42,2,0,0,0,"RStudio,R language,programming,Vanderbilt Libraries,DiSC",beginner,3.6.3,TRUE
+1daXMiXGJWI,2021-09-30T00:00:00Z,UCTpTquMz7auX3GeuVihMLFA,R Functions and Using Built in Help | R Beginner Series | R Programming | Business Analytics Using R,"#RBasics #RBeginner Series #RFunctionsandBuiltinHelp
+In this lecture, we discuss how to access the built-in functions in R and how to get help for the same.
+
+TIMESTAMP MENU
+0:00 INTRO
+00:25 FUNCTIONS AND BUILT-IN HELP 
+01:53 Using Built-in Help
+03:08 The Tabbed Completion
+04:28 Seeking Help When You Know The Name Of The Function
+05:58 Outro
+
+For More Videos on R Programming, you can following the following playlists:
+DPLYR
+https://youtube.com/playlist?list=PLeoBtLuawOsVBtZVaQukgjyhtV3I8p80o
+Statistical tests using R
+https://youtube.com/playlist?list=PLeoBtLuawOsWAKg6FgVosMBoOBo21wRnz
+Machine Learning Using R
+https://youtube.com/playlist?list=PLeoBtLuawOsUyRoomIR8E5nbuIVFNXWFf
+ML Projects
+https://youtube.com/playlist?list=PLeoBtLuawOsVET8XIsAHNwfn2cncfppYt
+Data Visulatization Using GGPLOT2-1
+https://youtube.com/playlist?list=PLeoBtLuawOsW4FTvRFqLSsLUakZrTkzRd
+Data Visulatization Using GGPLOT2-2
+https://youtube.com/playlist?list=PLeoBtLuawOsXR1x-U69x3Dw2EGE2PQx3J
+
+You can follow me on all the following social media handles:
+Facebook: https://www.facebook.com/RwithRD
+Linkedin: https://www.linkedin.com/in/rajeshdorbala/
+Instagram: rajeshdorbalatutorials
+Twitter: @dorbalarajesh",https://i.ytimg.com/vi/1daXMiXGJWI/default.jpg,Rajesh Dorbala,51,4,0,0,0,"Rajesh Dorbala,RwithRD,RDTutorials,RVideos,R Function,R Built In Help,R Basics,R Programming,R Studio,R Coding,Coding with R,R Fundamentals,YouTube R Videos,R Tutorials,R Videos,R Lectures. R for Business Analytics,R Help,Learning R,Beginning with R,How to learn R",beginner,4.1.1,TRUE
+rd3yEEhGas0,2021-10-26T00:00:00Z,UC-OJG32bISZIATe8VJgfHgw,RStudio For Beginner Data Scientists - learn Programming Languages,"link to this course
+https://click.linksynergy.com/deeplink?id=Gw/ETjJoU9M&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fr-studio-for-beginner-data-scientists%2F
+RStudio For Beginner Data Scientists - learn Programming Languages
+Best Programming Languages Course
+Code along with me as this course introduces you to RStudio and provides a foundation to become a Data Scientist.
+Fundamentals of R Studio,Data Preparation within R Studio,Create Visualisations within R Studio,Build Working Functions,Work With Loops Such As For, If, Ifelse & While,Data Science
+Windows PC,Problem Solving Mindset,This course aims to cover the fundamental aspects of RStudio, whilst also providing some practical examples of how to use RStudio in a data science use case. This course provides varied difficulty of material to test whether the concepts covered in the lectures have been understood and can be applied.,Beginner R Studio users with an interest in data analysisData Scientists wanting to learn RStudio,Beginner R Studio users with an interest in data analysis,Data Scientists wanting to learn RStudio",https://i.ytimg.com/vi/rd3yEEhGas0/default.jpg,Flavio Rey,0,0,0,0,0,",",beginner,4.1.1,TRUE
+YAwiLoY8i-s,2021-04-16T00:00:00Z,UChYnFEN9cfPPeDq3nneiWcA,Data Science Project Step by Step in Hindi for Beginner | Data Science  Hands-on Project Workshop,"Complete an Industry Relevant Data Science Project in Next 60 Minutes in Hindi / Urdu
+…Even if you are a Beginner
+https://www.dataisgood.com
+
+If you find any issue, you can email us on: - support@dataisgood.com
+
+Instructors
+=========
+Maryam Siddiqui
+Executive Data Science Editor
+and Host @DataisGood
+
+Aditi Girotra
+Senior Editor and Data Science
+Evangelist @DataisGood
+
+What You're Going To Learn 👇
+==========================
+✅   The five essential steps you need, to start any Data Science Project. 
+✅   Complete an Industry Relevant Project that will impress your friends and recruiters alike.
+✅   Get the Downloadable Codes, Workbook, PDF of the Project to upload it in your Resume and start building your Data Science Portfolio.
+✅  Implement and Apply Core Data Science Analysis to find hidden trends and patterns. 
+✅   Learn about the latest tools, technologies, and algorithms required to solve easy to advanced Data Science Problems.
+✅   Understand the Difference Between a Toy Data Set and an Industry Relevant Project.
+✅   What most Aspirant Data Scientists get entirely wrong — and how using this knowledge can help you turn the tide and jump-start your Data Science career almost immediately.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+data science project
+data science project in hindi
+data science project in urdu
+data science project for beginners in Hindi
+data science project step by step
+data science project in python
+data science project tutorial
+data science python project
+python data science project
+end to end data science project
+data science project ideas
+complete life cycle of a data science project
+data science end to end project
+data science project life cycle
+data science complete project
+how to start a data science project
+data science project documentation template
+capstone project data science
+data science project explanation
+data science project in r
+data science project from scratch
+data science project examples
+data science project using python
+project on data science
+how to do data science project
+trending data science projects
+data science projects 2021",https://i.ytimg.com/vi/YAwiLoY8i-s/default.jpg,Data is Good Hindi,48853,891,63,0,264,"data science,data science project,data science projects for beginners,data science project in python,data science project step by step,data science python project,python data science project,end to end data science project,data science project ideas,data science end to end project,data science complete project,how to start a data science project,capstone project data science,project on data science,how to do data science project,data science project from scratch",beginner,4.0.5,TRUE
+5ctbvkAMQO4,2018-10-16T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,Natural Language Processing In 10 Minutes | NLP Tutorial For Beginners | NLP Training | Edureka,"** Natural Language Processing Using Python: https://www.edureka.co/python-natural-language-processing-course **
+This Edureka video will provide you with a short and crisp description of NLP (Natural Language Processing) and Text Mining. You will also learn about the various applications of NLP in the industry.
+
+NLP Tutorial : https://www.youtube.com/watch?v=05ONoGfmKvA
+
+Subscribe to our channel to get video updates. Hit the subscribe button above. 
+
+-------------------------------------------------------------------------------------------------------
+#NLPin10minutes #NLPtutorial #NLPtraining #Edureka
+
+Facebook: https://www.facebook.com/edurekaIN/
+Twitter: https://twitter.com/edurekain
+LinkedIn: https://www.linkedin.com/company/edureka
+Instagram: https://www.instagram.com/edureka_learning/
+-------------------------------------------------------------------------------------------------------
+
+- - - - - - - - - - - - - -
+
+How it Works?
+
+1. This is 21 hrs of Online Live Instructor-led course. Weekend class: 7 sessions of 3 hours each.
+2. We have a 24x7 One-on-One LIVE Technical Support to help you with any problems you might face or any clarifications you may require during the course.
+3. At the end of the training, you will have to undergo a 2-hour LIVE Practical Exam based on which we will provide you a Grade and a Verifiable Certificate!
+
+
+- - - - - - - - - - - - - -
+
+About the Course
+
+Edureka's Natural Language Processing using Python Training focuses on step by step guide to NLP and Text Analytics with extensive hands-on using Python Programming Language. It has been packed up with a lot of real-life examples, where you can apply the learned content to use. Features such as Semantic Analysis, Text Processing, Sentiment Analytics and Machine Learning have been discussed.
+
+This course is for anyone who works with data and text– with good analytical background and little exposure to Python Programming Language. It is designed to help you understand the important concepts and techniques used in Natural Language Processing using Python Programming Language.  You will be able to build your own machine learning model for text classification. Towards the end of the course, we will be discussing various practical use cases of NLP in python programming language to enhance your learning experience.
+
+--------------------------
+
+Who Should go for this course ?
+
+Edureka’s NLP Training is a good fit for the below professionals:
+From a college student having exposure to programming to a technical architect/lead in an organisation
+Developers aspiring to be a ‘Data Scientist'
+Analytics Managers who are leading a team of analysts
+Business Analysts who want to understand Text Mining Techniques
+'Python' professionals who want to design automatic predictive models on text data 
+""This is apt for everyone”
+
+---------------------------------
+
+
+Why Learn Natural Language Processing or NLP?
+
+Natural Language Processing (or Text Analytics/Text Mining) applies analytic tools to learn from collections of text data, like social media, books, newspapers, emails, etc. The goal can be considered to be similar to humans learning by reading such material. However, using automated algorithms we can learn from massive amounts of text, very much more than a human can. It is bringing a new revolution by giving rise to chatbots and virtual assistants to help one system address queries of millions of users.
+
+NLP is a branch of artificial intelligence that has many important implications on the ways that computers and humans interact. Human language, developed over thousands and thousands of years, has become a nuanced form of communication that carries a wealth of information that often transcends the words alone. NLP will become an important technology in bridging the gap between human communication and digital data.
+
+
+---------------------------------
+
+For more information, please write back to us at sales@edureka.co or call us at IND: 9606058406 / US: 18338555775 (toll-free).",https://i.ytimg.com/vi/5ctbvkAMQO4/default.jpg,edureka!,506922,8987,334,0,72,"yt:cc=on,natural language processing tutorial,natural language processing in 10 minutes,nlp tutorial for beginners,nlp tutorial,nlp in 10 minutes,nltk tutorial,nltk tutorial for beginners,nltk training,natural language processing training,nlp with python tutorial,nlp programming tutorial,nlp neural network tutorial,nlp machine learning tutorial,nltk tutorial in python,edureka,nlp edureka",beginner,3.5.1,FALSE
+N5gYo43oLE8,2017-11-21T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,ggplot2 Tutorial | ggplot2 In R Tutorial | Data Visualization In R | R Training | Edureka,"( R Training : https://www.edureka.co/data-analytics-with-r-certification-training )
+This ""ggplot2 Tutorial"" by Edureka is a comprehensive session on the ggplot2  in R. This tutorial will not only get you started with the ggplot2 package, but also make you an expert in visualizing data with the help of this package. This tutorial will comprise of these topics:
+
+1) Base R Graphics
+2) Grammar of Graphics
+3) GGPLOT2 package
+
+Check out our R Playlist: https://goo.gl/huUh7Y
+
+Subscribe to our channel to get video updates. Hit the subscribe button above.
+
+#R #Rtutorial #Ronlinetraining #ggplot2 #ggplotinr
+
+How it Works?
+
+1. This is a 5 Week Instructor led Online Course, 30 hours of assignment and 20 hours of project work
+
+2. We have a 24x7 One-on-One LIVE Technical Support to help you with any problems you might face or any clarifications you may require during the course.
+
+3. At the end of the training you will be working on a real time project for which we will provide you a Grade and a Verifiable Certificate!
+
+- - - - - - - - - - - - - - - - -
+
+About the Course
+
+edureka's Data Analytics with R training course is specially designed to provide the requisite knowledge and skills to become a successful analytics professional. It covers concepts of Data Manipulation, Exploratory Data Analysis, etc before moving over to advanced topics like the Ensemble of Decision trees, Collaborative filtering, etc. During our Data Analytics with R Certification training, our instructors will help you:
+
+1. Understand concepts around Business Intelligence and Business Analytics
+
+2. Explore Recommendation Systems with functions like Association Rule Mining , user-based collaborative filtering and Item-based collaborative filtering among others
+
+3. Apply various supervised machine learning techniques
+
+4. Perform Analysis of Variance (ANOVA)
+
+5. Learn where to use algorithms - Decision Trees, Logistic Regression, Support Vector Machines, Ensemble Techniques etc
+
+6. Use various packages in R to create fancy plots
+
+7. Work on a real-life project, implementing supervised and unsupervised machine learning techniques to derive business insights
+
+
+- - - - - - - - - - - - - - - - - - -
+
+Who should go for this course?
+
+This course is meant for all those students and professionals who are interested in working in analytics industry and are keen to enhance their technical skills with exposure to cutting-edge practices. This is a great course for all those who are ambitious to become 'Data Analysts' in near future. This is a must learn course for professionals from Mathematics, Statistics or Economics background and interested in learning Business Analytics.
+
+- - - - - - - - - - - - - - - -
+
+Why learn Data Analytics with R?
+
+The Data Analytics with R training certifies you in mastering the most popular Analytics tool. ""R"" wins on Statistical Capability, Graphical capability, Cost, rich set of packages and is the most preferred tool for Data Scientists.
+
+Below is a blog that will help you understand the significance of R and Data Science: Mastering R Is The First Step For A Top-Class Data Science Career
+
+Having Data Science skills is a highly preferred learning path after the Data Analytics with R training. Check out the upgraded Data Science Course
+
+For more information, please write back to us at sales@edureka.co or call us at IND: 9606058406 / US: 18338555775 (toll-free).
+
+Facebook: https://www.facebook.com/edurekaIN/
+Twitter: https://twitter.com/edurekain
+LinkedIn: https://www.linkedin.com/company/edureka",https://i.ytimg.com/vi/N5gYo43oLE8/default.jpg,edureka!,117622,1608,37,0,128,"yt:cc=on,GGPLOT2 Tutorial,GGPLOT2 in R,Introduction to GGPLOT2,Data Visualization using R,Data Visualization with ggplot2,Grammar of Graphics,grammar of graphics ggplot2,Plotting in R,R programming,R tutorial,Box-plot in R,R tutorial for data exploration,Data Visualization with R,Data preprocessing in R,GGPLOT2 in RStudio,Plotting in R tutorial,GGPLOT2 Package in R,Histogram using ggplot2,GGPLOT2 EDUREKA,EDUREKA",beginner,3.4.3,TRUE
+v-F3YLd6oMw,2018-05-18T00:00:00Z,UC29ju8bIPH5as8OGnQzwJyA,Shell Scripting Crash Course - Beginner Level,"This is an intro to shell scripting with Bash. We will learn what shell scripting is and create a cheat sheet with things like variables, conditionals, loops, functions, etc. We will also do things like rename multiple files.
+
+Cheat Sheet Gist:
+https://gist.github.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610
+
+Command Line Tutorial:
+https://www.youtube.com/watch?v=cBokz0LTizk
+
+💖 Become a Patron: Show support & get perks!
+http://www.patreon.com/traversymedia
+
+Website & Udemy Courses
+http://www.traversymedia.com
+
+Follow Traversy Media:
+http://www.facebook.com/traversymedia
+http://www.twitter.com/traversymedia
+http://www.instagram.com/traversymedia",https://i.ytimg.com/vi/v-F3YLd6oMw/default.jpg,Traversy Media,426265,11314,96,0,449,"shell scripting,shell scripts,bash,bash script,unix shell,linux shell",beginner,3.5.0,FALSE
+jxeRojFBIZo,2014-08-04T00:00:00Z,UCNCmyHDUuaQJPb5T-9RPRZQ,R SQLite RSQLite Babbling Beginner 9,See Script at https://github.com/NBDVC/RSQLite,https://i.ytimg.com/vi/jxeRojFBIZo/default.jpg,whatwherethere,5242,16,5,0,0,",",beginner,3.1.1,TRUE
+kcTbEP7F320,2017-06-25T00:00:00Z,UC3FIdb-kMB3pHSq9bDB6L1A,3.4 Laurent Gatto - Beginner’s statistics in R (day 2 part2),Beginner's statistics in R (day 2 part 2)- Laurent Gatto- 2017 May Institute - NEU Boston,https://i.ytimg.com/vi/kcTbEP7F320/default.jpg,May Institute: Computation and Statistics for MS,65,0,0,0,0,",",beginner,3.4.1,TRUE
+tLfDh8xwn9w,2020-05-24T00:00:00Z,UCbni-TDI-Ub8VlGaP8HLTNw,"BEGINNER R(STUDIO): PLOTTING ggplot2, with ONLINE SALES DATA | Pie Plot","This is a video to investigate Sales by Invoices and by Country (𝐑-𝐒𝐭𝐮𝐝𝐢𝐨). We will group each invoice to get a total price per invoice after manipulating data frames. Then plot with 𝐠𝐠𝐩𝐥𝐨𝐭𝟐 creating Pie Plots. We will do the same with Each country to find sales by country. Turn on the 🔔  notification
+
+➡ Patreon: https://www.patreon.com/mrfugudatasci
+➡ Buy Me A Coffee: https://www.buymeacoffee.com/mrfugudatasci
+➡ Github: github.com/MrFuguDataScience
+➡ Twitter: @MrFuguDataSci
+➡ Instagram: @mrfugudatascience
+
+Code From Today: https://github.com/MrFuguDataScience/SendDataFrom-R-Python-to-SQL-PSQL-Mongo/blob/master/PSQL_video03.ipynb
+
+Related Material You May Like:  🎓
+
+▶️   part-2 of our first R-Studio Project, where we look into If-Else statement examples, Left-Join with mutate data by comparing two data frames, basic inspection of data, Grep with REGEX:  https://youtu.be/fIE3QS6wXEI
+
+▶️   First video creating a  project where we will investigate Retail Sales Data, from an online wholesaler:  https://youtu.be/Q0rYH-dJ5DY
+
+▶️   HOW TO SEND DATA TO MONGO TO/FROM R | QUERY | DATAFRAME | CSV, WITH (mongolite):  https://youtu.be/7R7lFhOwFvQ
+
+▶️   Pymongo: https://youtu.be/NGP5GsUKVog.",https://i.ytimg.com/vi/tLfDh8xwn9w/default.jpg,Mr Fugu Data Science,248,5,0,0,2,"Beginner R Studio,beginner r,beginner r studio,ggplot2,r studio plotting,r studio ggplot,Mr Fugu Data Science,mr fugu,mr fugu data science",beginner,4.0.0,TRUE
+gjwUaauTcFs,2020-07-01T00:00:00Z,UCfcY_BOpfgpk_gUoyQxlfEQ,"R205 Beginner Stats in R   Medians, Percentiles and Box Plots","This series is for statistics beginners or R stats beginners.  I will cover dozens of examples at a basic level in R.  This is a short example of 4 core concepts: 
+a) Creating a data set with c()
+b) Quantiles (percentiles) and Summary functions
+c) Median()
+d) Boxplot()",https://i.ytimg.com/vi/gjwUaauTcFs/default.jpg,Scott Burk,45,0,0,0,0,",",beginner,4.0.2,TRUE
+znpjoOt9mtU,2021-01-05T00:00:00Z,UCxKRzthPAd-mkQ4efrznUwg,Learning Python with GIS: A Lecture for the Absolute Beginner: Part 1 of 5 ( ArcGIS Pro Python Tour),"This video is part 1 of a 5 video series that teaches basic computer programming concepts using the Python computer programming language. This video teaches basic computer programming concepts using only the ArcGIS Pro Geographic Information Systems (GIS) software environment. If you are interested in GIS and learning how to get started with computer programming, this video series will help you grow your skill set.
+
+
+The five videos discuss the following topics:
+
+
+Video 1 (this video): Video Overview, Scope of computer programming concepts discussed in the five part video series (Variables, Lists, Conditional Statements, Definitions, Looping, and Modules ) What is Python, A Tour of Python in ArcGIS Pro (ArcGIS Pro ships with Python IDLE, Python window, Export Model Scripts, Field Calculator, Label Class, Notebooks in ArcGIS Pro (v2.5) (Jupyter Notebooks), Python Manager, ArcPy)
+Video 1 Link: https://youtu.be/znpjoOt9mtU
+
+Video 2: Basic Computer Programming Concepts: Variables, Operators, String Concatenation and demonstrations of these concepts in ArcGIS Pro software.
+Video 2 Link: https://youtu.be/oQGM0sKvSsU
+
+Video 3: Basic Computer Programming Concepts: Lists and demonstrations of this concept in ArcGIS Pro software, Conditional Statements and Definitions concept discussion.
+Video 3 Link: https://youtu.be/pzlCdIm3H3s
+
+Video 4: Basic Computer Programming Concepts: Conditional Statements and Definitions demonstration in ArcGIS Pro software, Looping concept discussion and demonstrations of this concept in ArcGIS Pro software.
+Video 4 Link: https://youtu.be/BedudfHU5AM
+
+Video 5: Modules and Imports concept discussion and demonstrations of these concept in ArcGIS Pro software, What Next after these videos, and video summary.
+Video 5 Link: https://youtu.be/X3rs3dGbfMs
+
+Links used in the videos:
+
+
+The ArcGIS Pro .aprx file, datasets, and scripts used in the videos can be downloaded from here:
+http://gisfordisastermanagement.com/datasets/Python_for_the_beginner_ArcGIS_Pro.zip
+
+
+Calculate Field examples webpage:
+https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/calculate-field-examples.htm
+
+
+Anaconda: https://www.anaconda.com/distribution/
+
+
+
+ArcGIS Pro Free 21 day trial: https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial
+
+The RefuGIS Project is supported by UNHCR Innovation: https://www.unhcr.org/innovation/
+
+Feel free to contact Brian Tomaszewski directly if you have any questions: bmtski@rit.edu
+If you liked this and other videos on the geographic information science channel, please like these videos, leave comments, or subscribe to this channel so you can stay informed of new videos.
+Subscribe to this channel: https://www.youtube.com/user/GIScienc...
+Also, feel free to contact me if you have any questions, I love hearing from the YouTube community.   Thanks for stopping by!
+Brian Tomaszewski, Ph.D.
+@bangeobrian",https://i.ytimg.com/vi/znpjoOt9mtU/default.jpg,GIScience,8473,230,2,0,16,"GIS,GeographicInformationSystems,Geography,GIScience,Python,Programming,GeographicInformationScienceandTechnology,GIS&T,Maps,Mapping,Training,Education,Computers,Software,What is GIS,ArcGIS Pro,Python lecture",beginner,4.0.3,FALSE
+aKRYQsKR46I,2019-01-01T00:00:00Z,UCyPk5LvnK9LtehsuVNj3T0w,Absolute BEGINNER Guide to the Mac OS Terminal,"In this video you'll get an absolute beginner introduction to the Mac OS terminal. By the end of the video you should feel comfortable browsing files and folders in your computer via the terminal. We'll also cover using the terminal to create, edit and delete files and folders. Along the way, you'll get pro tips that will help increase your terminal game quickly.
+
+## Skills
+
+✅ 0:30 - Where is the Terminal app?
+✅ 0:45 - What does the $ mean in the Terminal?
+✅ 1:25 - How to show files and folders in the Terminal
+✅ 2:50 - How to change directories in the Terminal
+✅ 4:23 - What does "".."" and ""."" mean in the Terminal?
+✅ 5:19 - How to clear the Terminal screen
+✅ 6:00 - What does ""~"" mean in the Terminal?
+✅ 6:50 - How to create files in the Terminal
+✅ 7:13 - How to autocomplete file names in the Terminal
+✅ 8:26 - How edit text and HTML files in the Terminal
+✅ 10:12 - How to scroll through previous commands in the Terminal
+✅ 11:26 - How to delete files in the Terminal
+✅ 11:51 - How to create folders/directories in the Terminal
+✅ 15:18 - How to delete folders/directories in the Terminal 
+
+## Terminal Commands
+
+🕹 1:25 - pwd - print working directory, show the current folder/directory
+🕹 1:25 - ls - show the files and folders/directories in the current folder/directory
+🕹 2:50 - cd - change directories
+🕹 5:19 - clear - clear the terminal screen
+🕹 6:50 - touch - create a file in the terminal
+🕹 8:26 - nano - simple terminal-based text editor
+🕹 10:12 - history - show previous commands
+🕹 11:26 - rm - remove (delete) files in the terminal
+🕹 11:51 - mkdir - create folder/directory in the terminal
+🕹 15:18 - rm -r - remove (delete) folders/directories in the terminal
+
+## About
+
+I'm Percy Grunwald from https://TopTechSkills.com here to help you get to the next level in programming, web development, DevOps and more! I hope you found this video useful, please leave a comment if there's anything I can help you with.",https://i.ytimg.com/vi/aKRYQsKR46I/default.jpg,Percy Grunwald from TopTechSkills,333852,7815,99,0,663,"terminal,mac os,beginner,tutorial,guide,how to,web development,programming,command line",beginner,3.5.2,TRUE
+ksaC1Srj1YM,2021-06-22T00:00:00Z,UCM-0agA9yt2BNsSuazwwv5Q,R: Machine Learning with R - Beginner to Expert!: 4-in-1 - learn Programming Languages,"link to this course
+https://click.linksynergy.com/deeplink?id=Gw/ETjJoU9M&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fr-machine-learning-with-r-beginner-to-expert-4-in-1%2F
+R: Machine Learning with R - Beginner to Expert!: 4-in-1 - learn Programming Languages
+Best Programming Languages Course
+Explore the advanced topics in Machine Learning with R in a step by step manner to build powerful predictive models in R
+Process a classic dataset, from data cleaning to presenting results with effective graphics.,Evaluate the performance of your models and put your model into use.,Explore advanced techniques such as hyper parameter tuning and deep learning.,Incorporate R and Hadoop to solve machine learning problems on big data.,Classify data with the help of statistical methods such as k-NN Classification, Logistic Regression, and Decision Trees.,Visualize patterns and associations using a range of graphs and find frequent itemsets using the Eclat algorithm.,Get to know hyper-parameter tuning by exploring and iterating through parameters
+Prior basic knowledge of R programming language is assumed.,Basic understanding of Machine Learning concepts, data frames and statistics would be useful (not mandatory).,Machine learning is a subfield of computer science that gives computers the ability to learn without being explicitly programmed. It explores the study and construction of algorithms that can learn from and make predictions on data. R language is widely used among statisticians and data miners to develop statistical software and perform data analysis. It provides a cutting-edge power you need to work with Machine Learning techniques.,This comprehensive 4-in-1 is a step-by-step real world guide on machine learning and deep learning that takes you through the core aspects for building powerful data science applications with the help of the R programming language. Apply R to simple predictive modeling with short and simple code. Dive into the advanced algorithms such as hyper-parameter tuning and DeepLearning, and putting your models into production!,By the end of this course, you'll explore the advanced topics in machine learning with R in a step by step manner with examples to build powerful predictive models in R!,Contents and Overview,This training program includes 4 complete courses, carefully chosen to give you the most comprehensive training possible.,The first course, Getting Started with Machine Learning in R, covers learning Machine learning techniques in the popular statistical language R. The course will take you through some different types of ML. You’ll work with a classic dataset using Machine Learning. You will learn Linear and Logistic Regression algorithms and analyze the dataset. You’ll explore algorithms like Random Forest and Naive Bayes for working on your data in R. Analysis of the data set is demonstrated from end to end, with example R code you can use. Then you’ll have a chance to do it yourself on another data set.,By the end of the course you will learn how to gain insights from complex data and how to choose the correct algorithm for your specific needs.,The second course, Advanced Machine Learning with R, covers advanced techniques like hyper parameter tuning, deep learning in a step by step manner with examples. In this course, you’ll get to know the advanced techniques for Machine Learning with R, such as hyper-parameter turning, deep learning, and putting your models into production through solid, real-world examples. In the first example, you’ll learn all about neural networks through an example of DNA classification data. You’ll explore networks, implement them, and classify them. After that, you’ll see how to tune hyper-parameters using a data set of sonar data and you’ll get to know their properties. Next, you’ll understand unsupervised learning with an example of clustering politicians, where you’ll explore new patterns, understand unsupervised learning, and visualize and cluster the data.,The third course, R Machine Learning solutions, covers building powerful predictive models in R. This video course will take you from very basics of R to creating insightful machine learning models with R. You will start with setting up the environment and then perform data ETL in R. Data exploration examples are provided that demonstrate how powerful data visualization and machine learning is in discovering hidden relationship. You’ll then dive into important machine learning topics, including data classification, regression, clustering, association rule mining, and dimensionality reduction.,The fourth course, Applied Machine Learning and Deep Learning with R covers building powerful machine learning and deep learning applications with help of the R programming language and its various packages. In this course, you’ll examine in detail the R software, which is the most popular statistical programming language of recent years.\n \n",https://i.ytimg.com/vi/ksaC1Srj1YM/default.jpg,Djs Hdjd,0,0,0,0,0,",",beginner,4.1.0,TRUE
+BlSbawB0erY,2020-04-11T00:00:00Z,UCMaeGsI0fIQ9UFoJBHVN_AA,DiSC Beginner R lesson 5,"Data wrangling with: subsetting, creating new columns, and table joins; piping",https://i.ytimg.com/vi/BlSbawB0erY/default.jpg,Steve Baskauf,8,0,0,0,0,"RStudio,R language,programming,Vanderbilt Libraries,DiSC",beginner,4.0.0,TRUE
+I10q6fjPxJ0,2019-06-11T00:00:00Z,UCig0KhrB5NClMvX9QrbXcrw,"Statistics made easy ! ! !   Learn about the t-test, the chi square test, the p value and more","Learning statistics doesn’t need to be difficult. This introduction to stats will give you an understanding of how to apply statistical tests to different types of data. You’ll learn about numeric and categorical data and gain an understanding of when to apply a t-test, a chi-square test, ANOVA, and a correlation test. You’ll also learn about hypothesis testing and the p-value. If you’re new to quantitative research or data science, you’ll find this an extremely useful introduction to statistics. 
+
+A big thank you to BMC for supporting the creation of this video. Find out more about BMC at https://www.biomedcentral.com
+
+If you want to learn more about statistics and research methods, go to https://www.learnmore365.com
+
+If you’re wanting to learn about R Programming, go to https://www.youtube.com/c/rprogramming101
+
+This channel posts global health and public health teaching videos and videos about how to find the right job in global health. If you haven't already, please consider subscribing to this channel and becoming part of this community. 
+
+SUBSCRIBE: 
+--------------------
+Click here: https://www.youtube.com/subscription_center?add_user=YourChannelNameHere
+
+
+LETS CONNECT:
+---------------------------
+Twitter: @drgregmartin
+Linkedin: https://www.linkedin.com/in/drgregmartin/
+Facebook: https://www.facebook.com/thisweekinglobalhealth/
+
+SUPPORT THIS CHANNEL
+-----------------------------------------
+Patreon: https://www.patreon.com/drgregmartin",https://i.ytimg.com/vi/I10q6fjPxJ0/default.jpg,Global Health with Greg Martin,1093633,29391,337,0,886,"statistics,stats,statistical analysis,data,data science,analysis,research,quantitative,p value,hypothesis testing,statistical tests,t-test,chi squared,ANOVA,correlation,data types,categorical,numeric,method,methodology,public health,global health,epidemiology",beginner,3.6.0,TRUE
+uDkgK3SoCbg,2020-03-21T00:00:00Z,UCMaeGsI0fIQ9UFoJBHVN_AA,DiSC Beginner R lesson 2,Introduction to R data structures: vectors and lists. Practice using RStudio.,https://i.ytimg.com/vi/uDkgK3SoCbg/default.jpg,Steve Baskauf,51,0,0,0,0,"RStudio,R language,programming,Vanderbilt Libraries,DiSC",beginner,3.6.3,TRUE
+5X5LWcLtkzg,2021-04-16T00:00:00Z,UC5CugyvTdOloiuTc9nN09TA,Hands-On Power BI Tutorial 📊Beginner to Pro [Full Course] ⚡,"This full free class is designed for those who have little experience with Power BI to give a better understanding of how end to end solutions can be designed. This course covers how to load data with Power BI Desktop, how to use some basic DAX, and create amazing visualizations on your data. Power BI is an impressive, one stop reporting and analytical tool. You can connect and shape your data, as well as build reporting solutions that help drive decision making.
+
+What you’ll learn: 
+✔️ Connect and organize your data
+✔️ Create data cleansing processes in Power BI
+✔️ Organize your data model
+✔️ DAX Basics
+✔️ Build Interactive Reports
+✔️ Deploy and share your solution
+
+0:00 Intro
+18:00 Hands-On - Consuming the data
+26:15 Power BI Desktop
+38:00 Transforming the data
+1:18:00 DAX and adding new measures
+1:44:00 Creating relationships
+1:50:00 Visualizing the data
+2:29:00 Creating a prettier report
+2:56:00 Publishing the report
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - -  - - - - - - - - - - - - - - - - - -
+ 
+Next step on your journey: 
+👉 On-Demand Learning Courses FREE Trial: https://www.pragmaticworkstraining.com/on-demand-learning-free-trial/
+
+🔗Pragmatic Works On-Demand Learning Packages: https://pragmaticworks.com/pricing/
+🔗Pragmatic Works Boot Camps: https://pragmaticworks.com/boot-camps/
+🔗Pragmatic Works Hackathons: https://pragmaticworks.com/private-training/hackathons/ 
+🔗Pragmatic Works Virtual Mentoring: https://pragmaticworks.com/virtual-mentoring/
+🔗Pragmatic Works Enterprise Private Training: https://pragmaticworks.com/private-training/customized-enterprise-training/
+🔗Pragmatic Works Blog: http://blog.pragmaticworks.com/ 
+
+Let's connect: 
+✔️Twitter: https://twitter.com/PragmaticWorks 
+✔️Facebook: https://www.facebook.com/pragmaticworks/ 
+✔️Instagram: https://www.instagram.com/pragmatic.works 
+✔️LinkedIn: https://www.linkedin.com/company/pragmaticworks 
+✔️YouTube: https://www.youtube.com/pragmaticworks 
+
+Pragmatic Works
+1845 Towncenter Blvd Suite 505 Fleming Island, FL 32003
+Phone: (904) 413-1911
+Email: training@pragmaticworks.com
+
+#PowerBI #DAX #PragmaticWorks #DevinKnight #Training #Microsoft#Tech #FreeConference #LearnWithTheNerds",https://i.ytimg.com/vi/5X5LWcLtkzg/default.jpg,Pragmatic Works,311943,5160,282,0,235,"power bi,microsoft,dax,report,excel,data,dashboard,bi,training,pragmaticworks,live event,beginner to power bi,power bi beginner to pro,intro to power bi,power bi tutorial,power bi beginner,new to power bi,power bi full course,how to use power bi,power bi demo,introduction to power bi",beginner,4.0.5,FALSE
+wWZTxGvx2fE,2019-02-25T00:00:00Z,UCkDLY-qb08MQn5xbUtY2fMg,🔬 Justin&#39;s Beginner R Language Tutorials - Hello World w/ Microsoft Visual Studio Code - Episode 1,"📜 Reddit: https://reddit.com/u/ddos
+
+📦 Github: https://github.com/Jfaler
+
+🐦 Twitter: https://twitter.com/JustinFaler
+
+🐳 Digital Ocean: https://m.do.co/c/397fb2277475
+
+🌌 Tutorial list:
+→ Hello world
+→ Basic arithmetic
+→ Data type sizes
+→ Conditional operators
+→ Convert an if ladder statement into a switch statement
+→ If statements
+→ Strings
+→ For loops
+→ Do while loop
+→ Switch statements
+→ Passing by reference
+→ Overloaded functions
+→ Vector capacity
+→ Void functions
+→ While loops
+→ Pointers in memory
+→ Random number generation with minimum and maximum
+→ Nested for loops
+→ Intro to vectors
+→ Intro to pointers
+→ Bubble sort
+→ Heapsort
+→ Shaker sort
+→ Parameter functions
+→ Sorting
+→ I/O files
+→ Getline with strings
+→ Else if statements
+→ Fizz buzz
+→ Find all roots of a Quadratic Equation
+→ Trigonometry",https://i.ytimg.com/vi/wWZTxGvx2fE/default.jpg,Justin Faler,259,1,0,0,0,"coding for kids,R language,Microsoft Visual Studio Code,R programming,R tutorials,R coding",beginner,3.5.2,TRUE
+XLnimroGCIg,2019-12-21T00:00:00Z,UCXZTnQ3pmX29VbQ1-XbhLsw,Learn Java In Tamil | Beginner to Advance Complete guide | Tamil Hacks,"Hi guys welcome to Tamil Hacks 2.0 👩‍💻
+
+Give this video a Thumbs Up 👍
+
+Share & Subscribe  for More Videos😉
+
+Show your support to recover the channel💖
+
+Click the bell icon to get notified for new videos 🔔
+
+feel free to drop your doubts in the comment section 📳
+
+Buy me a Coffee☕ http://bit.ly/2Hf1aUC
+
+all codes and materials used in the video are available here:
+ https://tamilhacks.com/index.php/2021/02/03/java1/
+
+connect with me here: 
+
+https://twitter.com/tamilhacks0 🐱‍🏍
+
+https://www.instagram.com/tamilhacks0/ 🐱‍👤
+
+https://www.facebook.com/tamilhacks4 📱
+
+tamilhackstech@gmail.com 📧
+
+#Tamilhacks #Tamilhacks2_0
+
+Time Stamp for video : 
+00.0            :        Introduction and requirements 
+02.24          :        Java facts and scope , job (salary) 
+07.50          :        Java for everyone  
+11.48          :        Java Setup 
+18.35          :        Inside Java 
+34.33          :        Coding (lets code) 
+56.54          :        Data Types (primitive) 
+01.28.34     :        Data Types (reference) 
+01.50.51     :        Strings , comments 
+02.06.08     :        Naming conventions 
+02.18.31     :        Important ( operators , precedence , associativity , types) 
+02.50.02     :        Math class 
+02.55.53     :        Scanner (inputs) 
+03.02.27     :        conditions (if , elseif ,if) 
+03.21.41     :        Switch Statements 
+03.31.38     :        Loops ( for loop , while loop , do while loop , for each loop)
+
+Credits:👨‍💻
+Music: https://www.bensound.com
+all the images and files used are open source and my own creation. all rights belong to their respective owners
+
+Disclaimer:👨‍💻
+Information provided on this video is for educational purposes only. all the content is made by our team and copyright protected, do not misuse them in any way and this content means no harm in any way.",https://i.ytimg.com/vi/XLnimroGCIg/default.jpg,Tamil Hacks 2.0,1865998,54657,831,0,2844,"learn java,java,java coding,java program,java in tamil,tamil hacks",beginner,3.6.2,FALSE
+gnkrDse9QKc,2020-11-21T00:00:00Z,UC-8QAzbLcRglXeN_MY9blyw,Beginner React.js Coding Interview (ft. Clément Mihailescu),"I give Clément Mihailescu a mock React.js interview that is geared towards beginners.
+
+Checkout the video we made on Clem's channel: https://youtu.be/vHKzIPwWQkg
+
+#benawad #ClémentMihailescu #react
+
+----
+Checkout my side projects:
+
+If you're into cooking: https://www.mysaffronapp.com/
+
+----
+Join the Discord:  https://discord.gg/Vehs99V
+
+----
+Patreon: https://www.patreon.com/benawad
+
+----
+Follow Me Online Here:
+
+Twitter: https://twitter.com/benawad
+TikTok: https://www.tiktok.com/@benawad
+Twitch: https://www.twitch.tv/benawad
+Medium: https://medium.com/@benawad
+GitHub: https://github.com/benawad
+Facebook: https://www.facebook.com/benawad97/
+LinkedIn: https://www.linkedin.com/in/benawad/
+Instagram: http://instagram.com/benawad97",https://i.ytimg.com/vi/gnkrDse9QKc/default.jpg,Ben Awad,1066188,26360,450,0,1373,",",beginner,4.0.3,FALSE
+iv8rSLsi1xo,2020-02-06T00:00:00Z,UCl6P0T27tGd2YExINbzKR0Q,GitHub Tutorial - Beginner&#39;s Training Guide,"A tutorial on how to use GitHub to create new repositories, clone repositories locally, commit changes and manage project files.
+
+This full-length tutorial is an introduction on how to use GitHub for beginners and experts.
+
+Table of Contents:
+
+Introduction: 0:00
+Accessing GitHub: 00:45
+Creating a Repository 1:23
+Viewing Repository List: 2:23
+Installing GitHub Desktop: 3:22
+Cloning a Repository Locally: 3:45
+Committing New Changes: 5:02
+Viewing Commits on GitHub: 6:50
+Outro: 7:25
+
+More information regarding GitHub available on AnsonAlex.com:
+https://ansonalex.com/tutorials/github-tutorial/
+
+For behind the scenes and exclusive content:
+https://www.instagram.com/ansonalex.c0m/
+
+Published by Anson Alexander from http://AnsonAlex.com",https://i.ytimg.com/vi/iv8rSLsi1xo/default.jpg,Anson Alexander,614907,14325,347,0,297,"coding,github,project management,education,tutorial,learning,backup,cloud,training,source control",beginner,3.6.3,FALSE
+2iCxPUd9fOs,2019-02-25T00:00:00Z,UCkDLY-qb08MQn5xbUtY2fMg,🔬 Justin&#39;s Beginner R Language Tutorials - Variables w/ Microsoft Visual Studio Code - Episode 4,"📜 Reddit: https://reddit.com/u/ddos
+
+📦 Github: https://github.com/Jfaler
+
+🐦 Twitter: https://twitter.com/JustinFaler
+
+🐳 Digital Ocean: https://m.do.co/c/397fb2277475
+
+🌌 Tutorial list:
+→ Hello world
+→ Basic arithmetic
+→ Data type sizes
+→ Conditional operators
+→ Convert an if ladder statement into a switch statement
+→ If statements
+→ Strings
+→ For loops
+→ Do while loop
+→ Switch statements
+→ Passing by reference
+→ Overloaded functions
+→ Vector capacity
+→ Void functions
+→ While loops
+→ Pointers in memory
+→ Random number generation with minimum and maximum
+→ Nested for loops
+→ Intro to vectors
+→ Intro to pointers
+→ Bubble sort
+→ Heapsort
+→ Shaker sort
+→ Parameter functions
+→ Sorting
+→ I/O files
+→ Getline with strings
+→ Else if statements
+→ Fizz buzz
+→ Find all roots of a Quadratic Equation
+→ Trigonometry",https://i.ytimg.com/vi/2iCxPUd9fOs/default.jpg,Justin Faler,34,1,1,0,0,"coding for kids,R programming,R language tutorials,Microsoft Visual Studio Code",beginner,3.5.2,TRUE
+tOd-qsjKU8Y,2014-03-30T00:00:00Z,UCNCmyHDUuaQJPb5T-9RPRZQ,F# R Type Provider for a babbling beginner,"First day with F# and R.NET coding through the Visual Studio IDE.  Tried to capture both my mistakes and required steps to get a functional F#, R, R.Net, F# R Type Provider template up and running to execute a sample code block.  Just giving some insight on how all these powerful tools look to a babbling beginner.",https://i.ytimg.com/vi/tOd-qsjKU8Y/default.jpg,whatwherethere,979,4,0,0,0,"F# (Programming Language),R.Net,F# R Type Provider",beginner,3.0.3,TRUE
+5Sek6zkI4aY,2014-04-21T00:00:00Z,UCNCmyHDUuaQJPb5T-9RPRZQ,R Sourcing &amp; Sharing Functions &amp; Code Babbling Beginner 8,Quick video to keep the habit and share a little insight i gained over the past week of R experimentation,https://i.ytimg.com/vi/5Sek6zkI4aY/default.jpg,whatwherethere,113,2,0,0,0,"R studio,[R],R programming,Statistics",beginner,3.1.0,TRUE
+Jt4Z1vwtXT0,2019-09-23T00:00:00Z,UCTt7pyY-o0eltq14glaG5dg,GitLab Beginner Tutorial 1 | Introduction and Getting Started,"more about Raghav - https://automationstepbystep.com/
+Today we will learn
+What is GitLab
+Create an account on GitLab
+Create a new project on GitLab
+
+Git - version control system
+to locally track changes in your project/folder and push & pull changes from remote repositories like GitHub, BitBucket, GitLab
+
+GitLab, GitHub, BitBucket
+Services that allow to host your project on a remote repo & have additional features to help in SDLC and CI, CD
+e.g
+Managing
+Sharing
+Wiki
+Bug tracking
+CI & CD
+
+Step 1: Goto GitLab.com and create an account
+Step 2: Sign in to GitLab
+Step 3: Create a new project on GitLab
+
+https://gitlab.com/RaghavPal/my-first-project.git
+
+GitHub - https://github.com/Raghav-Pal/
+Udemy - https://www.udemy.com/user/raghav-pal-3/
+Training by Raghav at your venue - raghav.qna@gmail.com
+Training schedule - https://automationstepbystep.com/trainings-2/
+------------ UI TESTING ------------
+Selenium Beginners - https://bit.ly/2MGRS8K
+Selenium Java Framework from Scratch - https://bit.ly/2N9xvR6
+Selenium Python - https://bit.ly/2oyMp5x
+Selenium Tips - https://bit.ly/2owxc50
+Selenium Builder - https://bit.ly/2MKNtlq
+Katalon Studio - https://bit.ly/2wARFdi
+Robot Framework with RIDE- https://bit.ly/2Px6Ue9
+Robot Framework with Eclipse - http://bit.ly/2N8DZxb
+Protractor - http://bit.ly/2KtqVkU
+
+------------ API TESTING ------------
+Web Services (API) - https://bit.ly/2MGafL7
+SoapUI - https://bit.ly/2MGahmd
+Postman - https://bit.ly/2wz8LrW
+General - https://bit.ly/2PYdwmV
+Katalon Studio API Testing - https://bit.ly/2BwuCTN
+
+------------ MOBILE TESTING ------------
+Appium - https://bit.ly/2ZHFSGX
+Mobile Playlist - https://bit.ly/2PxpeUv
+
+------------ CI | CD | DEVOPS ------------
+Jenkins Beginner - https://bit.ly/2MIn8EC
+Jenkins Tips & Trick - https://bit.ly/2LRt6xC
+Docker - https://bit.ly/2MInnzx
+
+------------ VERSION CONTROL SYSTEM ------------
+Git & GitHub - https://bit.ly/2Q1pagY
+
+------------ PERFORMANCE TESTING ------------
+JMeter Beginner - https://bit.ly/2oBbtIU
+JMeter Intermediate - https://bit.ly/2oziNVB
+JMeter Advanced - https://bit.ly/2Q22Y6a
+JMeter Tips & Tricks - https://bit.ly/2NOfWD2
+Performance Testing - https://bit.ly/2wEXbLS
+
+------------ PROGRAMMING ------------
+Java Beginners - https://bit.ly/2PVUcXs
+Java Tips & Tricks - https://bit.ly/2CdcDnJ
+GROOVY - https://bit.ly/2FvWV5C
+JAVASCRIPT - http://bit.ly/2KJDZ8o
+
+------------ IDE ------------
+Visual Studio Code - https://bit.ly/2V15yvt
+
+------------ MAVEN ------------
+Maven - https://bit.ly/2NJdDRS
+
+------------ OTHERS ------------
+Redis- https://bit.ly/2N9jyCG
+Misc - https://bit.ly/2Q2q5xQ
+Tools & Tips - https://bit.ly/2oBfwoR
+QnA Friday- https://bit.ly/2NgwGpw
+Sunday Special - https://bit.ly/2wB23BO
+
+Ask Raghav - https://bit.ly/2CoJGWf
+Interviews - https://bit.ly/2NIPPxk
+All Playlists - https://bit.ly/2LSiezA
+
+Website - https://automationstepbystep.com/
+LifeCharger - http://lifecharger.org/
+Udemy Courses - https://www.udemy.com/user/raghav-pal-3/
+Facebook - https://www.facebook.com/automationstepbystep
+Twitter - https://twitter.com/automationsbs
+Youtube - http://youtube.com/automationstepbystep
+Instagram - https://www.instagram.com/automationstepbystep/
+
+You can support my mission for education by sharing this knowledge and helping as many people as you can
+
+Never Stop Learning
+Raghav",https://i.ytimg.com/vi/Jt4Z1vwtXT0/default.jpg,Automation Step by Step,417414,4145,145,0,239,"gitlab beginner tutorials,what is gitlab,how to start with gitlab,gitlab tutorial for beginners,gitlab for complete beginners,gitlab from scratch,gitlab ci for beginners,how gitlab works,how to create repository on gitlab,how to create project on gitlab,learn gitlab step by step,gitlab by raghav",beginner,3.6.1,FALSE
+PHdIivFAq7Q,2020-12-16T00:00:00Z,UCnwYO3Sz_emBTC1sTZ6TlsQ,TidyTuesday: Beginner to Advanced Dashboards with R Shiny,"In this week's #TidyTuesday video, I go over a beginner, intermediate, and advanced dashboard and explain different ways to improve developing dashboards in R Shiny. 
+
+#RShiny #Tidyverse
+
+Q&A Submission Form: https://forms.gle/6EzU4GCR9VnJx8gg7
+Connect with me on LinkedIn: https://www.linkedin.com/in/andrew-couch/ 
+Code for this video: https://github.com/andrew-couch/Tidy-Tuesday/tree/master/Season%201/Apps/TidyTuesdayDashboardLevels
+TidyTuesday: https://github.com/rfordatascience/tidytuesday",https://i.ytimg.com/vi/PHdIivFAq7Q/default.jpg,Andrew Couch,9111,193,5,0,13,"Rstudio,Tidyverse,R Programming,Data Science,Analytics,Statistics,Data Visualizaiton,Data Viz,EDA,TidyTuesday,RStats,Data,Data Modeling,Tidy Tuesday,Learn Data Science,Learn Statistics,Learn Machine Learning,Machine Learning,ML,R Stats,R Studio,R Shiny,RShiny,Shiny Dashboard,R Dashboards,Business Intelligence,R Developers,Dashboarding,Sports Science,Spots Data,Dashboard,Data Dashboard,Tableau,Power BI,Shiny,Reporting,Data Analytics,ShinyR",beginner,4.0.3,TRUE
+znBa13Earms,2019-08-02T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,What Is Apache Spark? | Introduction To Apache Spark | Apache Spark Tutorial | Simplilearn,"🔥 Enroll for FREE Big Data Hadoop Spark Course & Get your Completion Certificate:  https://www.simplilearn.com/learn-hadoop-spark-basics-skillup?utm_campaign=Hadoop&utm_medium=DescriptionFirstFold&utm_source=youtube
+This video on What Is Apache Spark? covers all the basics of Apache Spark that a beginner needs to know. In this introduction to Apache Spark video, we will discuss what is Apache Spark, the history of Spark, Hadoop vs Spark, Spark features, components of Apache Spark, Spark core, Spark SQL, Spark streaming, applications of Spark, etc. 
+
+Below topics are explained in this Apache Spark Tutorial:
+00.00 Introduction
+00:41 History of Spark
+01:22 What is Spark?
+02:26 Hadoop vs Spark
+05:29 Spark Features
+08:27 Components of Apache Spark
+10:24 Spark Core
+11:28 Resilient Distributed Dataset
+18:08 Spark SQL
+21:28 Spark Streaming
+24:57 Spark MLlib
+25:54 GraphX
+27:20 Spark architecture
+32:16 Spark Cluster Managers
+33:59 Applications of Spark
+36:01 Spark use case
+38:02 Conclusion
+
+To learn more about Spark, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1
+
+To access the slides, click here: https://www.slideshare.net/Simplilearn/what-is-apache-spark-introduction-to-apache-spark-apache-spark-tutorial-simplilearn/Simplilearn/what-is-apache-spark-introduction-to-apache-spark-apache-spark-tutorial-simplilearn
+
+Watch more videos on Spark Training: https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv
+
+#WhatIsApacheSpark #ApacheSpark #ApacheSparkTutorial #SparkTutorialForBeginners #SimplilearnApacheSpark #SparkTutorial #Simplilearn
+
+Introduction to Apache Spark:
+Apache Spark Is an open-source cluster computing framework that was initially developed at UC Berkeley in the AMPLab. As compared to the disk-based, two-stage MapReduce of Hadoop, Spark provides up to 100 times faster performance for a few applications with in-memory primitives. This makes it suitable for machine learning algorithms, as it allows programs to load data into the memory of a cluster and query the data constantly. A Spark project contains various components such as Spark Core and Resilient Distributed Datasets or RDDs, Spark SQL, Spark Streaming, Machine Learning Library or Mllib, and GraphX.
+
+About Simplilearn Apache Spark Certification training:
+This Apache Spark and Scala certification training is designed to advance your expertise working with the Big Data Hadoop Ecosystem. You will master essential skills of the Apache Spark open source framework and the Scala programming language, including Spark Streaming, Spark SQL, machine learning programming, GraphX programming, and Shell Scripting Spark. This Scala Certification course will give you vital skillsets and a competitive advantage for an exciting career as a Hadoop Developer.
+
+What are the course objectives?
+Simplilearn’s Apache Spark and Scala certification training are designed to:
+1. Advance your expertise in the Big Data Hadoop Ecosystem
+2. Help you master essential Apache and Spark skills, such as Spark Streaming, Spark SQL, machine learning programming, GraphX programming and Shell Scripting Spark
+3. Help you land a Hadoop developer job requiring Apache Spark expertise by giving you  a real-life industry project coupled with 30 demos
+
+What skills will you learn?
+By completing this Apache Spark and Scala course you will be able to:
+1. Understand the limitations of MapReduce and the role of Spark in overcoming these limitations
+2. Understand the fundamentals of the Scala programming language and its features
+3. Explain and master the process of installing Spark as a standalone cluster
+4. Develop expertise in using Resilient Distributed Datasets (RDD) for creating applications in Spark
+5. Master Structured Query Language (SQL) using SparkSQL
+6. Gain a thorough understanding of Spark streaming features
+7. Master and describe the features of Spark ML programming and GraphX programming
+
+Who should take this Scala course?
+1. Professionals aspiring for a career in the field of real-time big data analytics
+2. Analytics professionals
+3. Research professionals
+4. IT developers and testers
+5. Data scientists
+6. BI and reporting professionals
+
+Learn more about Apache Spark at https://www.simplilearn.com/big-data-and-analytics/apache-spark-scala-certification-training?utm_campaign=WhatIsApacheSpark&utm_medium=Description&utm_source=youtube
+
+For more information about Simplilearn courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/znBa13Earms/default.jpg,Simplilearn,97100,1384,49,0,69,"what is apache spark?,introduction to apache spark,apache spark tutorial,what is apache spark tutorial,spark tutorial for beginners,apache spark architecture,what is apache spark for dummies,what is apache spark used for,history of apache spark,apache spark components,apache spark components tutorial,apache spark use cases examples,apache spark use cases,apache spark,spark sql,hadoop,big data,spark core,spark streaming,apache spark simplilearn,simplilearn",beginner,3.6.1,FALSE
+o2tzSbHtviM,2017-01-25T00:00:00Z,UC6U2o83YHhhtM9W7IzWAPRA,R Tutorial - 13 - Function in R For Beginner [13/13],"R Tutorial - 13 - Function in R For Beginner [13/13]
+
+Official Link :- 
+https://cran.r-project.org/
+https://www.r-project.org/
+
+Download R Studio:-
+https://www.rstudio.com/products/rstudio/download/
+
+In this video , We will learn about Function in R.
+In this video we will discuss about below:-
+
+A function is an object you can call. Basically, it is a machine with internal logic that takes a group of inputs 
+(parameters or arguments) and returns a value as output.
+Built In Functions:-
+is.numeric()
+as.numeric()
+is.list()
+as.list()
+is.character()
+as.character()
+
+After this video, you will understand about Function in R with example. 
+
+What is R ?
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
+
+Currently top most world wide compniese hiring for R developers. According to Data Science survay 2015,2016  R developer demands are very high. 
+ 
+Please mail me for working file which we used in this tutorial.. 
+nandanpriyadarshi298@gmail.com
+
+Subscribe to our YouTube channel at https://www.youtube.com/channel/UC6U2o83YHhhtM9W7IzWAPRA
+Also please like my facebook page :- https://www.facebook.com/learnetix/?ref=bookmarks
+Please comment down if you getting any issue regarding technical contain and also please share with others.
+
+-~-~~-~~~-~~-~-
+Please watch: ""Apache Pig Tutorial | 1. Introduction to Apache Pig | Hadoop Pig Tutorial For Beginners"" 
+https://www.youtube.com/watch?v=RXAuNhho5do
+-~-~~-~~~-~~-~-",https://i.ytimg.com/vi/o2tzSbHtviM/default.jpg,Nandan Priyadarshi,82,0,0,0,0,"r (programming language),r tutorial,introduction to r,data science,getting started with r,software tutorial,learning r,data analysis,statistical data analysis,machine learning (software genre),learn r,reading data into r,data mining (software genre),r-software,r analytics tutorial,r analytics training,r analytics,r predictive analytics,r analysis tutorial,data analysis (media genre),data scientist,data scientist tutorial",beginner,3.3.2,TRUE
+s7WyD8VXWNg,2020-07-24T00:00:00Z,UCrOk7JYETZS_1tJDK52ULNw,What EVERY Beginner Programmer should STOP doing | Kalpit Veerwal,"Enrol in AcadBoost University to build a dream career: 
+Android App: https://bit.ly/3cM5qs9
+Website: https://www.acadboost.com/s/store/courses/description/University
+iOS App: https://apple.co/3dEh5Ju
+Instagram: https://www.instagram.com/kalpit.veerwal
+
+LinkedIn: https://www.linkedin.com/in/kalpitveerwal
+Twitter: https://twitter.com/kalpitveerwal
+iOS App: iOS App: https://apple.co/3dEh5Ju
+
+Follow acadboost on social media:
+https://instagram.com/acadboost
+https://twitter.com/acadboost
+Email us for any issues -  care@acadboost.com",https://i.ytimg.com/vi/s7WyD8VXWNg/default.jpg,AcadBoost University,418870,29997,1639,0,2049,"Software Engineering,programming,coding,computer Science",beginner,4.0.2,FALSE
+MF08yiC5l6U,2020-09-26T00:00:00Z,UCjBInb5f1OrJAtrScxQGa9Q,Machine Learning Made Easy : Beginner to Advanced using R - learn Machine Learning,"Link to this course(special discount)
+https://www.udemy.com/course/machine-learning-made-easy-beginner-to-advance-using-r/?ranMID=39197&ranEAID=Gw%2FETjJoU9M&ranSiteID=Gw_ETjJoU9M-WM6l5ai_dzJLX138hdutDA&LSNPUBID=Gw%2FETjJoU9M&utm_source=aff-campaign&utm_medium=udemyads
+Machine Learning Made Easy : Beginner to Advanced using R - learn Machine Learning
+What you will learn in this course ?
+What you'll learnR Programming, Data Handling and Cleaning, Basic Statistics, Classical Machine Learning Algorithms, Model Selection and Validation, Advanced Machine Learning Algorithms, Ensemble Learning.Write your own R scripts and work in R environment.Import, manipulate, clean up, sanitize and export datasets.Understand basic statistics and implement using R.Understand data science life cycle while understanding steps of building, validating, improving and implementing the machine learning models.Do powerful analysis on data, find insights and present them in visual manner.Learn classical algorithms like Linear Regression, Logistic Regression, Decision Trees and advance machine learning algorithms like SVM, Artificial Neural Networks, Reinforced Learning, Random Forests and Boosting and clustering algorithms like K-means.Know how each machine learning algorithm works and which one to choose according to the type of problem.Build more than one powerful machine learning model and be able to select the best one and improve it further.
+Want to know how Machine Learning algorithms work and how people apply it to solve data science problems? You are looking at right course!
+
+This course has been created, designed and assembled by professional Data Scientists who have worked in this field for nearly a decade. We can help you understand the complex machine learning algorithms while keeping you grounded to the implementation on real business and data science problems.
+
+We will let you feel the water and coach you to become a full swimmer in the realm of data science and Machine Learning. Every tutorial will increase your skill level by challenging your ability to foresee, yet letting you improve upon self.
+
+We are sure that you will have fun while learning from our tried and tested structure of course to keep you interested in what’s coming next.
+
+Here is how the course is going to work:
+
+Part 1 – Introduction to R Programming.
+This is the part where you will learn basic of R programming and familiarize yourself with R environment.
+Be able to import, export, explore, clean and prepare the data for advance modeling.
+Understand the underlying statistics of data and how to report/document the insights.
+Part 2 – Machine Learning using R
+Learn, upgrade and become expert on classic machine learning algorithms like Linear Regression, Logistic Regression and Decision Trees.
+Learn which algorithm to choose for specific problem, build multiple model, learn how to choose the best model and be able to improve upon it.
+Move on to advance machine learning algorithms like SVM, Artificial Neural Networks, Reinforced Learning, Random Forests and Boosting and clustering algorithms like K-means.
+
+Features:
+
+Fully packed with LAB Sessions. One to learn from and one for you to do it yourself.
+Course includes R code, Datasets and other supporting material at the beginning of each section for you to download and use on your own.
+Quiz after each section to test your learning.
+
+Bonus:
+
+This course is packed with 5 projects on real data related to different domains to prepare you for wide variety of business problems.These projects will serve as your step by step guide to solve different business and data science problems.
+this is the best Machine Learning course. you can download and watch for free after enroll.",https://i.ytimg.com/vi/MF08yiC5l6U/default.jpg,Ly Kieu Nuong,3,0,0,0,0,Machine Learning,beginner,4.0.2,TRUE
+RvoKwGekk1s,2020-11-03T00:00:00Z,UC46xhU1EH7aywEgvA9syS3w,python: raw (NOT REGEX) r&#39;strings&#39; (beginner - intermediate) anthony explains #133,"today I talk about raw strings, invalid escape sequences (W605), and how to automatically fix them!
+
+- https://github.com/asottile/pyupgrade
+
+playlist: https://www.youtube.com/playlist?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY
+
+==========
+
+twitch: https://twitch.tv/anthonywritescode
+dicsord: https://discord.gg/xDKGPaW
+twitter: https://twitter.com/codewithanthony
+github: https://github.com/asottile
+stream github: https://github.com/anthonywritescode
+
+I won't ask for subscriptions / likes / comments in videos but it really helps the channel.  If you have any suggestions or things you'd like to see please comment below!",https://i.ytimg.com/vi/RvoKwGekk1s/default.jpg,anthonywritescode,1181,47,1,0,4,",",beginner,4.0.3,TRUE
+f1QJ9bxq8PM,2020-11-06T00:00:00Z,UCOkmxYu7mPa9bi5wntu7UlQ,Prediction using Supervised ML |  Beginner Level in R,"Data set: http://bit.ly/w-data
+Code: https://github.com/MutyalaYogita/GRIP-TSF-Tasks/blob/main/GRIP%20Task%231.R",https://i.ytimg.com/vi/f1QJ9bxq8PM/default.jpg,Yogita Mutyala,118,1,0,0,0,",",beginner,4.0.3,TRUE
+ziT4ERqtS04,2020-04-01T00:00:00Z,UCJ7v_GfFQaVoaPak9_SwR5A,Beginner Ballet Barre | At Home Ballet Class Workout | Kathryn Morgan,"This is a barre for beginning level ballet students of all ages! In this class, we move very slowly and methodically and work on placement, strength, musicality, and technique. However this is also great for advanced dancers who want to work on basics! So pay attention to placement throughout the workout. 
+Beginner Barre WITHOUT INTROS: https://www.youtube.com/watch?v=Yybu9H6VSqI
+
+David Plumpton Ballet Music: https://music.apple.com/us/artist/david-plumpton/786753842
+
+COMBINATIONS
+0:00 Intro
+3:02 Pliés
+10:01 Tendu 1st
+14:44 Tendu 5th
+18:31 Tendu 5th Faster
+22:11 Pas de Cheval
+25:26 Degagé 1st
+29:13 Degagé 5th
+34:10 Rond de Jambe
+40:13 Fondu
+43:13 Frappe
+46:29 Developpé
+48:47 Grand Battement
+
+SUBSCRIBE: https://bit.ly/2MQPhpL
+Instagram: https://bit.ly/2Gr3hWa
+
+WATCH MORE VIDEOS
+My Performances: https://www.youtube.com/playlist?list=PLGjHMNPqowdedD0eczJXcXnTYUernP-Fv
+Advanced Ballet Barre: https://www.youtube.com/watch?v=ZSIfgTOowYk
+Advanced Ballet Center: https://www.youtube.com/watch?v=OiTRlpxfzCo
+Pointe Class: https://www.youtube.com/watch?v=rYwgiLRS0-E
+Full Body Strength & Stretch Workout: https://www.youtube.com/watch?v=dC0g024RfAs
+__________________________________
+
+♥ More Places to Find Me ♥
+
+♥ My Website/Blog: https://kathrynmorganonline.com
+♥ Online Classes: https://kathrynmorgan.punchpass.com/classes
+♥ My Performance Calendar: https://kathrynmorganonline.com/kathryns-calendar/
+
+♥ 'Kathryn Morgan Haul' Subscription Box: https://dancershaul.com/products/kathryn-morgan-haul
+
+♥ My Podcast
+~ iTunes: https://itunes.apple.com/us/podcast/the-kathryn-morgan-show/id1118428554
+~ Non iPhone Users: http://kathrynmorganonline.com/?cat=632
+
+♥ Instagram: http://instagram.com/kathryn_morgan
+♥ Facebook: https://www.facebook.com/KathrynMorganBallet/
+♥ Twitter: https://twitter.com/Kathryn_EMorgan
+♥ Pinterest: https://www.pinterest.com/kathrynmorgan88/
+
+♥ CONTACT ME HERE: https://kathrynmorganonline.com/contact/
+
+____________________________________
+I am a former soloist with the New York City Ballet and Miami City Ballet. When I was a young student, I was always looking for insights into the ballet world and how to improve my dancing as well as beauty and lifestyle tips. Now that I am a professional, it is my turn to share. 
+
+On my channel I make ballet, beauty, and lifestyle  videos for everyone of all ages. My goal is help dancers improve and achieve their dreams as well as open up the ballet world to non dancers. You will see many different kinds of how-to videos here including makeup, hair, ballet workouts and exercises, Q and A sessions, lifestyle advice, and DIY on this channel. I hope you find all of my videos helpful!
+_________________________________
+
+♥ Subscribe to this Channel : http://www.youtube.com/subscription_center?add_user=Tutugirlkem",https://i.ytimg.com/vi/ziT4ERqtS04/default.jpg,Kathryn Morgan,876690,23812,175,0,971,"ballet,dance,Kathryn Morgan,KathrynMorganvideo,ballet class,kathryn morgan barre,kathrynmorganclass,kathryn morgan beginner,beginner ballet,beginner ballet class,beginner ballet barre,at home beginning ballet barre,at home ballet class,ballet for beginners,basic ballet barre,basic ballet class,basic ballet workout,easy ballet,easy ballet workout,easy ballet barre,easy ballet class,kathryn morgan ballet class,at home workout,at home barre,KMorganclass",beginner,3.6.3,FALSE
+9TYwHQh9yG8,2019-02-25T00:00:00Z,UCkDLY-qb08MQn5xbUtY2fMg,🔬 Justin&#39;s Beginner R Language Tutorials - Numerics w/ Microsoft Visual Studio Code - Episode 2,"📜 Reddit: https://reddit.com/u/ddos
+
+📦 Github: https://github.com/Jfaler
+
+🐦 Twitter: https://twitter.com/JustinFaler
+
+🐳 Digital Ocean: https://m.do.co/c/397fb2277475
+
+🌌 Tutorial list:
+→ Hello world
+→ Basic arithmetic
+→ Data type sizes
+→ Conditional operators
+→ Convert an if ladder statement into a switch statement
+→ If statements
+→ Strings
+→ For loops
+→ Do while loop
+→ Switch statements
+→ Passing by reference
+→ Overloaded functions
+→ Vector capacity
+→ Void functions
+→ While loops
+→ Pointers in memory
+→ Random number generation with minimum and maximum
+→ Nested for loops
+→ Intro to vectors
+→ Intro to pointers
+→ Bubble sort
+→ Heapsort
+→ Shaker sort
+→ Parameter functions
+→ Sorting
+→ I/O files
+→ Getline with strings
+→ Else if statements
+→ Fizz buzz
+→ Find all roots of a Quadratic Equation
+→ Trigonometry",https://i.ytimg.com/vi/9TYwHQh9yG8/default.jpg,Justin Faler,82,1,0,0,0,"coding,R language tutorials,R coding,R lang,Microsoft Visual Studio Code,R Programming tutorials,coding for kids",beginner,3.5.2,TRUE
+#NAME?,2019-10-09T00:00:00Z,UC3c9WhUvKv2eoqZNSqAGQXg,Beginner Guide // How To Setup Betaflight FPV Drone Complete Guide 2019,NA,https://i.ytimg.com/vi/-kN349qPAH0/default.jpg,Drone Mesh,0,0,0,0,0,",",beginner,3.6.1,NA
+hLzSoob663s,2013-10-31T00:00:00Z,UC9zTuyWffK9ckEz1216noAw,Flite Test: RC Planes for Beginners: R/C Control System - Beginner Series - Ep. 3,"IMPORTANT information available here:
+http://flitetest.com/articles/beginner-series-r-c-control-system
+
+The Flite Test Beginner Series is brought to you by Horizon Hobby. This is the 3rd of a 10 part series that will walk you through everything you need to know about getting started in the R/C Flying Hobby!
+
+Episode 2: 
+http://flitetest.com/articles/beginner-series-basic-aerodynamics
+
+Thanks for all of your support!
+
+Learn more about Horizon Hobby here:
+http://www.horizonhobby.com",https://i.ytimg.com/vi/hLzSoob663s/default.jpg,FliteTest,353137,3694,62,0,264,"beginner series,control system,horizon hobby,##tip,##beginner",beginner,3.0.2,TRUE
+J326LIUrZM8,2017-06-22T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,Data Warehouse Tutorial For Beginners | Data Warehouse Concepts | Data Warehousing | Edureka,"** Data Warehousing & BI Training: https://www.edureka.co/data-warehousing-and-bi **
+This Data Warehouse Tutorial For Beginners will give you an introduction to data warehousing and business intelligence. You will be able to understand basic data warehouse concepts with examples. The following topics have been covered in this tutorial:
+
+1. What Is The Need For BI?
+2. What Is Data Warehousing?
+3. Key Terminologies Related To DWH Architecture:
+   a. OLTP Vs OLAP
+   b. ETL
+   c. Data Mart
+   d. Metadata
+4. DWH Architecture
+5. Demo: Creating A DWH
+
+- - - - - - - - - - - - - -
+
+Check our complete Data Warehousing & Business Intelligence playlist here: https://goo.gl/DZEuZt.
+
+#DataWarehousing #DataWarehouseTutorial #DataWarehouseTraining
+
+Subscribe to our channel to get video updates. Hit the subscribe button above.
+
+- - - - - - - - - - - - - -
+
+How it Works?
+
+1. This is a 5 Week Instructor led Online Course, 25 hours of assignment and 10 hours of project work
+2. We have a 24x7 One-on-One LIVE Technical Support to help you with any problems you might face or any clarifications you may require during the course.
+3. At the end of the training you will have to undergo a 2-hour LIVE Practical Exam based on which we will provide you a Grade and a Verifiable Certificate!
+
+- - - - - - - - - - - - - -
+
+About the Course:
+
+Edureka's Data Warehousing and Business Intelligence Course, will introduce participants to create and work with leading ETL & BI tools like:
+1. Talend 5.x to create, execute, monitor and schedule ETL processes. It will cover concepts around Data Replication, Migration and Integration Operations
+2. Tableau 9.x for data visualization to see how easy and reliable data visualization can become for representation with dashboards
+3. Data Modeling tool ERwin r9 to create a Data Warehouse or Data Mart
+
+- - - - - - - - - - - - - -
+
+Who should go for this course?
+
+The following professionals can go for this course:
+1. Data warehousing enthusiasts 
+2. Analytics Managers 
+3. Data Modelers 
+4. ETL Developers and BI Developers
+
+- - - - - - - - - - - - - -
+
+Why learn Data Warehousing and Business Intelligence?
+
+All the successful companies have been investing large sums of money in business intelligence and data warehousing tools and technologies. Up-to-date, accurate and integrated information about their supply chain, products and customers are critical for their success. 
+
+With the advent of Mobile, Social and Cloud platform, today's business intelligence tools have evolved and can be categorized into five areas, including databases, extraction transformation and load (ETL) tools, data quality tools, reporting tools and statistical analysis tools. This course will provide a strong foundation around Data Warehousing and Business Intelligence fundamentals and sophisticated tools like Talend, Tableau and ERwin.
+
+- - - - - - - - - - - - - -
+
+For more information, please write back to us at sales@edureka.co or call us at IND: 9606058406 / US: 18338555775 (toll-free).
+
+Facebook: https://www.facebook.com/edurekaIN/
+Twitter: https://twitter.com/edurekain
+LinkedIn: https://www.linkedin.com/company/edureka
+
+- - - - - - - - - - - - - -
+
+Customer Review: 
+
+Kanishk says, ""Underwent Mastering in DW-BI Course. The training material and trainer are up to the mark to get yourself acquainted to the new technology. Very helpful support service from Edureka.""",https://i.ytimg.com/vi/J326LIUrZM8/default.jpg,edureka!,686312,6839,318,0,191,"yt:cc=on,data warehouse tutorial,data warehouse tutorial for beginners,data warehousing tutorial,data warehousing tutorial for beginners,data warehousing tutorial videos,data warehouse concepts,data warehousing concepts,data warehouse architecture,what is data warehouse,data warehouse basics,olap in data warehouse,olap vs oltp,data mart vs data warehouse,edureka,data warehouse and data mining,data warehouse,Introduction to Data warehouse",beginner,3.4.1,FALSE
+aReuLtY0YMI,2021-01-22T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Hadoop In 5 Minutes | What Is Hadoop? | Introduction To Hadoop | Hadoop Explained |Simplilearn,"🔥Free Big Data Hadoop and Spark Developer course: https://www.simplilearn.com/learn-hadoop-spark-basics-skillup?utm_campaign=Skillup-BigData&utm_medium=DescriptionFirstFold&utm_source=youtube
+Hadoop is a famous Big Data framework; this video on Hadoop will acquaint you with the term Big Data and help you understand the importance of Hadoop. Here, you will also learn about the three main components of Hadoop, namely, HDFS, MapReduce, and YARN.  In the end, we will have a quiz on Hadoop. Hadoop is a framework that manages Big Data storage in a distributed way and processes it parallelly. Now, let's get started and learn all about Hadoop. 
+
+Don't forget to take the quiz at 05:11!
+
+To learn more about Hadoop, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1
+
+Watch more videos on HadoopTraining: https://www.youtube.com/watch?v=CKLzDWMsQGM&list=PLEiEAq2VkUUJqp1k-g5W1mo37urJQOdCZ
+
+#WhatIsHadoop #Hadoop #HadoopExplained #IntroductionToHadoop #HadoopTutorial #Simplilearn Big Data #SimplilearnHadoop #Simplilearn
+
+Simplilearn’s Big Data Hadoop training course lets you master the concepts of the Hadoop framework and prepares you for Cloudera’s CCA175 Big data certification. With our online Hadoop training, you’ll learn how the components of the Hadoop ecosystem, such as Hadoop 3.4, Yarn, MapReduce, HDFS, Pig, Impala, HBase, Flume, Apache Spark, etc. fit in with the Big Data processing lifecycle. Implement real life projects in banking, telecommunication, social media, insurance, and e-commerce on CloudLab.
+
+What is this Big Data Hadoop training course about?
+The Big Data Hadoop and Spark developer course have been designed to impart an in-depth knowledge of Big Data processing using Hadoop and Spark. The course is packed with real-life projects and case studies to be executed in the CloudLab.
+
+What are the course objectives?
+This course will enable you to:
+1. Understand the different components of Hadoop ecosystem such as Hadoop 2.7, Yarn, MapReduce, Pig, Hive, Impala, HBase, Sqoop, Flume, and Apache Spark
+2. Understand Hadoop Distributed File System (HDFS) and YARN as well as their architecture, and learn how to work with them for storage and resource management
+3. Understand MapReduce and its characteristics, and assimilate some advanced MapReduce concepts
+4. Get an overview of Sqoop and Flume and describe how to ingest data using them
+5. Create database and tables in Hive and Impala, understand HBase, and use Hive and Impala for partitioning
+6. Understand different types of file formats, Avro Schema, using Arvo with Hive, and Sqoop and Schema evolution
+7. Understand Flume, Flume architecture, sources, flume sinks, channels, and flume configurations
+8. Understand HBase, its architecture, data storage, and working with HBase. You will also understand the difference between HBase and RDBMS
+9. Gain a working knowledge of Pig and its components
+10. Do functional programming in Spark
+11. Understand resilient distribution datasets (RDD) in detail
+12. Implement and build Spark applications
+13. Gain an in-depth understanding of parallel processing in Spark and Spark RDD optimization techniques
+14. Understand the common use-cases of Spark and the various interactive algorithms
+15. Learn Spark SQL, creating, transforming, and querying Data frames
+
+Who should take up this Big Data and Hadoop Certification Training Course?
+Big Data career opportunities are on the rise, and Hadoop is quickly becoming a must-know technology for the following professionals:
+1. Software Developers and Architects
+2. Analytics Professionals
+3. Senior IT professionals
+4. Testing and Mainframe professionals
+5. Data Management Professionals
+6. Business Intelligence Professionals
+7. Project Managers
+8. Aspiring Data Scientists
+
+Learn more at: https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training?utm_campaign=Hadoop&utm_medium=Description&utm_source=youtube
+
+For more information about Simplilearn courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/aReuLtY0YMI/default.jpg,Simplilearn,512648,14027,268,0,854,"simplilearn,Hadoop In 5 Minutes,What Is Hadoop?,Introduction To Hadoop,Hadoop Explained,what is hadoop,introduction to hadoop,what is hadoop and big data,hadoop tutorial for beginners,what is hadoop and how does it work,what is big data,hadoop,hadoop tutorial,introduction to hadoop framework,hadoop overview,hadoop overview and history,hadoop architecture overview,simplilearn hadoop,big data,what is big data and hadoop,apache hadoop",beginner,4.0.3,FALSE
+Nj7h3FWcRGY,2020-09-21T00:00:00Z,UCtPoYxNA8UtdQg4aCNkS7Dg,🌟🌟🌟 Python Programming Full Course || Beginner to Intermediate || Bangla (বাংলা) || codinglaugh,"#pyhon_full_course #python_programming_language #codinglaugh
+
+🤡🤡🤡  IDE information:
+https://youtu.be/-Mb_kUJFDKs
+
+🍁🍁🍁 For Code:
+https://github.com/mAhmedSiddiki/Python_Full_Course
+
+🥳🥳🥳   D O W N L O A D   O U R   A P P S
+https://play.google.com/store/apps/dev?id=9002375012443289160
+
+😍😍😍  A B O U T   M E
+https://marjukahmedsiddiki.blogspot.com/p/about-me.html
+
+🍻🍻🍻 C O N T A C T   M E
+mahmedsiddiki@yahoo.com
+
+$$ Timestamp $$
+🌹0:00:00 - Introduction this course
+🌹0:00:30 - Why we learn python and history of python
+🌹0:03:50 - #Version of python and python 2.X vs python 3.x
+🌹0:15:01 - #IDE selection for python programming
+🌹0:19:36 - #print()
+🌹0:32:47 - #Variable
+🌹0:44:17 - #input()
+🌹0:53:48 - #Keyword
+
+🙈0:59:30 - #Operators
+🙈1:00:21 - #Arithmetic Operators
+🙈1:04:36 - #Comparison / Relation Operators
+🙈1:08:35 - #Logical Operators
+🙈1:13:00 - #Membership Operators
+🙈1:14:59 - #Identity Operators
+🙈1:19:40 - #Bitwise Operators
+🙈1:41:15 - #Assignment Operators
+🙈1:45:00 - Home Work
+
+🍼1:47:25 - #Flow Control / Decision Making
+🍼1:49:34 - #Flowchart
+🍼1:51:48 - if statement
+🍼1:56:22 - else statement
+🍼1:58:40 - elif ! multiple statement
+🍼2:02:21 - #Debug
+🍼2:08:02 - Nested if statement
+🍼2:11:49 - #While Loop
+🍼2:23:36 - For #Loop
+🍼2:34:05 - break, continue, pass (if,else,for,while)
+
+🍷2:41:20 - #Data types
+🍷2:42:18 - Data type - None
+🍷2:45:06 - Data type - Boolean
+🍷2:48:30 - Data type - Number
+
+💗2:55:50 - Data type - #String
+💗2:59:14 - String - Multiline
+💗3:01:19 - String - Index / Positive, Negative Index
+💗3:08:05 - String - Range, Slice
+💗3:11:38 - String - Change, Delete, Loop, Length
+💗3:21:05 - String - Membership, Concatenation, Repetition
+💗3:25:33 - String - Relation Operators
+💗3:29:34 - String - #Format
+💗3:43:52 - String Method
+💗3:45:06 - String method - capitalize(), title(), upper()
+💗3:47:08 - String method - casefold(), lower()
+💗3:49:55 - String method - join(), find(), rfind()
+💗3:55:23 - String method - center(), ljust(), rjust()
+💗3:59:04 - String method - count()
+💗4:00:16 - String method - strip(), lstrip(), rstrip()
+💗4:03:43 - String method - split(), splitlines(), partition()
+💗4:13:31 - String method - swapcase(), endswith(), startswith()
+💗4:15:49 - String method - zfill(), replace()
+💗4:18:12 - String method - is a condition check
+💗4:24:47 - String method - Upcoming topic
+
+🍉4:26:14 - Data type - #List
+🍉4:29:14 - List - Constructor, Nested List
+🍉4:33:16 - List - Index / Positive, Negative Index
+🍉4:41:45 - List - Range / Slice
+🍉4:46:09 - List - Add / Insert, Change, Delete
+🍉5:02:17 - List - Loop, Length
+🍉5:08:14 - List - Membership, Repetition
+🍉5:11:56 - List - Copy, #Concatenation
+🍉5:17:21 - List Method
+🍉5:18:19 - List Method - index(), count(), reverse()
+🍉5:22:19 - List Method - sort(), sorted()
+🍉5:34:33 - List Method - max(), min(), sum()
+🍉5:39:36 - List Method - upcoming topic
+
+🚁5:40:30 - Data type - #Tuple
+🚁5:42:40 - Tuple - Constructor
+🚁5:43:41 - Tuple - Tuple magic
+🚁5:47:50 - Tuple - Nested tuple
+🚁5:49:42 - Tuple - Index / Positive, Negative Index
+🚁5:53:24 - Tuple - add, change, delete
+🚁6:02:11 - Tuple - Loop
+🚁6:05:11 - Tuple - #Membership, Repetition
+🚁6:07:45 - Tuple Method - len(), max(), min()
+🚁6:11:23 - Tuple Method - index(), sorted(), count()
+
+🍁6:16:42 - Data type - #Dictionary
+🍁6:20:09 - Dictionary - Int key, Mixed key
+🍁6:21:20 - Dictionary - #Constructor, Pair
+🍁6:28:48 - Dictionary - Nested dictionary
+🍁6:31:11 - Dictionary - Accessing Values
+🍁6:36:31 - Dictionary - Add, Change, Delete value
+🍁6:45:35 - Dictionary - Copy, Loop, Membership
+🍁6:55:44 - Dictionary - get(), pop(), popitem(), clear()
+🍁6:57:30 - Dictionary - keys(), values(), items()
+🍁6:59:50 - Dictionary - update(), fromkeys(), setdefault()
+🍁7:09:24 - Dictionary - len(), sorted()
+
+🏮7:12:10 - Data type - #Set
+🏮7:18:28 - Set - Constructor
+🏮7:19:21 - Set - Loop / Access Values
+🏮7:21:17 - Set - Add, Delete, Join
+🏮7:32:05 - Set - Union, Intersection, Difference, Symmetric Difference
+🏮7:43:46 - Set - #Frozenset & #Method
+🏮7:46:49 - Set Method - intersection_update()
+🏮7:49:04 - Set Method - difference_update()
+🏮7:49:35 - Set Method - symmetric_difference_update()
+🏮7:50:24 - Set Method - sum(), len(), max(), min(), sorted()
+🏮7:54:37 - Set Method - issubset(), issuperset(), isdisjoint()
+
+👺7:59:30 - #Function
+👺8:03:38 - Function - Return
+👺8:05:47 - Function - Arguments and Parameters
+👺8:11:00 - Function - *args
+👺8:14:18 - Function - Keyword arguments
+👺8:19:07 - Function - **kwargs
+👺8:22:25 - Function - Default parameter
+👺8:24:04 - Function - Pass
+👺8:26:04 - Function - Instead of return
+👺8:30:46 - Function - Recursion
+👺8:36:07 - Function - #Nested Function
+
+🍻8:37:27 - #Global, #Local, #Nonlocal variable
+🍻8:50:00 - #Lambda (anonymous function)
+🍻8:57:34 - #Modules
+🍻9:12:32 - To be continued ❤️❤️❤️",https://i.ytimg.com/vi/Nj7h3FWcRGY/default.jpg,codinglaugh,64422,2234,39,0,218,"codinglaugh,python in bangla,file,oop,dictionary,set,tuple,function,list,string,python full course,python programming language,full course bangla,marjuk ahmed siddiki,python bangla full course,complete python course,codinglaugh full course,python bangla full course bangla,python full course bangla,python bangla tutorial,bangla tutorial python programming,codinglaugh bangla tutorial,computer science and engineering,full course,bangla,python,marjuk,course python",beginner,4.0.2,TRUE
+9geDK11f4tQ,2021-09-15T00:00:00Z,UCMAEo13Qwmiol0ObNFLKgCg,R language courses for beginner - Hindi | R language best course 2021 | R language best udemy course,"---hlo guys welcome again to my you tube channel
+* in this video you find the  R language - free courses available on udemy
+
+
+USEFUL LINKS*-*-*-*-*
+ PYTHON FREE COURSES-- https://www.youtube.com/watch?v=k7pCxaSJcyI
+
+
+R - LANGUAGE ---------------------LINKS-------------
+ 1st COURSE-- https://www.udemy.com/course/r-basics/
+
+ 2nd COURSE-- https://www.udemy.com/course/r-and-python-coding-with-prython/
+
+
+
+
+
+
+
+
+\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IGNORE TAGS *-*-**-**-*-**/*-*-*-*-*--*--
+
+#ballpythons #ballpythonbreeder #snakesofinstagram #snakes #ballpythonmorphs
+Copy
+#pythonsofinstagram #python #pythons #pythonsofig #pets #petstagram #herps #royalpython #snakebreeder #nature
+Copy
+#geneticsmatter #canon #macro #axanthicballpython #lightningstrikeI #lightningstrikeDay #developer #coding #code #codeclique
+Copy
+#program #programmers #programming #programmer #codeuniverse #peoplewhocode #technology #beautyoftechnology #minimalism #minimalismo
+Copy
+#cleanminimalism #developers #development #software #programmerslife💻 #buildupdevs #webdesign #isetups #developerstuff #worldcode
+Copy
+#ios #mobile #mobiledevelopmentCopy
+#courses #education #training #learning #course #onlinecourses #online #learn #career #students #business #college #kids #study #les #kursus #lesson #hobbies #drumcoursebali #denpasar #drumcourse #balirudiment #kursusdrumbali #drummer #university #student #kursusdrumdenpasar #kursusdrum #lesdrumdenpasar #bhfyp
+Second most liked instagram hashtags used with courses
+
+Copy
+#onlinelearning #drum #drumlessondenpasar #elearning #drumlessonbali #india #covid #skills #onlinecourse #entrepreneur #english #motivation #academy #free #adult #onlineclasses #design #institute #python #technology #follow #staysafe #beauty #classes #coding #knowledge #udemy #studyabroad #marketing #digitalmarketing
+#kalilinux #javascript #softwareengineer #pythonlearning #computerscience #coder #phyton #python3 #pythoncode #pythonprogramming
+Copy
+#reptilesofinstagram #ballpython #reptiles #petsofinstagram #ballpythonsofinstagram",https://i.ytimg.com/vi/9geDK11f4tQ/default.jpg,simplify me,19,1,0,0,0,"udemy best free course,best udemy courses,python best courses,r language best video,r language 2021,what is r language,r language best free courses for 2021,diff btw r and python language,r language 2021 free courses,r kanguage basics,r language beginners,r language best free courses for beginners,r language vspython language,r language basics,r language latest course,r language 2022 course,r language latest free course",beginner,4.1.1,TRUE
+7JLVotvGYsg,2018-08-11T00:00:00Z,UCgq2gIfNc3Iqb2PxZDAgeHw,Beginner&#39;s Guide to Strength Equipment,"Coop from Garage Gym Reviews joins us to discuss the basic strength training equipment you need to get started. In this video, he recommends squat racks, barbells, platforms and more.
+
+SUBSCRIBE TO OUR CHANNEL: https://bit.ly/2N20cLZ
+COOP'S CHANNEL: https://bit.ly/2MeAEhT
+
+Purchase the recommended equipment right here!
+ROGUE R-3 POWER RACK: https://bit.ly/2MlAjKJ
+TITAN T-3 POWER RACK: https://bit.ly/2mWlSxB
+CAP BARBELL:
+ROGUE OHIO POWER BAR: https://bit.ly/2AUF619
+ROGUE B&R 2.0 BAR: https://bit.ly/2MaiNcQ
+ROGUE FLAT UTILITY BENCH: https://bit.ly/2KFPAky
+REP FITNESS FB 5000: https://bit.ly/2OUok5f
+TITAN FITNESS OLYMPIC PLATES: https://bit.ly/2Oqg3EO
+ROGUE MACHINED OLYMPIC PLATES: https://bit.ly/2KG14nS
+
+HOW TO BUILD YOUR OWN DEADLIFT PLATFORM: https://bit.ly/2OsFea1
+
+Thanks again to Coop for joining us today!
+
+GET STARTED FOR FREE!
+Get your FIRST MONTH FREE on all strength and nutrition coaching plans. No discount code needed and includes a 10-day, no obligation trial. https://barbell-logic.com/online-coaching/
+
+----------------------------------------------------------------
+
+This is Barbell Logic, where we believe that health and fitness should be approached with simplicity, logic and reason.
+
+We focus on strength, health & longevity. Our goal is to present strength & fitness in a systematic logical progression. This channel aims to be a breath of fresh air in the fitness industry. Our teaching methods and programming for strength are simple, hard and effective.
+
+We will cover topics under the umbrellas of barbell training, conditioning and nutrition. We'll show you that barbell training is for everybody.
+
+WATCH MORE BARBELL LOGIC VIDEOS: https://bit.ly/2N8jwZ1
+
+Join us for a lifetime of success under the bar. This is the foundation of our journey together. 
+
+Barbell Logic on Instagram: https://www.instagram.com/barbell_logic/
+Barbell Logic on Facebook: https://www.facebook.com/barbelllogic...
+Listen to our podcast: https://bit.ly/2Kgi09b
+Visit our website: https://barbell-logic.com/",https://i.ytimg.com/vi/7JLVotvGYsg/default.jpg,Barbell Logic,27581,675,21,0,34,"barbell logic,barbell logic podcast,garage gym reviews,strength training equipment,gym equipment,garage gym,home gym,how to build a home gym,rogue,titan,rep fitness,home gym budget,barbell,barbell training,strength training,weight training,weight lifting,powerlifting,squat rack,squat,deadlift,bench press,press,fitness,fitness at home,lifting at home,barbell logic online coaching",beginner,3.5.1,TRUE
+5xg4Jvqy_UI,2020-08-08T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Angular Tutorial For Beginners | What is Angular? | What Is Angular And How It Works? | Simplilearn,"In this video on What is Angular, you will be introduced to Angular and some of the basic concepts to begin your Angular journey. Angular is a front-end JavaScript framework used to develop Web and Single-page applications. The Angular framework is commonly used to create Single Page Applications. 
+
+🔥Enrol for our FREE Courses with Completion Certificate: https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=Angular&utm_medium=Description&utm_source=youtube
+
+Here are the topics covered in this What is Angular video:  
+00:00:00 Angular Tutorial for beginners
+00:01:10 Why Angular?
+00:02:04 What is Angular?
+00:02:59 Features of Angular
+00:05:54 Angular Architecture
+00:06:34 Advantages of Angular
+00:09:19 Limitations of Angular
+00:10:21 Angular Learning Curve
+00:11:10 Companies using Angular
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+To access the slides, click here: https://www.slideshare.net/Simplilearn/angular-tutorial-for-beginners-what-is-angular-what-is-angular-and-how-it-works-simplilearn/Simplilearn/angular-tutorial-for-beginners-what-is-angular-what-is-angular-and-how-it-works-simplilearn
+
+⏩ Check out the Angular training videos: https://bit.ly/3k7oC8o
+
+#WhatIsAngular #WhatIsAngularAndHowItWorks #AngularTutorial #AngularTutorialForBeginners #AngularTraining #AngularArchitecture #AngularFeatures #AngularAdvantages #AngularLimitations #Simplilearn
+
+What is Angular?
+Angular is an open-source, JavaScript framework written in TypeScript. Google maintains it, and its primary purpose is to develop single-page applications. As a framework, Angular has clear advantages while also providing a standard structure for developers on a team to work with. It enables users to develop large applications in a maintainable manner. 
+
+About Simplilearn Angular training course:
+This Angular Certification Training Course will help you master front-end web development with Angular. Gain in-depth knowledge of concepts like facilitating the development of single-page web applications, dependency injection, typescript, components, and directives with this Angular Course.
+
+Simplilearn’s Angular certification course helps you understand the design of single-page applications and how Angular facilities their development. This Angular certification provides knowledge of concepts such as TypeScript, Bootstrap Grid System, dependency injections, SPA, forms, pipes, promises, observables, and Angular class testing.
+
+Angular Course Key Features
+1. 100% Money Back Guarantee
+2. 50 hours of blended learning
+3. Three industry-based projects and 12 quizzes
+4. Free introductory JavaScript course
+5. Flexibility to choose classes
+
+👉Learn more at: https://www.simplilearn.com/angular-certification-training-course?utm_campaign=Angular&utm_medium=Description&utm_source=youtube
+
+For more updates on courses and tips follow us on:
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn
+- Website: https://www.simplilearn.com
+
+Get the Android app: http://bit.ly/1WlVo4u
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/5xg4Jvqy_UI/default.jpg,Simplilearn,64857,895,51,0,25,"angular tutorial for beginners,what is angular,what is angular and why use it,what is angular and how it works,angular tutorial,learn angular,learn angular 8 from scratch,learn angularjs for beginners,angular,angularjs,getting started with angular,getting started with angular 9,angular basics,angular basics for beginners,angular basic tutorial for beginners,angular basic project,angular demo project,angular demo,angular training,simplilearn angular,simplilearn",beginner,4.0.2,FALSE
+L2k_tqfLphw,2019-10-07T00:00:00Z,UCngr4l9gPpXcMNbg8i6akhQ,"ASMR Beginner Coding Tutorial (Variables &amp; For Loops, Typing Sounds)","Hello there... This very basic programming tutorial is for your relaxation, as suggested by a subscriber. Tons of typing sounds and soft spoken rambling :) It's not meant to be an actual tutorial, but maybe you'll learn something! Sweet dreams :)
+
+My second coding video: https://youtu.be/FKCMQA7l1B0
+
+Disclaimer: This video is not made for kids.
+
+I upload new videos every Sunday.
+
+Twitter: https://twitter.com/RosyASMR
+Tingles app: https://tingles.app.link/Rosy-ASMR
+Business email: rosyasmrchannel@gmail.com
+
+If you would like to donate towards better equipment or props for the channel, it is very much appreciated. But your love and support is already more than enough!
+PayPal donations: paypal.me/RosyASMR
+
+Hugs,
+Rose",https://i.ytimg.com/vi/L2k_tqfLphw/default.jpg,Rosy ASMR,63152,1210,55,0,174,"asmr,asmr typing,asmr typing sounds,asmr coding,asmr keyboard,asmr tutorial,rosy asmr,asmr soft spoken",beginner,3.6.1,FALSE
+k5A92NDg8RQ,2020-06-30T00:00:00Z,UCOSeGDrlScCNgBcN5C8nTEw,Jupyter Notebooks for Python: Beginner Tutorial,"Get Jupyter Notebooks up and running so you can start learning Python! This is a Python tutorial aimed at beginners that want to get started using Jupyter Notebooks.
+
+Visit opensourceoptions.com for more content and courses
+⭐ Kite is a free AI-powered coding assistant that will help you code faster and smarter. The Kite plugin integrates with all the top editors and IDEs to give you smart completions and documentation while you’re typing. https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=opensourceoptions&utm_content=description-only",https://i.ytimg.com/vi/k5A92NDg8RQ/default.jpg,Open Source Options,8306,68,6,0,3,"open source,open source options,open source software,jupyter,jupyter tutorial,jupyter notebook tutorial,python tutorial,python jupyter tutorial,python jupyter notebook tutorial,python for beginners,data science,intro to data science,data science tutorial,python programming,free software",beginner,4.0.2,FALSE
+ob1yS9g-Zcs,2020-01-03T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Neural Network Full Course | Neural Network Tutorial For Beginners | Neural Networks | Simplilearn,"🔥Free AI Course With Course Completion Certificate: https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AI&utm_medium=DescriptionFirstFold&utm_source=youtube
+This full course video on Neural Network tutorial will help you understand what a neural network is, how it works, and what are the different types of neural networks. You will learn how each neuron processes data, what are activation functions, and how a neuron fires. You will get an idea about backpropagation and gradient descent algorithms. You will have a look at the convolution neural network and how it identifies objects in an image. Finally, you will understand about the recurrent neural networks and lstm in detail. Now, let's get started with learning neural networks.
+
+Dataset Link - https://drive.google.com/drive/folders/11T76B8UkTg9lU-sPhPlWqn6MOVhQ-FjS
+
+Below topics are explained in this Neural Network Full Course:
+1. Animated Video  00:52
+2. What is A Neural Network  06:35
+3. What is Deep Learning  07:40
+4. What is Artificial Neural Network  09:00  
+5. How Does Neural Network Works  10:37
+6. Advantages of Neural Network 13:39
+7. Applications of Neural Network  14:59
+8. Future of Neural Network 17:03
+9. How Does Neural Network Works  19:10
+10. Types of Artificial Neural Network  29:27
+11. Use Case-Problem Statement 34:57
+12. Use Case-Implementation  36:17
+13. Backpropagation & Gradient Descent  01:06:00
+14. Loss Fubction  01:10:26
+15. Gradient Descent 01:11:26
+16. Backpropagation  01:13:07
+17. Convolutional Neural Network 01:17:54
+18. How Image recognition Works 01:17:58
+19. Introduction to CNN  01:20:25
+20. What is Convolutional Neural Network  01:20:51
+21. How CNN recognize Images  01:25:34
+22. Layers in Convolutional Neural Network  01:26:19
+23. Use Case implementation using CNN  01:39:21
+24. What is a Neural Network  02:21:24
+25. Popular Neural Network  02:23:08
+26. Why Recurrent Neural Network  02:24:19
+27. Applications of Recurrent Neural Network  02:25:32  
+28. how does a RNN works 02:28:42
+29. vanishing And Exploding Gradient Problem  02:31:02
+30. Long short term Memory  02:35:54
+31. use case implementation of LSTM  02:44:32
+
+To learn more about Deep Learning, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1
+
+Watch more videos on Deep Learning: https://www.youtube.com/watch?v=FbxTVRfQFuI&list=PLEiEAq2VkUUIYQ-mMRAGilfOKyWKpHSip
+
+#NeuralNetwork #NeuralNetworkFullCourse #NeuralNetworkTutorial #WhatIsNeuralNetwork #DeepLearning #DeepLearningTutorial #DeepLearningCourse #DeepLearningExplained #Simplilearn
+
+Simplilearn’s Deep Learning course will transform you into an expert in Deep Learning techniques using TensorFlow, the open-source software library designed to conduct machine learning & deep neural network research. With our Deep Learning course, you'll master Deep Learning and TensorFlow concepts, learn to implement algorithms, build artificial neural networks and traverse layers of data abstraction to understand the power of data and prepare you for your new role as Deep Learning scientist.
+
+Why Deep Learning?
+
+It is one of the most popular software platforms used for Deep Learning and contains powerful tools to help you build and implement artificial neural networks. 
+Advancements in Deep Learning are being seen in smartphone applications, creating efficiencies in the power grid, driving advancements in healthcare, improving agricultural yields, and helping us find solutions to climate change. 
+
+You can gain in-depth knowledge of Deep Learning by taking our Deep Learning certification training course. With Simplilearn’s Deep Learning course, you will prepare for a career as a Deep Learning engineer as you master concepts and techniques including supervised and unsupervised learning, mathematical and heuristic aspects, and hands-on modeling to develop algorithms. Those who complete the course will be able to: 
+1. Understand the concepts of TensorFlow, its main functions, operations and the execution pipeline
+2. Implement Deep Learning algorithms, understand neural networks and traverse the layers of data abstraction which will empower you to understand data like never before
+3. Master and comprehend advanced topics such as convolutional neural networks, recurrent neural networks, training deep networks and high-level interfaces
+
+Learn more at: https://www.simplilearn.com/deep-learning-course-with-tensorflow-training?utm_campaign=Neural-Network-Full-Course-ob1yS9g-Zcs&utm_medium=Tutorials&utm_source=youtube
+
+For more information about Simplilearn’s courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/ob1yS9g-Zcs/default.jpg,Simplilearn,97327,2088,50,0,280,"neural network full course,neural network tutorial,neural network tutorial for beginners,neural network in artificial intelligence,neural network architecture,neural network in machine learning,neural network explained,what is neural network,what is a neural network and how does it work,neural networks for machine learning,neural networks tutorial,neural networks and deep learning crash course ai,neural network,simplilearn deep learning,simplilearn",beginner,3.6.2,FALSE
+40wUdqGZ2rw,2019-02-11T00:00:00Z,UC1P4ACs0hsr7AWcl-mWKQbQ,TIA Portal: PLC Programming (Beginner Intro),"Setting up the PLC Program for a PLC project using TIA Portal V15
+
+Contents are:
+- Intro to TIA Portal
+- Using OB1
+- Understanding NO/NC Contacts
+- Set/Reset Flip Flop
+- Direct Assignments
+- And/Or Circuits
+If this video helped you, please consider helping me by joining my ""GoFundMe"" and donating a small amount to my cause. Link here:
+https://www.gofundme.com/f/let039s-finally-take-training-to-the-21st-century?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",https://i.ytimg.com/vi/40wUdqGZ2rw/default.jpg,Hegamurl,59853,1055,8,0,40,"tia,portal,v15,v14,v13,step7,step 7,totally integrated automation,tia portal,configuration,program,programmieren,sps,plc,s7-1200,s7-1500,s7-300,easy,intro,training,getting started,inputs,outputs,ob1,organization block 1,programm,first steps,siemens,automation",beginner,3.5.2,FALSE
+1DjAJEIDF-k,2019-07-10T00:00:00Z,UCnEAkl8rpSQqd4YkoicSdgw,R Language for beginner Part 3 - Basic Functions,"Hi guys,
+in  this video we will learn some basic function of R language.
+thanks for watching",https://i.ytimg.com/vi/1DjAJEIDF-k/default.jpg,Data Science,9,0,0,0,0,",",beginner,3.6.1,TRUE
+zv0b069zgqo,2018-08-06T00:00:00Z,UCe0TLA0EsQbE-MjuHXevj2A,Top 6 Beginner Workout Mistakes!,"Build Muscle in 90 Days - http://athleanx.com/x/my-workouts
+Subscribe to this channel here - http://bit.ly/2b0coMW
+
+Beginner workouts are incredibly important since they set the foundation for all gains to come.  In this video, I’m going to go over the biggest beginner workout mistakes that people make that undercut their ability to see the best results that they can get in the long run.  I will cover everything from the importance of the bench press, squat and deadlift while remembering not to rely solely on them or attempt to lift too much weight at the expense of good form.
+
+To start, full range of motion on exercises is incredibly important for anyone lifting weights.  This holds true whether you are a beginner or even more advanced.  The use of full range of motion helps to strengthen the kinetic chain while improving coordination.  Many beginners lack joint coordination or awareness in space and instead will use shortened range of motions in order to trick themselves into thinking they are doing more than they are.
+
+The compound lifts are key exercises for promoting the opportunity for full range of motion.  Because they utilize multiple muscle groups and joints they allow you to load up the highest amounts of weights that you can on any exercise.  That tends to create some fear of these exercises for beginners however.  The sense of danger on these exercises is certainly higher than on a concentration curl but that doesn’t mean they should be avoided.
+
+Instead, using weight that you can command and building a true strength base on top of that is the answer.  If you start using weights that you can handle and continue to increase your strength on these lifts over time, you won’t fear the movement.  As you see results come from performing these exercises you will become less self conscious of those around you and your fears of using weights that you feel are too light in comparison to what others are using.
+
+Remember, we all start somewhere.  Even the strongest guy in the gym started out using the bar.  Keep adding weights only when you can perform the lift in good form.  Too many so called experts think that it is a badge of honor to have a “strong” lift when it is nothing more than an average lift wrapped around a whole lot of bad form and compensation.  Do not copy this.  You may even wind up looking as bad as they do if you follow that advice.
+
+From here you want to make sure that you do not approach your training and workout sessions lazily.  What this means is that instead of just grabbing a bar, squeeze it for all its worth.  The strength that is elicited by simply doing that will surprise you.  Do not just move the bar from point A to point B, execute the movement and exercise with your highest intensity.  You will need a great deal of grip strength as a beginner to take advantage of this but you can build that by not avoiding forearm work and remembering to rack all of your own dumbbells and plates.
+
+If you are looking for a workout program for beginners that will help you to build muscle fast, head to http://athleanx.com and get the ATHLEAN-X Training System.  Start training like an athlete and building a solid foundation of muscle, strength and athleticism and you will be amazed at how much faster you see results long term.
+
+For more beginner workout videos, tips and techniques for novice to advanced lifters be sure to subscribe to our channel here on youtube at http://youtube.com/user/jdcav24",https://i.ytimg.com/vi/zv0b069zgqo/default.jpg,ATHLEAN-X™,1857275,55791,561,0,2282,"beginner workout,beginner workouts,beginners workout,workout for beginner,workout for beginners,novice workout,workout for novices,workout for a novice,beginner workout video,beginner workout plan,beginner workout program,how to build muscle as a beginner,how to gain muscle,how to build muscle,beginner mass workout,beginner size workout,beginner muscle building,how to add muscle,how to get in shape,athleanx,athlean x,jeff cavaliere",beginner,3.5.1,FALSE
+QJpfLkEsoek,2019-04-16T00:00:00Z,UClLXKYEEM8OBBx85DOa6-cg,Unreal Engine Beginner Tutorial: Building Your First Game,"Get the FULL Unreal Engine course:
+https://bit.ly/3nfnjGy
+
+Unreal C++ Beginner Tutorial:
+https://youtu.be/1dl91ORwmy8
+
+In this video you are going to learn how to build a very simple game using Unreal Engine and Blueprint.
+
+The goal of this lesson is to get you aquainted with the absolute basics of:
+
+- The Unreal Editor
+- Simple AI
+- Events in Blueprint
+- Spawing objects and effects
+- Building games in Unreal Engine
+
+Should you learn Unreal Blueprint or C++ for your games?
+
+You need to learn both. Blueprints are THE way to start learning Unreal and almost all
+production games use Blueprint in some manner -- some games are even built 100% in Blueprint!
+
+Unreal Engine Beginner Tutorial: Building Your First Game",https://i.ytimg.com/vi/QJpfLkEsoek/default.jpg,Devslopes,2097643,48984,720,0,2362,"programming,programmer,learn to code,coding tutorial,unreal engine,game development,gamedev,beginner tutorial,unity,how to build games,blueprint,unreal engine 4,c++",beginner,3.6.0,FALSE
+Q0rYH-dJ5DY,2020-05-17T00:00:00Z,UCbni-TDI-Ub8VlGaP8HLTNw,Beginner R studio: Clean Data | Feature Extraction | Data Exploration,"This is a First video of creating a  project (𝐑-𝐒𝐭𝐮𝐝𝐢𝐨) where we will investigate Retail Sales Data, from an online wholesaler. Today, we will 𝐫𝐞𝐦𝐨𝐯𝐞 𝐍𝐀 𝐯𝐚𝐥𝐮𝐞𝐬, 𝐫𝐞𝐦𝐨𝐯𝐞 𝐝𝐮𝐩𝐥𝐢𝐜𝐚𝐭𝐞 𝐯𝐚𝐥𝐮𝐞𝐬. Show what those columns look like, investigate 𝐚𝐩𝐩𝐥𝐲(), 𝐟𝐢𝐥𝐭𝐞𝐫(), 𝐠𝐫𝐞𝐩(), 𝐭𝐚𝐛𝐥𝐞() and finally look deeper into data and find a potential hurdle in analysis. 🎓 Turn on the 🔔  notification
+
+➡ Patreon: https://www.patreon.com/mrfugudatasci
+➡ Buy Me A Coffee: https://www.buymeacoffee.com/mrfugudatasci
+➡ Github: github.com/MrFuguDataScience
+➡ Twitter: https://twitter.com/MrFuguDataSci
+➡  Instagram: https://www.instagram.com/mrfugudatascience/
+
+Similar material you may like:
+
+▶️   Send Data from R to Mongo: https://youtu.be/7R7lFhOwFvQ
+
+▶️   R to PostgreSQL: https://youtu.be/ChmHbkwGTPQ
+
+▶️   Web scrape: https://youtu.be/4TgME-snp-M",https://i.ytimg.com/vi/Q0rYH-dJ5DY/default.jpg,Mr Fugu Data Science,257,8,0,0,2,"Beginner R,R studio,R tutorial,r studio tutorial,data cleaning in r,Mr Fugu Data Science,mr fugu,mr fugu data science",beginner,4.0.0,TRUE
+l_C5TayuBes,2020-08-05T00:00:00Z,UCKwktLYYilL6nEnksseojRA,Stock Analysis Tutorial - Advanced Beginner R Programming - Charting with ggplot2 (Part 5),"This is a beginner data science tutorial where we will build an interactive stock analysis dashboard using RStudio, the R programming language, and the 'Shiny' dashboard package. This tutorial covers web scraping, dynamically downloading stock data, basic r programming and data cleaning, plotting with ggplot2, and coding an interactive dashboard in Shiny.
+
+In this video we create a historical price chart, an industry bar chart, and a performance bar chart.
+________
+Download RStudio:
+https://rstudio.com/products/rstudio/download/
+
+________
+Tidyverse:
+https://www.tidyverse.org/
+________
+Basic Data Manipulation in R:
+https://youtu.be/IhTszOAA3EM
+
+Pipe operator shortcut:
+ctrl + shift + m
+
+dplyr:
+ - filter()
+ - select()
+ - mutate()
+ - group_by() & summarize()
+ - left_join()
+
+tidyr: 
+ - spread()
+ - gather()
+
+________
+Basic R videos:
+https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg
+
+_______
+Social
+Twitter: 
+@Matt_C_137
+
+GitHub: 
+@MattC137
+https://github.com/MattC137
+
+Email:
+earthc0137@gmail.com",https://i.ytimg.com/vi/l_C5TayuBes/default.jpg,Matt C137,258,2,0,0,0,"Dplyr,Tidyr,Shiny,Rvest,Ggplot2,Charting,Charting data,R programming,R tutorial,tutorial,R programming tutorial,R programming basics,data science,r programming language,data cleaning,data science R,data science tutorial,tidy data,Tidyverse,Programming,data science projects,Web scraping,Scraping,investing,Stock,Stocks,Stock market,s&p 500,Finance,Dashboard,Interactive dashboard,Stock data,Investment data,R tutorial for beginners,R tutorial for data analysis",beginner,4.0.2,TRUE
+GtovwKDemnI,2019-04-19T00:00:00Z,UCkw4JCwteGrDHIsyIIKo4tQ,Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka,"🔥 Linux Admin Certification Training: https://www.edureka.co/linux-admin
+🔥 Edureka Computer Science Bootcamp Program: https://www.edureka.co/masters-program/computer-science-bootcamp-program
+This  ""Shell Scripting Tutorial"" video gives you an extensive explanation about Shell Scripting in Linux. It covers the essential concepts such as using variables, basic operators, loops & functions. 
+It also gives you an insight by scaling down some real-time scenarios and demonstrating them using the virtual machine.
+
+01:05 Getting started with Linux
+03:45 Command Line Essentials
+21:49 Shell Script Basics
+26:43 Using Variables
+38:12 Basic Operations
+41:03 Shell Loops
+52:42 Shell Functions
+58:52 Use-Case
+
+#edureka #LinuxEdureka #LinuxTutorial #LinuxOnlineTraining 
+
+Check our complete Linux admin playlist here: https://goo.gl/ZUTGVb
+
+- - - - - - - - - - - - - - - - -
+
+Subscribe to our channel to get video updates. Hit the subscribe button above: https://goo.gl/6ohpTV
+
+Instagram: https://www.instagram.com/edureka_learning/
+Facebook: https://www.facebook.com/edurekaIN/
+Twitter: https://twitter.com/edurekain
+LinkedIn: https://www.linkedin.com/company/edureka
+
+- - - - - - - - - - - - - - - - - 
+
+How it Works?
+
+1. This is a 7 Week Instructor led Online Course, 25 hours of assignment and 10 hours of project work
+2. We have a 24x7 One-on-One LIVE Technical Support to help you with any problems you might face or any clarifications you may require during the course.
+3. At the end of the training you will have to undergo a 2-hour LIVE Practical Exam based on which we will provide you a Grade and a Verifiable Certificate!
+
+- - - - - - - - - - - - - -
+
+About the Course:
+
+Edureka's Linux Administration course covers all the concepts on administration methods in Linux. Starting from Linux installation to security administration, networking concepts, file system management, system services, Kernel services, Linux configuration.
+
+- - - - - - - - - - - - - -
+
+Who should go for this course?
+
+This course can be taken by any professional who wants to be a Linux Administrator or wants to learn Linux.
+
+- - - - - - - - - - - - - -
+
+Why learn Linux Administration?
+
+Linux is everywhere. In your daily life, you are communicating with Linux servers, major internet sites such as Facebook and Google are using Linux servers. In addition, most modern televisions and Android mobiles run on Linux. At the root of it, Linux is free software used to control desktop, laptop, supercomputers, mobile devices, networking equipment, airplanes and automobiles and so on. With Linux knowledge and an inexpensive computer you can create tiny gadgets at home, making it a widely acclaimed weapon in your skills' armour.
+
+- - - - - - - - - - - - - -
+
+For more information, Please write back to us at sales@edureka.co or call us at IND: 9606058406 / US: 18338555775 (toll free).",https://i.ytimg.com/vi/GtovwKDemnI/default.jpg,edureka!,647598,10673,314,0,124,"yt:cc=on,shell scripting tutorial,shell scripting,shell scripting tutorial for beginners,shell scripting tutorial advanced,shell scripting advanced tutorial,shell scripting and bash scripting,linux shell scripting tutorial,shell scripting basics,shell scripting complete tutorial,shell scripting crash course,shell scripting course,shell scripting tutorial in linux,shell scripting projects,shell scripting programs,bash script,linux certification training,edureka",beginner,3.6.0,FALSE
+A1JN_UN3mYE,2021-07-29T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Data Analyst Full Course 2021 | Data Analyst Skills Required | Data Analytics Lecture | Simplilearn,"In this Data Analyst Full Course video, you will learn what data analytics is, why data analytics is necessary, the types of data analytics, and the various data analytics applications. You will then understand a case study and perform analysis of data using Python and R. In addition to that; we will see the top 10 data analysis tools and understand the difference between a data scientist and a data analyst. Finally, we’ll see the top interview questions that will help you crack a data analyst interview.
+
+Below are the topics covered in this video:
+00:00:00 Introduction
+00:01:56Data Analyst Career
+00:37:15 Top 10 Data Analyst Skills
+00:50:33 Top 10 Data Analyst Tools
+01:23:10 Data Scientist vs Data Analyst
+01:39:59 Data Analytics with Python
+01:49:44 Microsoft Excel Tutorial
+02:18:41 Pivot table in excel
+02:46:53 Excel Dashboard
+06:58:05 Data Analytics Using R
+08:04:33 What is SQL?
+09:41:38 Data Analyst Interview Questions
+
+
+🔥 Enroll for FREE Data Analytics Course & Get your Completion Certificate:  https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup?utm_campaign=DAnalystFCJul28&utm_medium=Description&utm_source=youtube
+
+⏩ Check out the Data Analytics Playlist: link: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+#DataAnalystCourse #DataAnalyst #BecomeDataAnalyst #DataAnalyticsFullCourse #DataAnalyticsForBeginners #DataAnalyticsLecture #LearnDataAnalytics #DataAnalysis #DataAnalytics #Simplilearn #DataAnalystFullCourse
+
+This Data Analyst Master’s Program in collaboration with IBM will make you an expert in data analytics. In this Data Analytics course, you'll learn analytics tools and techniques, how to work with SQL databases, the languages of R and Python, how to create data visualizations, and how to apply statistics and predictive analytics in a business environment.
+
+What are the learning objectives?
+Simplilearn’s Data Analyst Master's Program developed in collaboration with IBM will provide you with extensive expertise in the booming data analytics field. This data analytics certification training course will teach you how to master descriptive and inferential statistics, hypothesis testing, regression analysis, data blending, data extracts, and forecasting. Through this course, you will also gain expertise in data visualization techniques using Tableau and Power BI, learning how to organize data and design dashboards. In this data analyst certification online course, a special emphasis is placed on those currently employed in the non-technical workforce. Through this Data Analytics course, those with a basic understanding of mathematical concepts will be able to complete the course and become an expert in data analytics. This learning experience melds the knowledge of Data Analytics with hands-on demos and projects via CloudLab. Upon completing this course, you will have all the skills required to become a successful data analyst.
+
+Why become Data Analyst?
+By 2020, the World Economic Forum forecasts that data analysts will be in demand due to increasing data collection and usage. Organizations view data analysis as one of the most crucial future specialities due to the value that can be derived from data. Data is more abundant and accessible than ever in today’s business environment. In fact, 2.5 quintillion bytes of data are created each day. With an ever-increasing skill gap in data analytics, the value of data analysts is continuing to grow, creating new job and career advancement opportunities. 
+
+Who should take up this course?
+Aspiring professionals of any educational background with an analytical frame of mind are best suited to pursue the Data Analyst Master’s Program, including:
+1. IT professionals
+2. Banking and finance professionals
+3. Marketing managers
+4. Sales professionals
+5. Supply chain network managers
+6. Beginners in the data analytics domain
+7. Students in UG/ PG programs
+
+👉Learn more at: https://www.simplilearn.com/data-analyst-masters-certification-training-course?utm_campaign=DAnalystFCJul28&utm_medium=Description&utm_source=youtube
+
+For more information about Simplilearn courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+- Instagram: https://www.instagram.com/simplilearn_elearning
+- Telegram Mobile: https://t.me/simplilearnupdates
+- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates
+
+Get the Simplilearn app: https://simpli.app.link/OlbFAhqMqgb",https://i.ytimg.com/vi/A1JN_UN3mYE/default.jpg,Simplilearn,118091,3675,62,0,54,"data analyst,data analyst skills required,data analyst course,data analyst full course,data analyst full course free,data analytics,data analytics lecture,data analytics course,data analytics full course,data analytics full course free,learn data analytics,become data analyst,data analyst roadmap,data analyst skills needed,data analytics interview questions,data analytics interview questions for freshers,simplilearn data analytics,simplilearn",beginner,4.1.0,TRUE
+TPrnSACiTJ4,2019-09-04T00:00:00Z,UCOKHwx1VCdgnxwbjyb9Iu1g,Blender Beginner Tutorial - Part 1,"Blender tutorial for beginners! The long awaited reboot of the popular donut tutorial, completely remade for Blender 2.8x. New videos will be uploaded every other day to this channel.
+
+Get the shortcut pdf: https://mailchi.mp/ef5b15a32043/subscribe-to-the-newsletter
+
+
+-----------------------------------------------
+
+Follow me:
+
+Twitter: https://twitter.com/andrewpprice
+Instagram: http://instagram.com/andrewpprice
+Facebook: http://facebook.com/blenderguru
+ArtStation: http://artstation.com/artist/andrewprice
+
+Blender Guru: https://www.blenderguru.com
+Poliigon: https://www.poliigon.com?utm_campaign=blender-beginner-2019&utm_source=youtube.com&utm_medium=video&utm_content=blender-guru-blender-beginner-level-1-part-1",https://i.ytimg.com/vi/TPrnSACiTJ4/default.jpg,Blender Guru,11228648,336767,4197,0,15001,"blender,tutorial,beginner,3d,donut,doughnut,blender donut,blender tutorial",beginner,3.6.1,FALSE
+dGxQhLO04b8,2017-06-24T00:00:00Z,UC3FIdb-kMB3pHSq9bDB6L1A,3.2 Laurent Gatto - Beginner’s statistics in R (day1),Beginner's statistics in R(day 1) - Laurent Gatto- 2017 May Institute - NEU Boston,https://i.ytimg.com/vi/dGxQhLO04b8/default.jpg,May Institute: Computation and Statistics for MS,164,1,0,0,0,",",beginner,3.4.1,TRUE
+oQmxQh92Nh8,2020-08-30T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,Data Analytics Full Course In 5 Hours | Data Analytics For Beginners | Data Analytics | Simplilearn,"🔥 Enroll for FREE Data Analytics Course & Get your Completion Certificate:  https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup?utm_campaign=Skillup-DataAnalytics&utm_medium=DescriptionFirstFold&utm_source=youtube
+Data analytics has been rapidly growing, with companies looking to generate insights and drive their business with the help of data. In this Data Analytics Full Course video, you will learn what data analytics is, why data analytics is necessary, the types of data analytics, and the various data analytics applications. You will then understand a case study and perform analysis of data using Python and R. In addition to that; we will see the top 10 data analysis tools and understand the difference between a data scientist and a data analyst. Finally, we’ll see the top interview questions that will help you crack a data analyst interview.
+
+Dataset Link - https://drive.google.com/drive/folders/1U8CF0Xx3NivXdfrQvXJ_462tEb26oPuX
+
+00:00:00 What is Data Analytics
+00:05:21 Types of data Analytics
+00:11:58 Why Data Analytics
+00:17:17 Data Analytics using Python
+02:01:29 Data Analytics using R
+02:34:22 Data Analysis Tools
+02:53:20 Data Analytics Jobs, Career and Salary
+03:18:41 Data Scientist vs Data Analyst
+03:30:19 Data Analyst Interview Questions
+
+⏩ Check out the Data Analytics Playlist: link: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+#DataAnalyticsFullCourse #DataAnalyticsForBeginners #LearnDataAnalytics #DataAnalysis #DataAnalytics #Simplilearn
+
+This Data Analyst Master’s Program in collaboration with IBM will make you an expert in data analytics. In this Data Analytics course, you'll learn analytics tools and techniques, how to work with SQL databases, the languages of R and Python, how to create data visualizations, and how to apply statistics and predictive analytics in a business environment.
+
+What are the learning objectives?
+Simplilearn’s Data Analyst Master's Program developed in collaboration with IBM will provide you with extensive expertise in the booming data analytics field. This data analytics certification training course will teach you how to master descriptive and inferential statistics, hypothesis testing, regression analysis, data blending, data extracts, and forecasting. Through this course, you will also gain expertise in data visualization techniques using Tableau and Power BI, learning how to organize data and design dashboards. In this data analyst certification online course, a special emphasis is placed on those currently employed in the non-technical workforce. Through this Data Analytics course, those with a basic understanding of mathematical concepts will be able to complete the course and become an expert in data analytics. This learning experience melds the knowledge of Data Analytics with hands-on demos and projects via CloudLab. Upon completing this course, you will have all the skills required to become a successful data analyst.
+
+Why become Data Analyst?
+By 2020, the World Economic Forum forecasts that data analysts will be in demand due to increasing data collection and usage. Organizations view data analysis as one of the most crucial future specialties due to the value that can be derived from data. Data is more abundant and accessible than ever in today’s business environment. In fact, 2.5 quintillion bytes of data are created each day. With an ever-increasing skill gap in data analytics, the value of data analysts is continuing to grow, creating a new job and career advancement opportunities. 
+
+Who should take up this course?
+Aspiring professionals of any educational background with an analytical frame of mind are best suited to pursue the Data Analyst Master’s Program, including:
+1. IT professionals
+2. Banking and finance professionals
+3. Marketing managers
+4. Sales professionals
+5. Supply chain network managers
+6. Beginners in the data analytics domain
+7. Students in UG/ PG programs
+
+👉Learn more at: https://www.simplilearn.com/data-analyst-masters-certification-training-course?utm_campaign=DataAnalytics&utm_medium=Description&utm_source=youtube
+
+For more information about Simplilearn courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/oQmxQh92Nh8/default.jpg,Simplilearn,299368,6542,93,0,250,"data analyst,data analytics,data analytics course,data analytics course for beginners,data analytics course online free,data analytics for beginners,data analytics for beginners full course,data analytics full course,data analytics tutorial,data analytics tutorial for beginners,data analytics tutorial free,data analytics with python,data analytics with r,learn data analytics,learn data analytics from scratch,simplilearn,simplilearn data analytics",beginner,4.0.2,TRUE
+RAscX25SZbA,2019-02-25T00:00:00Z,UCkDLY-qb08MQn5xbUtY2fMg,🔬 Justin&#39;s Beginner R Language Tutorials - Characters w/ Microsoft Visual Studio Code - Episode 6,"🧬 Kaggle: https://kaggle.com/immune
+
+📜 Reddit: https://reddit.com/u/ddos
+
+📦 Github: https://github.com/Jfaler
+
+🐦 Twitter: https://twitter.com/JustinFaler
+
+🐳 Digital Ocean: https://m.do.co/c/397fb2277475
+
+🌌 Tutorial list:
+→ Hello world
+→ Basic arithmetic
+→ Data type sizes
+→ Conditional operators
+→ Convert an if ladder statement into a switch statement
+→ If statements
+→ Strings
+→ For loops
+→ Do while loop
+→ Switch statements
+→ Passing by reference
+→ Overloaded functions
+→ Vector capacity
+→ Void functions
+→ While loops
+→ Pointers in memory
+→ Random number generation with minimum and maximum
+→ Nested for loops
+→ Intro to vectors
+→ Intro to pointers
+→ Bubble sort
+→ Heapsort
+→ Shaker sort
+→ Parameter functions
+→ Sorting
+→ I/O files
+→ Getline with strings
+→ Else if statements
+→ Fizz buzz
+→ Find all roots of a Quadratic Equation
+→ Trigonometry",https://i.ytimg.com/vi/RAscX25SZbA/default.jpg,Justin Faler,80,0,0,0,0,"coding for kids,R programming tutorials,R language tutorials,R coding,Microsoft Visual Studio Code,2019",beginner,3.5.2,TRUE
+mhdExzt7AnU,2019-10-19T00:00:00Z,UCXZTnQ3pmX29VbQ1-XbhLsw,Learn Python In Tamil | Beginner to Advance Complete guide | Tamil Hacks,"Hi guys welcome to Tamil Hacks 2.0 👩‍💻
+
+Give this video a Thumbs Up 👍
+
+Share & Subscribe  for More Videos😉
+
+Show your support to recover the channel💖
+
+Click the bell icon to get notified for new videos 🔔
+
+feel free to drop your doubts in the comment section 📳
+
+Buy me a Coffee☕ http://bit.ly/2Hf1aUC
+
+all codes and materials used in the video are available here:
+ https://tamilhacks.com/index.php/2021/02/03/python1/
+
+connect with me here: 
+
+https://twitter.com/tamilhacks0 🐱‍🏍
+
+https://www.instagram.com/tamilhacks0/ 🐱‍👤
+
+https://www.facebook.com/tamilhacks4 📱
+
+tamilhackstech@gmail.com 📧
+
+#Tamilhacks #Tamilhacks2_0
+
+Credits:👨‍💻
+Music: https://www.bensound.com
+all the images and files used are open source and my own creation. all rights belong to their respective owners
+
+Disclaimer:👨‍💻
+Information provided on this video is for educational purposes only. all the content is made by our team and copyright protected, do not misuse them in any way and this content means no harm in any way.",https://i.ytimg.com/vi/mhdExzt7AnU/default.jpg,Tamil Hacks 2.0,1349224,40280,639,0,2269,"learn python,tamil hacks,learn python in tamil,python in tamil,python,python programming,python coding,python projects,python beginner guide,basic python,advance python,python tutorials in tamil,learn python tutorials",beginner,3.6.1,FALSE
+VZXopmIEtlc,2020-05-30T00:00:00Z,UCfcY_BOpfgpk_gUoyQxlfEQ,## R204 Beginner Stats in R    Central Tendency and Variation,"This series is for statistics beginners.  I will cover dozens of examples at a basic level in R.  This is a short example of these core concepts (VERY BASICALLY, more to come): 
+1) Population ~ Any collection of elements under study, including future observations as in a process
+2) Parameter  ~ Any characteristic of a population
+3) Sample     ~ Any subset of a population 
+4) Statistic  ~ Any characteristic of a sample
+5) Central Tendency and Variation
+6) Parametric and Non Parametric Stats
+7) Descriptive and Inferential Statistics",https://i.ytimg.com/vi/VZXopmIEtlc/default.jpg,Scott Burk,49,0,0,0,0,",",beginner,4.0.0,TRUE
+rwbho0CgEAE,2017-04-25T00:00:00Z,UCYUPLUCkMiUgiyVuluCc7tQ,The Beginner&#39;s Guide to Excel - Excel Basics Tutorial,"If you like this video, here's my entire playlist of Excel tutorials: http://bit.ly/tech4excel
+Learn the basics of using Microsoft Excel, including the anatomy of a spreadsheet, how to enter data, how to make your data look good so it's easier to read and use, and more. This tutorial was made using Excel 2016, but is applicable to older versions of Excel and newer versions too.
+***Consider supporting Technology for Teachers and Students on Patreon***:  https://www.patreon.com/technologyforteachersandstudents Consider saying ""Thanks"" by clicking the Thanks button below the video. 
+
+Click below for more information about some of the movies mentioned in this tutorial:
+Dirty Rotten Scoundrels: http://amzn.to/2xTpck1
+Ladyhawke:  http://amzn.to/2xOhLsA
+Stardust: http://amzn.to/2yjJvs9
+Young Sherlock Holmes: http://amzn.to/2xaJJNv",https://i.ytimg.com/vi/rwbho0CgEAE/default.jpg,Technology for Teachers and Students,13934381,217948,4412,0,5863,"excel 2016,excel basics,how to use excel,excel,excel how to,beginning excel,level 1 excel,excel level 1,basic excel,learning excel basics,learn excel basics,learn basic excel,help with excel,excel help,excel for dummies,excel for dummys,learn excel,using excel,beginner's excel,how to use exel,beginner's guide to microsoft excel,ms excel for dummies",beginner,3.4.0,FALSE
+wvxCNQ5AYPg,2018-07-11T00:00:00Z,UCfXdejDvNviqilmJ9DvGuow,Raspberry Pi Beginner&#39;s Guide: Install and Setup NOOBS,The MakeUseOf Raspberry Pi Unofficial Guide can be downloaded from https://www.makeuseof.com/tag/great-things-small-package-your-unofficial-raspberry-pi-manual/,https://i.ytimg.com/vi/wvxCNQ5AYPg/default.jpg,MUO,663687,8207,208,0,447,"raspberry pi,setup raspberry pi,setup noobs,raspberry pi noobs,getting started with raspberry pi,getting started with raspberry pi 3 model b,getting started with raspberry pi 3,install noobs on raspberry pi,raspberry pi (computer)",beginner,3.5.1,FALSE
+mg8wN0g9-Y8,2014-04-01T00:00:00Z,UCNCmyHDUuaQJPb5T-9RPRZQ,F# R for a babbling beginner 5,Learning F# to interface with R.  This video is all about getting data from a DB and feeding it into a Dataset in F#.  Please feel free to point out easier ways.,https://i.ytimg.com/vi/mg8wN0g9-Y8/default.jpg,whatwherethere,87,0,0,0,0,"F# (Programming Language),MSAccess,connector,dataset,datatable",beginner,3.0.3,TRUE

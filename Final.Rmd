@@ -1,0 +1,622 @@
+---
+title: "Project 5 - Final"
+author: "Preston Peck"
+date: "12/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tuber)
+library(tidyverse)
+library(readr)
+library(dplyr)
+library(tidytext)
+library(stringr)
+library(lubridate)
+library(ggplot2)
+library(runner)
+library("stopwords")
+library("wordcloud")
+library(ggrepel)
+library(psych)
+```
+
+```{r credentials, include=FALSE}
+youTubeKey1 <- ""
+clientId1 <- ""
+clientSecret1 <- ""
+
+youTubeKey2 <- ""
+clientId2 <- ""
+clientSecret2 <- ""
+```
+
+```{r authenticate, include=FALSE}
+# Delete .httr-oauth to reset
+# Knit can't launch browser
+
+library(tuber)
+
+#yt_oauth(
+#  app_id = clientId1,
+#  app_secret = clientSecret1
+#)
+```
+
+```{r search}
+library(readr)
+library(tuber)
+
+#directory <- "data/"
+#
+#terms <- c(
+#  "R Programming", 
+#  "Beginner R Programming",
+#  "Intermediate R Programming",
+#  "Advanced R Programming"
+#)
+#
+#numTerms <- length(terms)
+#
+## Grab general info from search endpoint for each term
+#for (x in 1:numTerms) {
+#  term <- terms[x]
+#  file <- paste(term, ".csv", sep = "")
+#  
+#  filePath <- paste(directory, file, sep = "")
+#
+#  videos <- yt_search(term)
+#  videos <- videos[, c(1,2,3,4,5,6,15)]
+#  # [1] "video_id"                  "publishedAt"               "channelId"                
+#  # [4] "title"                     "description"               "thumbnails.default.url"   
+#  # [7] "thumbnails.default.width"  "thumbnails.default.height" "thumbnails.medium.url"    
+#  #[10] "thumbnails.medium.width"   "thumbnails.medium.height"  "thumbnails.high.url"      
+#  #[13] "thumbnails.high.width"     "thumbnails.high.height"    "channelTitle"             
+#  #[16] "liveBroadcastContent"      "publishTime"
+#
+#  videos <- videos %>%
+#    add_column(viewCount = NA,
+#               likeCount = NA,
+#               dislikeCount = NA,
+#               favoriteCount = NA,
+#               commentCount = NA,
+#               tags = NA)
+#
+#  videos
+#  write_csv(videos, filePath)
+#}
+```
+
+```{r details}
+library(readr)
+library(tuber)
+library(dplyr)
+library(lubridate)
+
+#directory <- "data/"
+#
+#files <- c(
+#  "R Programming.csv", 
+#  "Beginner R Programming.csv",
+#  "Intermediate R Programming.csv",
+#  "Advanced R Programming.csv"
+#)
+#
+#numFiles <- length(files)
+#
+## Get details for top 100 results per search (sorted by relevancy)
+#for (x in 1:numFiles) {
+#  file <- files[x]
+#  filePath <- paste(directory, file, sep = "")
+#  
+#  videos <- read_csv(filePath)
+#  
+#  videos <- videos %>%
+#    add_column(viewCount = NA,
+#               likeCount = NA,
+#               dislikeCount = NA,
+#               favoriteCount = NA,
+#               commentCount = NA,
+#               tags = NA)
+#  
+#  numVideos <- nrow(videos)
+#  maxRelevant <- 100
+#  
+#  for (y in 1:maxRelevant) {
+#    videoId <- videos[[y,1]]
+#    channelId <- videos[[y,3]]
+#  
+#    
+#    
+#    stats <- get_stats(videoId)
+#    videos[y, 8] <- if ("viewCount" %in% names(stats) && !is.null(stats[["viewCount"]])) as.double(stats$viewCount) else 0
+#    videos[y, 9] <- if ("likeCount" %in% names(stats) && !is.null(stats[["likeCount"]])) as.double(stats$likeCount) else 0
+#    videos[y, 10] <- if ("dislikeCount" %in% names(stats) && !is.null(stats[["dislikeCount"]])) as.double(stats$dislikeCount) else 0
+#    videos[y, 11] <- if ("favoriteCount" %in% names(stats) && !is.null(stats[["favoriteCount"]])) as.double(stats$favoriteCount) else 0
+#    videos[y, 12] <- if ("commentCount" %in% names(stats) && !is.null(stats[["commentCount"]])) as.double(stats$commentCount) else 0
+#    
+#    
+#    
+#    details <- get_video_details(videoId)
+#    items <- details$items[[1]]
+#    snippet <- items$snippet
+#    
+#    tags <- if ("tags" %in% names(snippet) && !is.null(snippet[["tags"]])) snippet$tags else c()
+#    numTags <- length(tags)
+#    tagConcat <- ""
+#      
+#    for (z in 1:numTags) {
+#      tagConcat <- paste(tagConcat, tags[[z]], sep = if (z == 1) "" else ",")
+#    }
+#    
+#    videos[y, 2] <- round_date(videos[y, 2], "day")
+#    videos[y, 5] <- if ("description" %in% names(snippet) && !is.null(snippet[["description"]])) snippet$description else ""
+#    videos[y, 13] <- tagConcat
+#    
+#    
+#    
+#    #captions <- get_captions(videoId)
+#    
+#    
+#    
+#    #comments <- get_comment_threads(c(video_id = videoId))
+#  }
+#}
+#
+#videos
+#write_csv(videos, filePath)
+```
+
+```{r clean}
+library(readr)
+library(dplyr)
+library(lubridate)
+library(stringr)
+
+directory <- "data/"
+
+files <- c(
+  "R Programming.csv", 
+  "Beginner R Programming.csv",
+  "Intermediate R Programming.csv",
+  "Advanced R Programming.csv"
+)
+
+rFilePath <- paste(directory, rFile, sep = "")
+beginnerFilePath <- paste(directory, beginnerFile, sep = "")
+intermediateFilePath <- paste(directory, intermediateFile, sep = "")
+advancedFilePath <- paste(directory, advancedFile, sep = "")
+
+rVideos <- read_csv(rFilePath)
+beginnerVideos <- read_csv(beginnerFilePath)
+intermediateVideos <- read_csv(intermediateFilePath)
+advancedVideos <- read_csv(advancedFilePath)
+
+
+
+maxRelevant <- 100
+
+# Dedupe records from generic search and other targeted searches for goo measure
+beginnerVideosUnique <- beginnerVideos[1:maxRelevant,] %>%
+  setdiff(rVideos) %>%
+  setdiff(intermediateVideos) %>%
+  setdiff(advancedVideos)
+
+intermediateVideosUnique <- intermediateVideos[1:maxRelevant,] %>%
+  setdiff(rVideos) %>%
+  setdiff(beginnerVideos) %>%
+  setdiff(advancedVideos)
+
+advancedVideosUnique <- advancedVideos[1:maxRelevant,] %>%
+  setdiff(rVideos) %>%
+  setdiff(beginnerVideos) %>%
+  setdiff(intermediateVideos)
+
+
+
+beginnerVideosUnique <- beginnerVideosUnique %>%
+  add_column(level = "beginner",
+             rVersion = NA,
+             relevant = NA)
+
+intermediateVideosUnique <- intermediateVideosUnique %>%
+  add_column(level = "intermediate",
+             rVersion = NA,
+             relevant = NA)
+
+advancedVideosUnique <- advancedVideosUnique %>%
+  add_column(level = "advanced",
+             rVersion = NA,
+             relevant = NA)
+
+
+
+# Check relevancy in deduped according to the appearance of "R" in title, description, or tag
+beginnerVideosUnique <- beginnerVideosUnique %>%
+  mutate(publishedAt = round_date(beginnerVideosUnique$publishedAt, "day"),
+         relevant = str_detect(beginnerVideosUnique$title, regex("\\bR\\b", ignore_case = TRUE))
+                    | str_detect(beginnerVideosUnique$tags, regex("\\bR\\b", ignore_case = TRUE))
+                    | str_detect(beginnerVideosUnique$description, regex("\\bR\\b", ignore_case = TRUE)))
+
+intermediateVideosUnique <- intermediateVideosUnique %>%
+  mutate(publishedAt = round_date(intermediateVideosUnique$publishedAt, "day"),
+         relevant = str_detect(intermediateVideosUnique$title, regex("\\bR\\b", ignore_case = TRUE))
+                    | str_detect(intermediateVideosUnique$tags, regex("\\bR\\b", ignore_case = TRUE))
+                    | str_detect(intermediateVideosUnique$description, regex("\\bR\\b", ignore_case = TRUE)))
+
+advancedVideosUnique <- advancedVideosUnique %>%
+  mutate(publishedAt = round_date(advancedVideosUnique$publishedAt, "day"),
+         relevant = str_detect(advancedVideosUnique$title, regex("\\bR\\b", ignore_case = TRUE))
+                    | str_detect(advancedVideosUnique$tags, regex("\\bR\\b", ignore_case = TRUE))
+                    | str_detect(advancedVideosUnique$description, regex("\\bR\\b", ignore_case = TRUE)))
+
+
+
+rVersionFile <- "R Versions.csv"
+rVersionsPath <- paste(directory, rVersionFile, sep = "")
+rVersions <- read_delim(rVersionsPath, trim_ws = TRUE)
+
+rVersions <- rVersions %>%
+  add_column(dateReleased = NA)
+  
+dateSplits <- str_split(rVersions$date, ",")
+
+numDateSplits <- length(dateSplits)
+
+for (x in 1:numDateSplits) {
+  rVersions[x,3] <- as.POSIXct(paste(
+    dateSplits[[x]][2],
+    match(dateSplits[[x]][1], month.name),
+    "01",
+    sep = "-"
+  ), format = "%Y-%m-%d")
+}
+
+write_csv(rVersions, paste(directory, rVersionFile, sep = ""))
+
+
+# Check R version available at time of video release
+numVersions <- nrow(rVersions)
+
+numBeginnerVideos <- nrow(beginnerVideosUnique)
+
+for (x in 1:numBeginnerVideos) {
+  loops <- 1
+  
+  while (loops <= numVersions) {
+    if (beginnerVideosUnique[x, 2] < rVersions[loops, 3]) {
+      loops <- loops + 1
+    }
+    
+    else {
+      beginnerVideosUnique[x, 15] <- rVersions[loops, 1]
+      break
+    }
+  }
+}
+
+numIntermediateVideos <- nrow(intermediateVideosUnique)
+
+for (x in 1:numIntermediateVideos) {
+  loops <- 1
+  
+  while (loops <= numVersions) {
+    if (intermediateVideosUnique[x, 2] < rVersions[loops, 3]) {
+      loops <- loops + 1
+    }
+    
+    else {
+      intermediateVideosUnique[x, 15] <- rVersions[loops, 1]
+      break
+    }
+  }
+}
+
+numAdvancedVideos <- nrow(advancedVideosUnique)
+
+for (x in 1:numAdvancedVideos) {
+  loops <- 1
+  
+  while (loops <= numVersions) {
+    if (advancedVideosUnique[x, 2] < rVersions[loops, 3]) {
+      loops <- loops + 1
+    }
+    
+    else {
+      advancedVideosUnique[x, 15] <- rVersions[loops, 1]
+      break
+    }
+  }
+}
+
+
+
+uniqueAll <- union(union(beginnerVideosUnique, intermediateVideosUnique), advancedVideosUnique)
+
+write_csv(beginnerVideosUnique, paste(directory, "Beginner R Programming Unique.csv", sep = ""))
+write_csv(intermediateVideosUnique, paste(directory, "Intermediate R Programming Unique.csv", sep = ""))
+write_csv(advancedVideosUnique, paste(directory, "Advanced R Programming Unique.csv", sep = ""))
+write_csv(uniqueAll, paste(directory, "R Programming Unique.csv", sep = ""))
+```
+
+```{r analyze}
+library(readr)
+library(ggplot2)
+library(runner)
+library(stringr)
+library("stopwords")
+library("wordcloud")
+library(ggrepel)
+library(psych)
+
+directory <- "data/"
+
+rUniqueFilePath <- paste(directory, "R Programming Unique.csv", sep = "")
+rVideosUnique <- read_delim(rUniqueFilePath, trim_ws = TRUE)
+
+rVideosUniqueRelevant <- rVideosUnique %>% 
+  filter(relevant == TRUE)
+
+# "Misinformation"
+# 66/92 = 71%
+beginnerVideosUniqueRelevant <- rVideosUnique %>%
+       filter(level == "beginner")
+
+# 71/95 = 75%
+intermediateVideosUniqueRelevant <- rVideosUnique %>% 
+  filter(level == "intermediate")
+
+# 90/91 = 99%
+advancedVideosUniqueRelevant <- rVideosUnique %>% 
+  filter(level == "advanced")
+
+
+
+# When did the market saturate?
+ggplot(beginnerVideosUniqueRelevant, aes(publishedAt, viewCount)) +
+  ggtitle("Beginner Relevancy by Date") +
+  geom_point(aes(colour = factor(relevant)))
+
+ggplot(intermediateVideosUniqueRelevant, aes(publishedAt, viewCount)) +
+  ggtitle("Intermediate Relevancy by Date") +
+  geom_point(aes(colour = factor(relevant)))
+
+ggplot(advancedVideosUniqueRelevant, aes(publishedAt, viewCount)) +
+  ggtitle("Advanced Relevancy by Date") +
+  geom_point(aes(colour = factor(relevant)))
+
+
+
+# Assuming most of a video's traffic occurs within the first couple of months, then viewership has increased at a steady rate
+# Amount of older videos can also speak to scarcity of newer videos as sorted by relevancy, one might expect new videos to be more relevant
+ggplot(rVideosUniqueRelevant %>%
+         arrange(publishedAt), aes(publishedAt, sum_run(
+           x = viewCount, 
+           idx = publishedAt
+          ))
+  ) +
+  ggtitle("Cumulative Views by Date") +
+  geom_smooth(method = lm) + 
+  geom_point()
+
+ggplot(rVideosUniqueRelevant, aes(publishedAt, viewCount)) +
+  ggtitle("Views by Date") +
+  geom_point(aes(colour = factor(level)))
+
+ggplot(rVideosUniqueRelevant %>%
+         filter(viewCount < 1000), aes(publishedAt, viewCount)) +
+  ggtitle("Views by Date") +
+  geom_point(aes(colour = factor(level)))
+
+ggplot(rVideosUniqueRelevant, aes(rVersion, viewCount)) +
+  geom_point(aes(colour = factor(level))) +
+  ggtitle("Views by R version") +
+  theme(axis.text.x = element_text(angle = 45))
+
+
+
+rVideosUniqueRelevant$viewCount %>%
+  describe
+
+rVideosUniqueRelevant %>%
+  summary
+
+beginnerVideosUniqueRelevant$viewCount %>%
+  describe
+
+beginnerVideosUniqueRelevant %>%
+  summary
+
+intermediateVideosUniqueRelevant$viewCount %>%
+  describe
+
+intermediateVideosUniqueRelevant %>%
+  summary
+
+advancedVideosUniqueRelevant$viewCount %>%
+  describe
+
+advancedVideosUniqueRelevant %>%
+  summary
+
+
+  
+ggplot(rVideosUniqueRelevant, aes(level, viewCount)) +
+  ggtitle("Views by Difficulty") +
+  geom_boxplot()
+
+ggplot(rVideosUniqueRelevant, aes(level, likeCount)) +
+  ggtitle("Likes by Difficulty") +
+  geom_boxplot()
+
+ggplot(rVideosUniqueRelevant, aes(level, dislikeCount)) +
+  ggtitle("Dislikes by Difficulty") +
+  geom_boxplot()
+
+ggplot(rVideosUniqueRelevant, aes(level, commentCount)) +
+  ggtitle("Comments by Difficulty") +
+  geom_boxplot()
+
+
+
+rVideosUniqueRelevantChannels <- rVideosUniqueRelevant %>%
+  group_by(channelTitle) %>%
+  summarise(n = n(), viewCount = sum(viewCount))
+          
+ggplot(rVideosUniqueRelevantChannels, aes(n, viewCount)) +
+  geom_point() +
+  ggtitle("All Channel Videos Count by Views") +
+  geom_label_repel(aes(label = channelTitle),
+                   box.padding   = 0.35, 
+                   point.padding = 0.5,
+                   segment.color = 'grey50')
+
+beginnerVideosUniqueRelevantChannels <- beginnerVideosUniqueRelevant %>%
+  group_by(channelTitle) %>%
+  summarise(n = n(), viewCount = sum(viewCount))
+
+ggplot(beginnerVideosUniqueRelevantChannels, aes(n, viewCount)) +
+    geom_point() +
+  ggtitle("Beginner Channel Video Count by Views") +
+    geom_label_repel(aes(label = channelTitle),
+                     box.padding   = 0.35, 
+                     point.padding = 0.5,
+                     segment.color = 'grey50')
+
+intermediateVideosUniqueRelevantChannels <- intermediateVideosUniqueRelevant %>%
+  group_by(channelTitle) %>%
+  summarise(n = n(), viewCount = sum(viewCount))
+
+ggplot(intermediateVideosUniqueRelevantChannels, aes(n, viewCount)) +
+  geom_point() +
+  ggtitle("Intermediate Channel Video Count by Views") +
+  geom_label_repel(aes(label = channelTitle),
+                   box.padding   = 0.35, 
+                   point.padding = 0.5,
+                   segment.color = 'grey50')
+
+advancedVideosUniqueRelevantChannels <- advancedVideosUniqueRelevant %>%
+  group_by(channelTitle) %>%
+  summarise(n = n(), viewCount = sum(viewCount))
+                   
+ggplot(advancedVideosUniqueRelevantChannels, aes(n, viewCount)) +
+  geom_point() +
+  ggtitle("Advanced Channel Video Count by Views") +
+  geom_label_repel(aes(label = channelTitle),
+                   box.padding   = 0.35, 
+                   point.padding = 0.5,
+                   segment.color = 'grey50')
+
+
+
+maxWords = 100
+filterRegex <- ".*[0-9][0-9]+$|^[0-9]*$|.*\\..*"
+
+titleWords <- rVideosUniqueRelevant[,4] %>% 
+  unnest_tokens(output = word, input = title) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = titleWords$word, freq = titleWords$n, max.words = maxWords)
+
+titleWords <- beginnerVideosUniqueRelevant[,4] %>% 
+  unnest_tokens(output = word, input = title) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = titleWords$word, freq = titleWords$n, max.words = maxWords)
+
+titleWords <- intermediateVideosUniqueRelevant[,4] %>% 
+  unnest_tokens(output = word, input = title) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = titleWords$word, freq = titleWords$n, max.words = maxWords)
+
+titleWords <- advancedVideosUniqueRelevant[,4] %>% 
+  unnest_tokens(output = word, input = title) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = titleWords$word, freq = titleWords$n, max.words = maxWords)
+
+
+
+descriptionWords <- rVideosUniqueRelevant[,5] %>% 
+  unnest_tokens(output = word, input = description) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = descriptionWords$word, freq = descriptionWords$n, max.words = maxWords)
+
+descriptionWords <- beginnerVideosUniqueRelevant[,5] %>% 
+  unnest_tokens(output = word, input = description) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = descriptionWords$word, freq = descriptionWords$n, max.words = maxWords)
+
+descriptionWords <- intermediateVideosUniqueRelevant[,5] %>% 
+  unnest_tokens(output = word, input = description) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = descriptionWords$word, freq = descriptionWords$n, max.words = maxWords)
+
+descriptionWords <- advancedVideosUniqueRelevant[,5] %>% 
+  unnest_tokens(output = word, input = description) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = descriptionWords$word, freq = descriptionWords$n, max.words = maxWords)
+
+
+
+rVideosUniqueRelevant$tags <- gsub(",", " ", rVideosUniqueRelevant$tags)
+
+tagsWords <- rVideosUniqueRelevant[,13] %>% 
+  unnest_tokens(output = word, input = tags) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = tagsWords$word, freq = tagsWords$n, max.words = maxWords)
+
+beginnerVideosUniqueRelevant$tags <- gsub(",", " ", beginnerVideosUniqueRelevant$tags)
+
+tagsWords <- beginnerVideosUniqueRelevant[,13] %>% 
+  unnest_tokens(output = word, input = tags) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = tagsWords$word, freq = tagsWords$n, max.words = maxWords)
+
+intermediateVideosUniqueRelevant$tags <- gsub(",", " ", intermediateVideosUniqueRelevant$tags)
+
+tagsWords <- intermediateVideosUniqueRelevant[,13] %>% 
+  unnest_tokens(output = word, input = tags) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = tagsWords$word, freq = tagsWords$n, max.words = maxWords)
+
+advancedVideosUniqueRelevant$tags <- gsub(",", " ", advancedVideosUniqueRelevant$tags)
+
+tagsWords <- advancedVideosUniqueRelevant[,13] %>% 
+  unnest_tokens(output = word, input = tags) %>%
+  anti_join(get_stopwords()) %>% 
+  filter(!str_detect(word, regex(filterRegex))) %>%
+  count(word)
+
+wordcloud(words = tagsWords$word, freq = tagsWords$n, max.words = maxWords)
+```

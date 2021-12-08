@@ -1,0 +1,821 @@
+video_id,publishedAt,channelId,title,description,thumbnails.default.url,channelTitle,viewCount,likeCount,dislikeCount,favoriteCount,commentCount,tags,level,rVersion,relevant
+aHiwr3-xJLM,2020-09-17T00:00:00Z,UCKacOPkhUImP-pFWRo8wx6A,R advanced functions that will make your life easier,"Download the source code in:
+https://github.com/mariocastro73/ML2020-2021/blob/master/scripts/advanced-useful-functions.R",https://i.ytimg.com/vi/aHiwr3-xJLM/default.jpg,Mario Castro,4630,97,6,0,15,"machine learning,r-studio,r language",advanced,4.0.2,TRUE
+H3ao7LzcvW8,2020-12-23T00:00:00Z,UCTZXht1RTL2Duc3eU8MYGzQ,Advanced functional programming R tricks to feel like a hacker,"In this video I show you how to use the full power of R data frames using functional programming. The goal is to avoid writing loops which are quite clunky and can easily lead to mistakes.
+
+Follow me on twitter: https://twitter.com/brodriguesco​​​​
+Read my blog: https://www.brodrigues.co/​
+Find these videos useful? You can buy me a coffee to express your gratitude: https://www.buymeacoffee.com/brodriguesco
+Learn R by reading my free ebook: https://b-rodrigues.github.io/modern_R/",https://i.ytimg.com/vi/H3ao7LzcvW8/default.jpg,Bruno Rodrigues,2192,66,1,0,10,"rstats,data science,statistics",advanced,4.0.3,TRUE
+VVUn_R-ExlQ,2016-08-26T00:00:00Z,UCGwuewhdHD2q0BvuB2oWMRw,"UC Berkeley R bootcamp, Module 10: Advanced topics","Module 10 of the R bootcamp held August 2016 at UC Berkeley, sponsored by the Department of Statistics and D-Lab. Module presented by Chris Paciorek.
+
+Accompanying materials available at https://github.com/berkeley-scf/r-bootcamp-2016.",https://i.ytimg.com/vi/VVUn_R-ExlQ/default.jpg,berkeley-scf,6581,65,4,0,3,"R language,statistical computing",advanced,3.3.1,TRUE
+BKbG0LFNjic,2019-08-29T00:00:00Z,UCmG1AOBM5fskgWhCG3i8bhA,Advanced R with Hadley Wickham,"CRC Press author Hadley Wickham discusses his new book Advanced R, and how the second edition is even better than the first.
+
+Learn more with CRC Press: https://www.routledge.com/Advanced-R-Second-Edition/Wickham/p/book/9780815384571",https://i.ytimg.com/vi/BKbG0LFNjic/default.jpg,Taylor & Francis Books,2494,64,1,0,2,"Hadley Wickham,Advanced R,Bioinformatics,Bioscience,R Programming",advanced,3.6.1,TRUE
+WkF7nqEYF1E,2021-08-27T00:00:00Z,UC3xfbCMLCw1Hh4dWop3XtHg,R Markdown Advanced Tips to Become a Better Data Scientist &amp; RStudio Connect | With Tom Mock,"R Markdown is an incredible tool for being a more effective data scientist. It lets you share insights in ways that delight end users. 
+
+In this presentation, Tom Mock will teach you some advanced tips that will let you get the most out of R Markdown. Additionally, RStudio Connect will be highlighted, specifically how it works wonderfully with tools like R Markdown.
+
+Please provide feedback: https://docs.google.com/forms/d/e/1FAIpQLSdOwz3yJluPR2fEqE0hBt92NtKZzzNACR8KJhHUt9rhFj3HqA/viewform?usp=sf_link
+
+More resources if you're interested: https://docs.google.com/document/d/1VKGs1G9GcQcv4pCYFbK68_LDh72ODiZsIxXLN0z-zD4/edit",https://i.ytimg.com/vi/WkF7nqEYF1E/default.jpg,RStudio,17723,795,2,0,0,"rstudio,data science,machine learning,python,stats,tidyverse,data visualization,data viz,ggplot,technology,coding,connect,server pro,shiny,rmarkdown,package manager,CRAN,interoperability,serious data science,dplyr,forcats,ggplot2,tibble,readr,stringr,tidyr,purrr,github,data wrangling,tidy data,odbc,rayshader,plumber,blogdown,gt,lazy evaluation,tidymodels,statistics,debugging,programming education,rstats,open source,OSS,reticulate",advanced,4.1.1,TRUE
+JLvigQQZ5VE,2018-02-05T00:00:00Z,UCifB-UuE1p7fIhpc9YPON_A,Advanced programming in R : Functions,NA,https://i.ytimg.com/vi/JLvigQQZ5VE/default.jpg,Data Science for Engineers IITM,14586,65,10,0,8,",",advanced,3.4.3,TRUE
+bzUmK0Y07ck,2019-06-29T00:00:00Z,UCPyA0XmU6aS4JCwVoIBTmIQ,&quot;The Joy of Functional Programming (for Data Science)&quot; with Hadley Wickham,"Title: The Joy of Functional Programming for Data Science
+Speaker: Hadley Wickham
+Date: 6/20/2019
+
+Abstract
+
+Functional programming (FP) provides a rich set of tools for reducing duplication in your code. The goal of FP is to make it easy to express repeated actions using high-level verbs. I think that learning a little about FP is really important for data scientists, because it's a really good fit for many problems that you'll encounter in practice.
+
+In this talk, I'll introduce you to the basics of functional programming in R, using the purrr package. I'll begin by briefly dissecting the for loop that you're already familiar with, then continue to show why functional programming provides elegant alternatives. I'll next dive into two examples showing where FP is particularly useful in data science: when ingesting unruly datasets spread across multiple files, and producing multiple reports for different stakeholders.
+
+You'll get the most out of this talk if you're familiar with R, or you've done data science in other languages like Python.
+
+SPEAKER
+Hadley Wickham, Chief Scientist, RStudio
+Hadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (the tidyverse: including ggplot2, dplyr, tidyr, purrr, and readr) and principled software development (roxygen2, testthat, devtools). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, http://hadley.nz.
+
+MODERATOR
+Andrew Conklin, Director of Engineering, Origent Data Sciences; ACM Practitioners Board
+Andrew Conklin leads the engineering, product development, and compliance for Origent's emerging realtime analytics services in patient disease progression modeling for clinical trials. Andrew gives talks on Fast and Iterative R model deployment workflows with ""Serverless"" Functions, at places such as Dataiku EGG Conference 2018. He also serves on ACM's Practitioners Board and is Chair of the ACM Distinguished Speakers Program committee. He enjoys activating local tech communities, courageous ideas, and thrives on ingenuity.",https://i.ytimg.com/vi/bzUmK0Y07ck/default.jpg,Association for Computing Machinery (ACM),20456,331,3,0,13,"ACM,TechTalk,Hadley Wickham,Functional Programming,Data Science,Andrew Conklin,programming in R,datasets,Python,RStudio,Origent Data Sciences",advanced,3.6.0,TRUE
+UwzGhMndWzs,2020-05-09T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club - Chapter 6: Functions (2020-05-07) (advr01),"Asmae Toumi presenting Chapter 6 (Functions) of Hadley Wickham's ""Advanced R"" (2nd Edition) to the R4DS Book Club on May 7, 2020.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/UwzGhMndWzs/default.jpg,R4DS Online Learning Community,519,8,0,0,0,rstats,advanced,4.0.0,TRUE
+iROHLA_TXQM,2020-12-18T00:00:00Z,UCsvqVGtbbyHaMoevxPAq9Fg,R For Data Science Full Course | Data Science With R Full Course |Data Science Tutorial |Simplilearn,"In this video on R for Data Science Full Course, we’ll start by learning data science from an animated video. You will then learn the essential concepts in data science and understand the important packages in R for data science. You will look at some of the widely used data science algorithms such as Linear regression, logistic regression, decision trees, random forest, including time-series analysis. Finally, you will get an idea about the Salary structure, Skills, Jobs, and resume of a data scientist.
+
+Dataset Link - https://drive.google.com/drive/folders/1Wn2TRSbM2CHzxEk-qclzGJcyZT4LHeRV
+
+🔥Free DataScience Course: https://www.simplilearn.com/learn-data-science-with-r-basics-skillup?utm_campaign=RForDSFullCourse&utm_medium=Description&utm_source=youtube
+
+00:00:00 Data science in 5 min
+00:05:23 Data science concept
+00:17:40 Data science package in R
+01:18:51 Linear Regression in R
+01:47:07 Use Case :Linear Regression
+02:04:31 Logistic Regression in R
+02:22:37 Decision tree in R
+03:22:03 Random forest in R
+04:02:10 What is clustering
+04:43:54 Time series analysis
+05:54:16 Salary, Skills, and resume
+
+Start learning today's most in-demand skills for FREE. Visit us at https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=DataScience&utm_medium=Card&utm_source=youtube  
+Choose over 300 in-demand skills and get access to 1000+ hours of video content for FREE in various technologies like Data Science, Cybersecurity, Project Management & Leadership, Digital Marketing, and much more. 
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+⏩ Check out the Data Science training videos: https://bit.ly/3fKucdD
+
+#RForDataScience #DataScienceWithR #DataScienceWithRFullCourse #DataScienceWithRTutorial #DataScienceFullCourse #DataScienceTutorial #DataScience #Simplilearn
+
+This Data Science with Python course will establish your mastery of data science and analytics techniques using Python. With this Python for Data Science Course, you’ll learn the essential concepts of Python programming and become an expert in data analytics, machine learning, data visualization, web scraping and natural language processing. Python is a required skill for many data science positions, so jumpstart your career with this interactive, hands-on course.
+
+Why learn Data Science? 
+Data Scientists are being deployed in all kinds of industries, creating a huge demand for skilled professionals. Data scientist is the pinnacle rank in an analytics organization. Glassdoor has ranked data scientist first in the 25 Best Jobs for 2016, and good data scientists are scarce and in great demand. As a data you will be required to understand the business problem, design the analysis, collect and format the required data, apply algorithms or techniques using the correct tools, and finally make recommendations backed by data.
+
+You can gain in-depth knowledge of Data Science by taking our Data Science with python certification training course. With Simplilearn’s Data Science certification training course, you will prepare for a career as a Data Scientist as you master all the concepts and techniques. Those who complete the course will be able to: 
+
+1. Gain an in-depth understanding of data science processes, data wrangling, data exploration, data visualization, hypothesis building, and testing. You will also learn the basics of statistics.
+Install the required Python environment and other auxiliary tools and libraries
+2. Understand the essential concepts of Python programming such as data types, tuples, lists, dicts, basic operators and functions
+3. Perform high-level mathematical computing using the NumPy package and its large library of mathematical functions
+Perform scientific and technical computing using the SciPy package and its sub-packages such as Integrate, Optimize, Statistics, IO and Weave
+4. Perform data analysis and manipulation using data structures and tools provided in the Pandas package
+5. Gain expertise in machine learning using the Scikit-Learn package
+
+The Data Science with python is recommended for: 
+1. Analytics professionals who want to work with Python
+2. Software professionals looking to get into the field of analytics
+3. IT professionals interested in pursuing a career in analytics
+4. Graduates looking to build a career in analytics and data science
+5. Experienced professionals who would like to harness data science in their fields
+
+Learn more at: https://bit.ly/3b45YIH
+
+For more information about Simplilearn’s courses, visit: 
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn
+- Website: https://www.simplilearn.com 
+
+Get the Android app: http://bit.ly/1WlVo4u 
+Get the iOS app: http://apple.co/1HIO5J0",https://i.ytimg.com/vi/iROHLA_TXQM/default.jpg,Simplilearn,32941,746,11,0,84,"r for data science full course,data science with r full course,data science tutorial,data science with r,data science with r tutorial,data science with r programming,data science with r for beginners,data science with r language,data science with r training,introduction to data science with r,r data science,machine learning,data science simplilearn,machine learning certificati,simplilearn",advanced,4.0.3,TRUE
+8KLxWewjyRs,2020-09-18T00:00:00Z,UCKacOPkhUImP-pFWRo8wx6A,Advanced R-studio: the wonderful SNIPPETS,"Here you have an example
+
+snippet with
+ with(${1:dataframe},
+  {
+   ${2:commands};
+  }
+ )",https://i.ytimg.com/vi/8KLxWewjyRs/default.jpg,Mario Castro,907,19,0,0,0,"machine lerning,r-studio",advanced,4.0.2,TRUE
+enI5Ynq6olI,2020-06-06T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 10: Function Factories (2020-06-04) (advr01),"Jon Harmon presenting Chapter 10 (Function Factories) from Hadley Wickham's book, ""Advanced R (2nd Edition)"" on June 4, 2020, to the R4DS Book Club.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/enI5Ynq6olI/default.jpg,R4DS Online Learning Community,550,13,0,0,2,rstats,advanced,4.0.2,TRUE
+NeHtEGab1Og,2021-06-10T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Object oriented programming intro (2021-06-08) (advr05),"Hannes Oberreiter presents an introduction to Object oriented programming from Advanced R by Hadley Wickham on 2021-06-08, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/NeHtEGab1Og/default.jpg,R4DS Online Learning Community,89,5,0,0,0,rstats,advanced,4.1.0,TRUE
+3oxg74HsiyU,2020-09-29T00:00:00Z,UCt_LV8zir4yvFFh8OaUJUuA,Advanced R Programming - Learn Data Analysis,"Link to this course on coursera( Special discount)
+https://click.linksynergy.com/deeplink?id=Gw/ETjJoU9M&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fadvanced-r
+This is the best Data Analysis course
+Advanced R Programming overview
+This course covers advanced topics in R programming that are necessary for developing powerful, robust, and reusable data science tools. Topics covered include functional programming in R, robust error handling, object oriented programming, profiling and benchmarking, debugging, and proper design of functions. Upon completing this course you will be able to identify and abstract common data analysis tasks and to encapsulate them in user-facing functions. Because every data science environment encounters unique data challenges, there is always a need to develop custom software specific to your organization’s mission. You will also be able to define new data types in R and to develop a universe of functionality specific to those data types to enable cleaner execution of data science tasks and stronger reusability within a team.
+You can download this course and watch offline for free after enroll",https://i.ytimg.com/vi/3oxg74HsiyU/default.jpg,Vo Thuy Hien,11,0,0,0,0,"Advanced R Programming,Data Analysis",advanced,4.0.2,TRUE
+6JX4UNxEOLU,2018-09-26T00:00:00Z,UC3xfbCMLCw1Hh4dWop3XtHg,Advanced R Markdown 2-day Workshop - rstudio::conf(2019L),"What is the 2-day Advanced R Markdown Workshop? That's a great question, I'm glad you asked. 
+
+This is a two-day hands-on workshop based on the book ""R Markdown: The Definitive Guide"". 
+
+This workshop is designed for those who want to take their R Markdown skills to the next level. We'll talk about many low-level details in the rmarkdown package and the whole R Markdown ecosystem. The two goals of this workshop are: 1) learn how to fully customize R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint); and 2) learn more about existing R Markdown extensions in the ecosystem, such as flexdashboard, bookdown, blogdown, pkgdown, xaringan, rticles, and learnr. We will also talk about how to use or develop new language engines (languages that are not R), how to develop HTML widgets, and integrate Shiny with R Markdown.
+
+You should take this workshop if you have experience programming in R and want to learn how to take advantage of the amazing breadth and depth of R Markdown. You'll get the most from it if you enjoy learning how R Markdown works under the hood (which will involve reading some source code), and are seriously interested in hacking (playing) with HTML, JavaScript, CSS, LaTeX, and command-line tools. We will give minimal tutorials on these languages and tools in the workshop, but it may be easier for you to keep pace with the instructor if you already know them before.
+
+This workshop is led by Yihui Xie, Software Engineer and Data Scientist at RStudio. Yihui is the main author of the open-source knitr package for reproducible research and dynamic report generation. He has also created and co-authored several other R packages, including rmarkdown, bookdown, blogdown, xaringan, tinytex, DT, shiny, and leaflet. He has authored and co-authored four books: Dynamic Documents with R and knitr, bookdown: Authoring Books and Technical Documents with R Markdown, blogdown: Creating Websites with R Markdown, and R Markdown: The Definitive Guide.
+
+Speakers: Yihui Xie 
+and Alison Hill 
+with guest lecturers Jiena Gu and Hao Zhu",https://i.ytimg.com/vi/6JX4UNxEOLU/default.jpg,RStudio,4981,0,0,0,3,",",advanced,3.5.1,TRUE
+cavtFdvII4A,2017-09-15T00:00:00Z,UCHBWJGoZMkhJyElgvuN1U1w,R PROGRAMMING dplyr ADVANCED,"In this tutorial, you will learn how to use advanced methods in dplyr package, such as summarise_if, summarise_at, mutate_at
+
+dplyr package is an exciting way to manipulate the data. It is an R package that provides you with a fast and intuitive way to transform data sets with R. dplyr is the successor of plyr and is mainly authored by Hadley Wickham and Romain Francois. It is designed to be intuitive and easy to learn, thereby making ""doing things"" in R more user-friendly.
+
+To stay up to date with our latest videos make sure to subscribe to this YouTube channel!",https://i.ytimg.com/vi/cavtFdvII4A/default.jpg,Art of Visualization,9506,87,5,0,1,"dplyr,r programming,data science,r tutorial,data analysis,data science tutorial,learn r,data,r for data science,r for data analysis,data analysis tutorial,data manipulation,r programming language,dplyr package,dplyr functions,r dplyr package,r programming tutorial,data exploration,r language,mutate,summarize,learn dplyr,datascience,summarise",advanced,3.4.2,TRUE
+VaA4N0JMvVw,2019-04-14T00:00:00Z,UCCukTmBoUPs_kBv_0uMdrkA,Data Analytics for Beginners | Top 5 Must Know Tips for R Programming |,"If you're a Data Analytics beginner, then kickstart your R programming & data science/analytics career by learning these Top 5 must know tips for R Script!
+
+Useful Resources for Beginners:
+R for Everyone - https://amzn.to/2GmfcUB
+R Cookbook - https://amzn.to/2UWz5JY
+
+More Advanced:
+R for Data Science - https://amzn.to/2IfncZC
+The Art of R Programming - https://amzn.to/2Ih9iGD
+R Graphics Cookbook 1st Edition - https://amzn.to/2VHAqRX
+
+Install both R and R Studio:
+Download R - https://cran.r-project.org/
+Download R Studio - https://www.rstudio.com/products/RStudio/
+
+Additional Resources:
+R Studio Online Learning - https://www.rstudio.com/online-learning/#r-programming
+Free Introduction to R Course - https://www.datacamp.com/courses/free-introduction-to-r
+Interactive Tutorial within R Studio Console - https://swirlstats.com/
+
+Click this link to SUBSCRIBE & UNLEASH THE WIZARD WITHIN! - http://bit.ly/2Gn2Mfh
+
+----- MY ONLINE INSTRUCTIONAL COURSES -----
+
+--- SPOTFIRE ACADEMY ---
+
+Spotfire Academy Course for Data Science & Business Analytics Promo Video - https://youtu.be/PrvcZ0rvSes
+
+Learn how to use Spotfire to design user-friendly and visually impactful dashboards to transform data into meaningful and actionable insights! 
+
+Available on SkillShare (2 months Premium Free with Link) - https://skl.sh/2vQMeWU
+Available on Udemy (Get Course for $10 with code “THEWIZLO10”) - https://www.udemy.com/practical-guide-to-tibco-spotfire-for-business-analytics/?couponCode=THEWIZLO10
+
+----- ALTERYX ACADEMY -----
+
+Alteryx Academy Course for Data Science & Data Analytics Promo Video - https://youtu.be/xG6oKDvI84M
+
+If you want to learn more about Alteryx, the best data science & analytics platform, then check out my Udemy course on ""A Practical Guide to Alteryx for Data Science""; where I will show you how to master the 3 step process to Data Science and the fundamentals of Alteryx!
+
+Available on SkillShare (2 months Premium Free with Link) - https://skl.sh/2Lq2R6n
+Available on Udemy (Get Course for $10 with code “THEWIZLO10”) - https://www.udemy.com/practical-guide-to-alteryx-for-data-science/?couponCode=THEWIZLO10
+
+----- OTHER RECOMMENDED VIDEOS -----
+
+Best Screen Capture Software Everyone Needs - https://youtu.be/uTRi7j2qhV4
+How to Supercharge Your Data Analytics - https://youtu.be/rjjTwV-kGPw
+Best Robotic Lawn Mower for Home Automation - https://youtu.be/Dz3bIzEFjrw
+
+-----------------------------------------------------------
+
+Starting your own YouTube channel like myself? Check out the #1 channel management tool that I use for video optimization - https://www.tubebuddy.com/thewizlo
+
+For more information please visit - https://www.thewizlo.com
+
+DISCLAIMER: Description contains some affiliate links, it just means that if you click on one of the links, I'd receive a small commission if you purchase the product.  But don't worry, other than that there's nothing different to it and I'd really appreciate the support! :)",https://i.ytimg.com/vi/VaA4N0JMvVw/default.jpg,The Wiz Lo,13074,434,19,0,19,"data analytics,data science,programming language,r programming,python,data analysis,data analyst,business intelligence,data analytics tutorial,data analytics for beginners,computer programming,data science tutorial for beginners,data visualization,r programming tutorial,business analytics tools,free resources,business intelligence tutorial,top programming languages,r studio for beginners,r programming for beginners",advanced,3.6.0,TRUE
+h3RNPyhIjas,2020-09-03T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Metaprogramming Review: (2020-08-25) (advr01),"Jon Harmon presents a metaprogramming review from Advanced R by Hadley Wickham on August, 25, 2020, to the R4DS Book Club. Cohort 1.",https://i.ytimg.com/vi/h3RNPyhIjas/default.jpg,R4DS Online Learning Community,183,1,0,0,0,rstats,advanced,4.0.2,TRUE
+5klSpGC2puU,2020-12-11T00:00:00Z,UCCY9_Gxg6kM-xjk9vV0mzIQ,"Session 4B Advanced R: ggplot2, fitdistrplus, shiny","This session is about plotting using ggplot2, distribution fitting with fitdistrplus (and actuar) and creating web apps with shiny. All of the materials for the session including all of the code, slide deck and notes are available on GitHub https://github.com/hsma-master/hsma/tree/master/4B_Advanced_R",https://i.ytimg.com/vi/5klSpGC2puU/default.jpg,HSMA,1254,26,0,0,0,",",advanced,4.0.3,TRUE
+lg5rzOU6lsg,2020-11-11T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 6: Functions (2020-11-09) (advr04),"June Choe presents Chapter 6 (""Functions"") from Advanced R by Hadley Wickham on November 9, 2020, to the R4DS Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/lg5rzOU6lsg/default.jpg,R4DS Online Learning Community,124,2,0,0,0,rstats,advanced,4.0.3,TRUE
+OeMTvJTl7WI,2017-11-16T00:00:00Z,UCAg9ZUc9v3YedOuyAd-nDZQ,SQLBits 2018 Advanced R Programming precon,"SQLBits 2018
+Advanced R Programming training day
+21st – 24th February
+London Olympia
+sqlbits.com
+
+If you’re relatively comfortable with R but find yourself needing to level up your skills this day is for you. Whether you’re hitting in-memory constraints, needing the latest and greatest machine learning algorithm, having to code defensively, or simply needing to get more stuff done, you’ll get a lot out of this day of training. This hands-on day will equip you with more tools for performing data engineering and data science in R.
+
+We’ll be covering the following:
+– Fast and efficient data processing in R with data.table for improved native R performance
+– Working with active external connections in dplyr to push data manipulation to databases
+– Leveraging functional programming for working with lists, unstructured data objects, and improving error handling
+– Going beyond base R statistics with native-R solutions (caret and the tidyverse) and connected solutions (h2o and spark) for better interfaces, new techniques, and working at scale
+– Incorporating Python, JavaScript, and C++ into your R code to extend R or leverage already coded solutions easily
+
+Music Attribution:
+
+Danse Macabre Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/",https://i.ytimg.com/vi/OeMTvJTl7WI/default.jpg,Locke Data Ltd,145,0,0,0,0,sqlbits,advanced,3.4.3,TRUE
+eLMpCc0t1cg,2020-04-25T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club:  Chapter 4:  Subsetting (2020-04-23) (advr01),"Recording of Scott Nestler presenting Chapter 4 of Hadley Wickham's book, ""Advanced R (2nd Edition)"" on Apr 23, 2020, to the R4DS Book Club.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/eLMpCc0t1cg/default.jpg,R4DS Online Learning Community,510,8,0,0,2,rstats,advanced,4.0.0,TRUE
+nRtp7wSEtJA,2019-03-13T00:00:00Z,UCfJyQ3P2k_SuqfxVdqIEQNw,"R programming for beginners. Manipulate data using the tidyverse: select, filter and mutate.","Learn to manipulate data using the tidyverse package in R. This is part of the ""R programming for beginners"" series of videos. In this video, I use one of R's built-in datasets and demonstrate how to use the following DPLYR commands: select, filter, mutate, group_by, and summarise. Part of the analysis includes changing a variable and creating a new variable. R is used for data science and quantitative analysis including statistics. The demonstration is done using R Studio",https://i.ytimg.com/vi/nRtp7wSEtJA/default.jpg,R Programming 101,68433,1426,8,0,188,"r programming,R programming for beginners,data manipulation,data science,dplyr,tidyverse,select,filter,mutate,summarise,quantitative analysis,data wrangling,learn R",advanced,3.5.3,TRUE
+BvmiQlWOP5o,2021-03-17T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 1: Introduction (2021-03-16) (advr05),"Shamsuddeen kicks off the new Cohort 5 for Advanced R by Hadley Wickham on 2021-03-16, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/BvmiQlWOP5o/default.jpg,R4DS Online Learning Community,209,6,0,0,0,rstats,advanced,4.0.5,TRUE
+MEaddvwjOIY,2018-02-05T00:00:00Z,UCifB-UuE1p7fIhpc9YPON_A,Advanced Programming in R : Functions (Continued),NA,https://i.ytimg.com/vi/MEaddvwjOIY/default.jpg,Data Science for Engineers IITM,9637,52,0,0,0,",",advanced,3.4.3,TRUE
+XOurCfeJLGc,2021-06-06T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Ch 11: Function operators (2021-06-01) (advr05),"Jiwan Heo presents Chapter 11 (""Function operators"") from Advanced R by Hadley Wickham on 2021-06-01, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/XOurCfeJLGc/default.jpg,R4DS Online Learning Community,52,2,0,0,0,rstats,advanced,4.1.0,TRUE
+pQ-xDAPEQaw,2020-04-23T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 3: Vectors (2020-04-16) (advr01),"Recording of Tony El Habr presenting Chapter 3 of Hadley Wickham's book, ""Advanced R (2nd Edition)"" on Apr 16, 2020, to the R4DS Book Club.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/pQ-xDAPEQaw/default.jpg,R4DS Online Learning Community,1272,16,1,0,2,rstats,advanced,4.0.0,TRUE
+hPjaOdprgow,2020-06-27T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 14: R6 (2020-06-25) (advr01),"Tyler Grant Smith presenting Chapter 14 (R6) from Hadley Wickham's book, ""Advanced R (2nd Edition)"" on June 26, 2020, to the R4DS Book Club.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/hPjaOdprgow/default.jpg,R4DS Online Learning Community,152,6,0,0,2,rstats,advanced,4.0.2,TRUE
+mk7iu1-P8ZU,2020-05-16T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club - Chapter 7:  Environments (2020-05-14) (advr01),"Daryn Ramsden presenting Chapter 7 (Environments) of Hadley Wickham's ""Advanced R"" (2nd Edition) to the R4DS Book Club on May 14, 2020.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/mk7iu1-P8ZU/default.jpg,R4DS Online Learning Community,263,3,1,0,6,rstats,advanced,4.0.0,TRUE
+pCiNj2JRK50,2020-08-09T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 2: Names and values (2020-08-06) (advr02),"Josh Pohlkamp-Hartt presenting Chapter 2 (Names and values) from Advanced R by Hadley Wickham on August 6, 2020, to the R4DS Book Club (cohort 2).",https://i.ytimg.com/vi/pCiNj2JRK50/default.jpg,R4DS Online Learning Community,270,3,0,0,0,rstats,advanced,4.0.2,TRUE
+aniKrZrr4aU,2021-03-07T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 19: Quasiquotation (2021-02-22) (advr04),"Stephen Holsenbeck presents Chapter 19 (""Quasiquotation"") from Advanced R by Hadley Wickham on 2021-02-22, to the R4DSCommunity Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/aniKrZrr4aU/default.jpg,R4DS Online Learning Community,33,0,0,0,0,rstats,advanced,4.0.5,TRUE
+96eY6YS_3hU,2020-05-02T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 5: Control Flow (2020-04-30) (advr01),"Maya Gans presenting Chapter 5 (Control Flow) of Hadley Wickham's ""Advanced R (2nd Edition)"" to the R4DS Book Club on April 30, 2020.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/96eY6YS_3hU/default.jpg,R4DS Online Learning Community,279,6,0,0,0,rstats,advanced,4.0.0,TRUE
+7-2bRcPXkMY,2021-04-25T00:00:00Z,UCJ8jQFdgnfpMdwVRuVfOF2g,9. DS&amp;R. Overview of R Programming extension with advanced R objects,Overview of R Programming extension with advanced r objects,https://i.ytimg.com/vi/7-2bRcPXkMY/default.jpg,Dr. Ramachandra Rao Kurada,5,0,0,0,0,"Operating Systems,DBMS",advanced,4.0.5,TRUE
+9E4RlbW8vxU,2020-08-20T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapters 3: Vectors (2020-08-18) (advr03),"Orry Messer presenting Chapter 3 (Vectors) of Hadley Wickham's ""Advanced R"" (2nd Edition) to the R4DS Book Club on August 18, 2020.
+
+Join the conversation at r4ds.io/join!",https://i.ytimg.com/vi/9E4RlbW8vxU/default.jpg,R4DS Online Learning Community,81,3,0,0,0,rstats,advanced,4.0.2,TRUE
+IXE21pR8EJ0,2020-12-22T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 19: Quasiquotation (2020-12-10) (advr02),"Chris Yarrison presenting Chapter 19 (""Quasiquotation"") from Advanced R by Hadley Wickham on December 10, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/IXE21pR8EJ0/default.jpg,R4DS Online Learning Community,39,1,0,0,0,rstats,advanced,4.0.3,TRUE
+v_dkrIEdmKE,2021-08-04T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 21 (Translating R code) (2021-08-03) (advr05),"Layla Bouzoubaa presents Chapter 21 (""Translating R code"") from Advanced R by Hadley Wickham on 2021-08-03, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/v_dkrIEdmKE/default.jpg,R4DS Online Learning Community,34,1,0,0,0,rstats,advanced,4.1.1,TRUE
+RwDV802ckU8,2021-01-27T00:00:00Z,UCCktnahuRFYIBtNnKT5IYyg,R Tutorial For Beginners | R Programming Course | Learn R Language | R Training | Intellipaat,"🔵 Intellipaat Data Science with R course: https://intellipaat.com/data-scientist-course-training/
+In this R Tutorial For Beginners video, you will learn r programming language from scratch to advance concepts. This R training video also covers hands-on demo and interview questions. This is a must-watch video for everyone who wishes to learn the R language and make a career in the data science domain.
+The following topics are covered in this video:
+01:19 - What is R?
+02:28 - R and R-Studio
+04:34 - Variables in R
+05:23 - Implementing variales in R-studio
+07:10 - Data Types in R
+11:01 - Operators in R
+23:56 - Objects in R
+31:25 - Quiz
+54:45 - Decision Making Statements
+01:01:16 - Looping Statements
+01:08:41 - Hands-on Assignment
+02:16:08 - ANOVA
+02:20:48 - One-way Analysis of Variance
+02:33:33 - Quiz
+02:53:10 - Two-way Analysis of Variance
+03:01:41 - Data Mining using R
+03:05:01 - What is Data Mining?
+03:06:16 - Data Mining Processes
+03:09:42 - Methods of Data Mining
+03:15:25 - What is R?
+03:21:37 - Reading Data in R
+04:03:30 - Flow Control
+04:04:01 - Selector Statements
+04:13:06 - Looping Statements
+04:18:35 - User-Defined Functions
+04:22:37 - Data Structures in R
+04:22:49 - Vector
+04:25:12 - List
+04:27:04 - Matrix
+04:31:39 - Array
+04:34:44 - Quiz
+04:35:13 - Recommendation Engine - Case Study
+04:36:29 - Tasks to be Performed
+05:17:00 - R Programming Project
+05:58:43 - R Programming vs Python
+06:07:02 - R Programming Interview Questions and Answers
+
+#RProgrammingForBeginners #RProgrammingCourse  #LearnRLanguage #RTraining #RProgrammingTutorial #RProgrammingTraining #Intellipaat
+
+🔵 Read R Programming for beginners tutorial here: https://intellipaat.com/blog/tutorial/r-programming/
+
+🔵 To subscribe to the Intellipaat channel & get regular updates on videos: http://bit.ly/Intellipaat
+
+🔵 Interested to learn r programming still more? Please check similar r Programming blogs here: https://intellipaat.com/blog/why-learn-r-programming/
+
+🔵 Watch complete r programming tutorials here:- https://goo.gl/Szm1Li
+
+Are you looking for something more? Enroll in our r programming language course & become a certified R Programmer (https://intellipaat.com/r-programming-certification-training/). It is a 16 hrs instructor-led r programming training provided by Intellipaat which is completely aligned with industry standards and certification bodies.
+
+If you’ve enjoyed this R Programming for beginners, Like us and Subscribe to our channel for more similar informative r tutorials. 
+Got any questions about r programming for data science? Ask us in the comment section below.
+----------------------------
+Intellipaat Edge
+1. 24*7 Lifetime Access & Support 
+2. Flexible Class Schedule
+3. Job Assistance
+4. Mentors with +14 yrs 
+5. Industry Oriented Courseware
+6. Lifetime free Course Upgrade
+------------------------------
+🔵 Why should you watch this r programming tutorial?
+
+R programming has been the most promising language when it comes to data analytics and machine learning as it is equipped with a wide array of functionalities. We are offering the top r programming tutorial that can be watched by anybody to learn R language. Our R programming tutorial has been created with extensive inputs from the industry so that you can learn r programming easily.
+
+🔵 Who should watch this r tutorial for beginners?
+
+If you are software engineers and data analysts, Business intelligence professionals or working as a SAS developer wanting to learn open source technology or graduates aspiring for a career in data science. This Intellipaat r programming tutorial is your first step to learn Data Science. Since this r programming tutorial video can be taken by anybody, you can also watch this r tutorial for beginners to take your skills to the next level.
+
+🔵 Why should you opt for an R programming career?
+
+It is one of the booming technologies in the market and hence R professionals are highly required by the companies. You will grab the best jobs in top MNCs after finishing this Intellipaat r programming online training. The entire Intellipaat r programming course is in line with the industry needs. There is a huge demand for r programming certified professionals. The salaries for r programming professional are very good. Hence this Intellipaat R tutorial is your stepping stone to a successful career!
+------------------------------
+🔵  For more information:
+Call Our Course Advisors  IND: +91-7022374614   US: 1-800-216-8930 (Toll-Free)    sales@intellipaat.com
+
+Website: https://intellipaat.com/r-programming-certification-training/
+
+Facebook: https://www.facebook.com/intellipaatonline
+
+LinkedIn: https://www.linkedin.com/company/intellipaat-software-solutions/
+
+Twitter: https://twitter.com/Intellipaat
+
+Telegram: https://t.me/s/Learn_with_Intellipaat
+
+Instagram: https://www.instagram.com/intellipaat",https://i.ytimg.com/vi/RwDV802ckU8/default.jpg,Intellipaat,21061,596,18,0,32,"R Tutorial For Beginners,R Programming course,Learn R Language,R Training,R Course,R Programming Tutorial,R Programming For Beginners,Learn R Programming,R Programming Training,R Programming,R Tutorial Beginners,Data Science with R,Data Science with R Programming,R tutorial,R Programming Language,R Language Tutorial,R Language,R Studio,R Programming Basics,R Language For Beginners,learn r,R programming Intellipaat,intellipaat",advanced,4.0.3,TRUE
+-Dm5IEw0DUk,2020-11-01T00:00:00Z,UCxrpjLYi_Akmbc2QICDvKaQ,Introduction to Advanced Data Analysis in R programming language (Third Lesson/Class),"Prior knowledge of programming and statistics are not required. It's only an introduction to Advanced Data Analysis, and we will continue every Saturdays with more advanced tasks. The main goal is to develop the interest of mathematical programming among students from Africa. However, anyone who interested is welcome to join and learn. This class will be a good introduction to data analysis with advanced statistical software like R. 
+
+For general information about the class, please visit the link below:
+https://piazza.com/clements_school_on_data_analysis/fall2020/ss401/info
+
+For the personal profile of the instructor/tutor, click below:
+https://f36d003f-d71d-49cc-9fea-cbb325732ca8.filesusr.com/ugd/779116_8b81a5793af94ccdadec45b62b49cfcd.pdf
+
+Personal website: https://twumasiclement.wixsite.com/website
+
+Below summarizes the content of this YouTube video- third lesson:
+
+DISCLAIMER: This is a continuation of the previous YouTube videos, so watch them before this video. That will help us wrap up all we have done in our previous meetings so far before we start the Inferential Statistical Analyses (ie. statistical tests and models) from next week. The script (and a Jupyter HTML file) for this video has been uploaded on Piazza platform for you to practice at your own pace with it afterwards.
+
+The primary goal of this third meeting/youtube video is to solve some assignment tasks to wrap up what has been learnt so far. Below are the assignment tasks (from Saturday's class dated October 31, 2020):
+
+1. Assign the names to the levels of the categorical variables (Residence) where 1 means South; 2 means North; 3 means East; 4 means West.
+
+2. Create a new numerical variable called Total_points; which is obtained after adding both the Enrolment_Points and Mathematics points for each student & add this new variable (Total_points) to the original data.
+
+3. Convert their Mathematics points to a categorical variable called Mathematics_grade with categories: i) Low class if Mathematics point is less 40% ii) Medium class if Mathematics point is from 40% to 70%  and iii) High class if Mathematics point greater than 70%.
+
+4. Save the new data as a  CSV file directly into your working directory/DataAnalysis_results_R folder.
+
+5. Create your own function to compute descriptive/summary statistics (just update what I created already in the second meeting dated October 24, 2020). The summary statistics function should:  i) First determine the type of variable, ii). If it's numeric find & return mean, median, mode, variance, standard deviation, maximum value, minimum value, standard error, skewness, kurtosis and 95% quantile recorded to 2 decimal places as well as histogram plot of the numeric variable coloured by “green” colour. iii) Else if it is categorical, it should find & return percentages for all categories/levels (in 1 decimal place) and the name of the categories as a data frame as well as plot a pie chart with percentages for each category of the variable with different colours.
+
+6. For each variable, find the summary statistics with the data created above.
+
+7. Depict at least 8 figures/plots (it can be more than 8) using only ggplot2 package to describe the data the best you can as a Data scientist (example of the plots are line graphs, scatter plots, barplot, boxplot, histograms of numeric variables across different categories, barchart of categorical variables distinguishing between different categories variables, etc ). Figures should be nice and very informative too as a professional Data Scientist.
+
+8. Produce 5 different plots to also summarize the data the best you can without the use of the ggplot2 package.
+
+
+9. Find the correlation matrix plots between all the numerical variables (Enrolment_points, Mathematics points and Total points) using the ""PerformanceAnalytics"" R package.",https://i.ytimg.com/vi/-Dm5IEw0DUk/default.jpg,Clement Twumasi Educative Channel,306,15,0,0,4,"#R,#Statistics,#DataAnalysis,#Programming,#Mathematics",advanced,4.0.3,TRUE
+iRVn_EO0oR4,2015-11-25T00:00:00Z,UCF6U5Z2Ok9wmHcXsQK2OHgw,&quot;Advanced R Topics&quot; - Sepehr Akhavan - Data Science Talk - PART 1 - RSTAN,You can access the slides and codes online: https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop,https://i.ytimg.com/vi/iRVn_EO0oR4/default.jpg,UCIBrenICS,1398,10,0,0,0,"RSTAN,Rstan,Bayesian Analysis,Data Science,Data (Website Category),Statistics (Field Of Study),UCI,UC Irvine,Stats,Statistics,R (Programming Language)",advanced,3.2.2,TRUE
+mxs97jF6USs,2016-06-04T00:00:00Z,UCtec03dySLsQx3ze2HZBC6Q,webscrapping with R | How to do webscrapping with R | Advance R Programming,"For complete professional training visit at https://www.bisptrainings.com/Home
+Follow us on Facebook: https://www.facebook.com/bisptrainings/ 
+Follow us on Twitter: https://twitter.com/bisptrainings 
+Follow us on Linkedin:  https://www.linkedin.com/company/13367555/admin/
+Email: support@bisptrainings.com Call us: +91 7694095404 or +1 786-629-6893",https://i.ytimg.com/vi/mxs97jF6USs/default.jpg,Amit Sharma,319,3,0,0,0,",",advanced,3.3.1,TRUE
+ZM04jn95YP0,2020-07-21T00:00:00Z,UCb5aI-GwJm3ZxlwtCsLu78Q,Advanced &quot;tidyverse&quot; tips &amp; tricks in R,"Here are 18 ways to speed up data cleaning, tidying, and exploration with the tidyverse packages in R. They'll help you to work with data more efficiently, simplify your R code, and surprise your friends!!
+
+🎉 *Enjoyed this video?* Leave a comment below to share what you liked the most!
+
+🔔 *Subscribe for weekly R videos:* https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q?sub_confirmation=1
+
+0:00 Intro
+1:04 Create new columns in a count or group_by
+2:11 Sample and randomly shuffle data with slice_sample()
+3:05 Create a date column specifying year, month, and day
+3:25 Parse numbers with parse_number()
+4:07 Select columns with starts_with, ends_with, etc.
+4:56 case_when to create or change a column when conditions are met
+6:36 str_replace_all to find and replace multiple options at once
+7:15 Transmute to create or change columns and keep only those columns
+7:48 Use pipes everywhere including inside mutates
+9:11 Filter groups without making a new column
+10:04 Split a string into columns based on a regular expression
+11:10 semi_join to pick only rows from the first table which are matched in the second table
+12:20 anti_join to pick only rows from the first table which are NOT matched in the second table
+12:48 fct_reorder to sort bar charts
+14:06 coord_flip to display counts more beautifully
+14:32 fct_lump to lump some factor levels into ""Other""
+15:26 Generate all combinations using crossing
+16:00 Create functions that take column names with double curly braces
+18:00 The end
+
+Code:
+
+https://gist.github.com/larsentom/727da01476ad1fe5c066a53cc784417b
+
+#rstats #rstudio #datascience #tidyverse",https://i.ytimg.com/vi/ZM04jn95YP0/default.jpg,Data Science with Tom,14264,587,5,0,39,",",advanced,4.0.2,TRUE
+vKKDU6x3BE8,2020-11-21T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 17: Metaprogramming Big Picture (2020-11-19) (advr02),"Josh Pohlkamp-Hartt presenting Chapter 17 (""Big picture"" [of Metaprogramming]) from Advanced R by Hadley Wickham on November 19, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/vKKDU6x3BE8/default.jpg,R4DS Online Learning Community,37,2,0,0,0,rstats,advanced,4.0.3,TRUE
+tuafimbMyKk,2021-05-22T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Ch 7: Environments (2021-05-04) (advr05),"Adrian Fletcher presents Chapter 7 (""Environments"") from Advanced R by Hadley Wickham on 2021-05-04, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/tuafimbMyKk/default.jpg,R4DS Online Learning Community,47,1,0,0,0,rstats,advanced,4.1.0,TRUE
+2NixH3QAerQ,2020-07-22T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 18: Expressions (2020-07-21) (advr01),"Maya Gans presenting Chapter 18 (Expressions) from Hadley Wickham's book, ""Advanced R (2nd Edition)"" on July 21, 2020, to the R4DS Book Club. Watch us build a shiny app!
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/expressions.html",https://i.ytimg.com/vi/2NixH3QAerQ/default.jpg,R4DS Online Learning Community,146,4,0,0,0,rstats,advanced,4.0.2,TRUE
+Vwuo-e_Ir0s,2020-09-10T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club - Chapter 6: Functions (2020-09-10) (advr03),"Novica Nakov presenting Chapter 6 (Functions) from Advanced R by Hadley Wickham on September 10, 2020, to the R4DS Book Club. 
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/functions.html",https://i.ytimg.com/vi/Vwuo-e_Ir0s/default.jpg,R4DS Online Learning Community,61,1,0,0,0,rstats,advanced,4.0.2,TRUE
+lOx4CLuIUc8,2021-07-27T00:00:00Z,UCa0AZNE3hzffbD2DTxMWQlw,Advanced R - learn Development Tools,"link to this course
+https://click.linksynergy.com/deeplink?id=Gw/ETjJoU9M&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-r%2F
+Advanced R - learn Development Tools
+Best Development Tools Course
+Become an R master and dominate data science
+Build R packages,Write C++ code in R via Rcpp,Do complex date parsing,Profile and benchmark their programs,Build parallel code,Parse complex text via Regex,And much more!
+A few weeks experience with R is absolutely necessary, and ideally some months of experience would be better,Being able to code functions, manipulate data, and be comfortable writing complex R code,Some experience with other programming languages (such as Python - Java) would be beneficial, but it is not necessary,This course is intended for R and data science professionals aiming to master R. Intermediate and advanced users, will both find that this course will separate them from the rest of people doing analytics with R. We don't recommend this course on beginners.,We start by explaining how to work with closures, environments, dates, and more advanced topics. We then move into regex expressions and parsing html data. We explain how to write R packages, and write the proper documentation that the CRAN team expects if you want to upload your code into R's libraries.  After that we introduce the necessary skills for profiling your R code. We then move into C++ and Rcpp, and we show how to write super fast C++ parallel code that uses OpenMP. Understanding and mastering Rcpp will allow you to push your R skills to another dimension. When your colleagues are writing R functions, you will be able to get Rcpp+OpenMP equivalent code running 4-8X times faster. We then move into Python and Java, and show how these can be called from R and vice-versa. This will be really helpful for writing code that leverages the excellent object oriented features from this pair of languages. You will be able to build your own classes in Java or Python that store the data that you get from R. Since the Python community is growing so fast, and producing so wonderful packages, it's great to know that you will be able to call any function from any Python package directly from R. We finally explain how to use sqldf, which is a wonderful package for doing serious, production grade data processing in R. Even though it has its limitations, we will be able to write SQL queries directly in R. We will certainly show how to bypass those limitations, such as its inability to write full joins using specific tricks.,All the code (R,JAVA,C++,.csv) used in this course is available for download, and all the lectures can be downloaded as well. Our teaching strategy is to present you with examples carrying the minimal complexity, so we hope you can easily follow each lecture. In case you have doubts or comments, feel free to send us a message,,Intermediate and advanced R usersBasic R users (with a few weeks of experience) can also take this course. They might find some parts difficult, specially if they lack programming experience,Intermediate and advanced R users,Basic R users (with a few weeks of experience) can also take this course. They might find some parts difficult, specially if they lack programming experience",https://i.ytimg.com/vi/lOx4CLuIUc8/default.jpg,Emlyn Jillana,4,0,0,0,0,Advanced R - learn Development Tools,advanced,4.1.0,TRUE
+tbByqsRRvdE,2020-07-30T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 19: Quasiquotation (2020-07-28) (advr01),"Jon Harmon presenting Chapter 19 (Quasiquotation) from Hadley Wickham's book, ""Advanced R (2nd Edition)"" on July 28, 2020, to the R4DS Book Club.
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/expressions.html",https://i.ytimg.com/vi/tbByqsRRvdE/default.jpg,R4DS Online Learning Community,182,5,0,0,0,rstats,advanced,4.0.2,TRUE
+SpDpmhW62Ns,2020-12-08T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 9: Functionals (2020-11-30) (advr04),"Camillo Strange presents Chapter 9 (""Functionals"") from Advanced R by Hadley Wickham on November 30, 2020, to the R4DS Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/SpDpmhW62Ns/default.jpg,R4DS Online Learning Community,46,0,0,0,0,rstats,advanced,4.0.3,TRUE
+NXmlqK2LxWw,2021-06-17T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 14 (R6) (2021-06-15) (advr05),"Hannes Oberreiter presents Chapter 14 (""R6"") from Advanced R by Hadley Wickham on 2021-06-15, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/NXmlqK2LxWw/default.jpg,R4DS Online Learning Community,45,1,0,0,0,rstats,advanced,4.1.0,TRUE
+4En_Ypvtjqw,2020-08-06T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 20: Evaluation (2020-08-04) (advr01),"Daryn Ramsden presenting Chapter 20: Evaluation from Advanced R by Hadley Wickham on 2020-08-04 to the R4DS Book Club. 
+
+Join the conversation at r4ds.io/join!
+https://adv-r.hadley.nz/evaluation.html",https://i.ytimg.com/vi/4En_Ypvtjqw/default.jpg,R4DS Online Learning Community,104,2,0,0,0,rstats,advanced,4.0.2,TRUE
+PCG52lU_YlA,2020-08-05T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 1: Introduction (2020-07-30) (advr02),"Kevin Kent presenting Chapter 1 (Introduction) from Advanced R by Hadley Wickham on July 30, 2020, to the R4DS Book Club. This is the first video for Cohort 2!
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/expressions.html",https://i.ytimg.com/vi/PCG52lU_YlA/default.jpg,R4DS Online Learning Community,628,6,0,0,4,rstats,advanced,4.0.2,TRUE
+WzfD9GK6nCI,2021-07-29T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 20 (Evaluation) (2021-07-27) (advr05),"Jiwan Heo presents Chapter 20 (""Evaluation"") from Advanced R by Hadley Wickham on 2021-07-27, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/WzfD9GK6nCI/default.jpg,R4DS Online Learning Community,24,1,0,0,0,rstats,advanced,4.1.0,TRUE
+VFs-2sl5C70,2021-05-22T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Ch 8: Conditions (2021-05-11) (advr05),"Mariela Cortés López presents Chapter 8 (""Conditions"") from Advanced R by Hadley Wickham on 2021-05-11, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/VFs-2sl5C70/default.jpg,R4DS Online Learning Community,17,1,0,0,0,rstats,advanced,4.1.0,TRUE
+__Zz3Nbi5RI,2020-10-18T00:00:00Z,UCxrpjLYi_Akmbc2QICDvKaQ,Introduction to Advanced Data Analysis in R programming language (First Lesson/Class),"Prior knowledge of programming and statistics are not required. It's only an introduction to the first class, and we will continue every Saturdays with more advanced tasks. The main goal is to develop the interest of mathematical programming among students from Africa. However, anyone who interested is welcome to join and learn. This class will be a good introduction to data analysis with advanced statistical software like R. 
+
+For general information about the class, please visit the link below:
+https://piazza.com/clements_school_on_data_analysis/fall2020/ss401/info
+
+For the personal profile of the instructor/tutor, click below:
+https://f36d003f-d71d-49cc-9fea-cbb325732ca8.filesusr.com/ugd/779116_8b81a5793af94ccdadec45b62b49cfcd.pdf
+
+Personal website: https://twumasiclement.wixsite.com/website
+
+Below summarizes the content of this YouTube video (from Saturday's class dated October 17, 2020):
+
+1) A brief introduction into mathematical programming, and the advantages of R to other programming languages (Python, SAS, etc.) and other statistical software like SPSS, STATA, etc.  are discussed. 
+
+2)Expatiate on how R works, setting up working directories and importing data into R (Note that you can import a data saved as .csv, .txt, .xlsx, SPSS data, STATA data, SAS data, etc). Writing codes as a script, saving scripts and importing previously saved scripts for use another time. You be using R studio for everything; but after the first class, I will rather be using Jupyter notebook to run R whiles you use the R studio. The many importance of Jupyter notebook as an IDE to run R, Python and other programming languages will be explained in our second meeting.
+3) How to use in-built functions, and create your own function(s) for any complicated task depending on what you want. 
+4) We shall analyse our first real data where we will create our own novel function to compute summary statistics of the data (see the Resource section to download the CSV data named as School_data.csv). 
+5) We will learn how to assign names to categorical variables coded with dummy numbers (eg. 0,1,2 etc). The novel summary statistics function we will be creating has never been created before. First, it must be automated such that for any data you use, it should be able to do the following. i) determine the type of any/all variable(s) in the data (whether categorical/qualitative or numerical/quantitative), ii) If a variable is numerical (like age, BMI, height,etc.), it should compute & return the mean, median, standard deviation, standard error, skewness and kurtosis; iii) else if a variable is categorical (like gender, marital status, etc.) it should return its percentages for all categories/levels of the variable rounded to exactly 1 decimal place. You will be given an assignment/task to add more complexity to this novel summary statistics function we shall create in class to be able to include descriptive plots as well.",https://i.ytimg.com/vi/__Zz3Nbi5RI/default.jpg,Clement Twumasi Educative Channel,1537,96,0,0,12,"#R,#Statistics,#DataAnalysis,#Programming,#Mathematics",advanced,4.0.3,TRUE
+1iv0PUKG5ME,2021-10-28T00:00:00Z,UCedEy2ciapJ5f1Rlnq6vytA,Data Science: R Programming for Beginners - learn Data Science,"link to this course
+https://click.linksynergy.com/deeplink?id=Gw/ETjJoU9M&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-science-r-programming-for-beginners%2F
+Data Science: R Programming for Beginners - learn Data Science
+Best Data Science Course
+R Programming for Data Science, Machine Learning and Data Analysis, Hands on Data Visualization with GGplot2 and dplyr !
+Complete understanding of R programming,Data Types, Vectors and Matrices in R,Data Frames and Lists,Working with Files in R,Logical Operators, Statements and Loops,Functions and Core Concepts in R,Advanced R Programming,Apply Function, Regular Expressions,Math functions, Date and Timestamps,Data Manipulation and Data Cleaning,dplyr Package, Pipe Operator and tidyr Package,Data Visualization with ggplot2
+No Prior Knowledge or Experience Needed !,This  is a Comprehensive Course to Learn R Programming for Data science, Data Analysis, Machine Learning and Data Visualization !,With this course you will learn R Programming from Very Basic to Advanced Level, Here we will cover almost everything that comes under the umbrella of R Programming,,Main topics you will learn,,1) R Programming Basics : Arithmetic in R, Variables in R, Data Types in R, Vectors in R, Vector Operations, Comparison Operators, Indexing and Slicing in Vectors,2) Matrices in R : Creating A Matrix, Arithmetic's in Matrix, Operations in Matrix, Indexing and Selection in Matrix, Factor Function,3) Data Frames : Data Frame Basics, Indexing and Selection in Data Frames, Data Frame Operations,4) Lists in R,5) Working with Files : Working with CSV Files and Excel Files,6) Core Programming Concepts in R : Logical Operators, if, else and else if statements, While loop, For loops, Functions in R,7) Advanced R Programming : Built in Features, Apply Function, Regular Expressions, Math functions, Date and Timestamps,8) Data Manipulation in R : dplyr Package, Pipe Operator, tidyr Package,9) Data Visualization with ggplot2,,In short, this course is designed for all skill levels and even if you have no programming or statistical background you will be successful in this course !,,Regards,,Vijay Gadhave,Anyone who wants to learn R programmingStudents or professionals who wants to start learning Data Science, Machine Learning and Data Analysis,Anyone who wants to learn R programming,Students or professionals who wants to start learning Data Science, Machine Learning and Data Analysis",https://i.ytimg.com/vi/1iv0PUKG5ME/default.jpg,Maadwoa Ph,0,0,0,0,0,",",advanced,4.1.1,TRUE
+rCjQTbQ22qc,2020-12-01T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 14: R6 (2020-11-30) (advr03),"AL Brown presents Chapter 14 (""R6"") from Advanced R by Hadley Wickham on November 30, 2020, to the R4DS Book Club, cohort 3. 
+
+Join the conversation at r4ds.io/join
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/rCjQTbQ22qc/default.jpg,R4DS Online Learning Community,29,1,0,0,0,rstats,advanced,4.0.3,TRUE
+vPqEW0q-joU,2021-08-06T00:00:00Z,UCKlY1FBMVFXkjY9M1yqZ6HQ,Data Science: R Programming for Beginners - learn Data Science,"link to this course
+https://click.linksynergy.com/deeplink?id=Gw/ETjJoU9M&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-science-r-programming-for-beginners%2F
+Data Science: R Programming for Beginners - learn Data Science
+Best Data Science Course
+R Programming for Data Science, Machine Learning and Data Analysis, Hands on Data Visualization with GGplot2 and dplyr !
+Complete understanding of R programming,Data Types, Vectors and Matrices in R,Data Frames and Lists,Working with Files in R,Logical Operators, Statements and Loops,Functions and Core Concepts in R,Advanced R Programming,Apply Function, Regular Expressions,Math functions, Date and Timestamps,Data Manipulation and Data Cleaning,dplyr Package, Pipe Operator and tidyr Package,Data Visualization with ggplot2
+No Prior Knowledge or Experience Needed !,This  is a Comprehensive Course to Learn R Programming for Data science, Data Analysis, Machine Learning and Data Visualization !,With this course you will learn R Programming from Very Basic to Advanced Level, Here we will cover almost everything that comes under the umbrella of R Programming,,Main topics you will learn,,1) R Programming Basics : Arithmetic in R, Variables in R, Data Types in R, Vectors in R, Vector Operations, Comparison Operators, Indexing and Slicing in Vectors,2) Matrices in R : Creating A Matrix, Arithmetic's in Matrix, Operations in Matrix, Indexing and Selection in Matrix, Factor Function,3) Data Frames : Data Frame Basics, Indexing and Selection in Data Frames, Data Frame Operations,4) Lists in R,5) Working with Files : Working with CSV Files and Excel Files,6) Core Programming Concepts in R : Logical Operators, if, else and else if statements, While loop, For loops, Functions in R,7) Advanced R Programming : Built in Features, Apply Function, Regular Expressions, Math functions, Date and Timestamps,8) Data Manipulation in R : dplyr Package, Pipe Operator, tidyr Package,9) Data Visualization with ggplot2,,In short, this course is designed for all skill levels and even if you have no programming or statistical background you will be successful in this course !,,Regards,,Vijay Gadhave,Anyone who wants to learn R programmingStudents or professionals who wants to start learning Data Science, Machine Learning and Data Analysis,Anyone who wants to learn R programming,Students or professionals who wants to start learning Data Science, Machine Learning and Data Analysis",https://i.ytimg.com/vi/vPqEW0q-joU/default.jpg,maggi daffy,1,0,0,0,0,",",advanced,4.1.1,TRUE
+R73qvxZx65k,2020-07-26T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R: 18.3: Expressions,"Maya Gans and the Advanced R Book Club discuss Expressions from section 18.3 from Hadley Wickham's book, ""Advanced R (2nd Edition)"".
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/expressions.html",https://i.ytimg.com/vi/R73qvxZx65k/default.jpg,R4DS Online Learning Community,38,0,0,0,0,rstats,advanced,4.0.2,TRUE
+8TGXjzi0n0o,2021-05-27T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 10: Function Factories (2021-05-25) (advr05),"Brett Longworth presenting Chapter 10: ""Function Factories"" from Advanced R by Hadley Wickham on 2021-05-25, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz",https://i.ytimg.com/vi/8TGXjzi0n0o/default.jpg,R4DS Online Learning Community,60,1,0,0,0,rstats,advanced,4.1.0,TRUE
+GHp2W4JxVaY,2020-12-09T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 10: Function Factories (2020-12-07) (advr04),"August Comte presents Chapter 10 (""Function Factories"") from Advanced R by Hadley Wickham on December 7, 2020, to the R4DSCommunity Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/GHp2W4JxVaY/default.jpg,R4DS Online Learning Community,64,1,0,0,0,rstats,advanced,4.0.3,TRUE
+mYOUgzoRcjI,2020-12-08T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 18: Expressions (2020-12-03) (advr02),"Jake Riley presenting Chapter 18 (""Expressions"") from Advanced R by Hadley Wickham on December 3, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/mYOUgzoRcjI/default.jpg,R4DS Online Learning Community,21,1,0,0,0,rstats,advanced,4.0.3,TRUE
+yIaUYT0tMK4,2021-04-05T00:00:00Z,UCAgGqf9RdpGtnWaQuQcmuqQ,"#r #programmingfordatascience, #rprogrammingadvanced, #rprogrammingforbeginners R Programming","r programming for data science,
+r programming advanced,
+r programming for beginners
+
+https://www.instagram.com/panditpankaj157/
+https://www.facebook.com/stpythonphp",https://i.ytimg.com/vi/yIaUYT0tMK4/default.jpg,Pankaj Kumar Python and PHP,22,4,0,0,0,"r programming for data science,r programming advanced,r programming for beginners,r programming",advanced,4.0.5,TRUE
+qDaJvX-Mpls,2020-10-18T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 1: Introduction (2020-10-05) (advr04),"Emily Wissel presenting Chapter 1: ""Introduction"" from Advanced R by Hadley Wickham and introducing the new Cohort 4 of the club on October 5, 2020, to the R4DS Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/qDaJvX-Mpls/default.jpg,R4DS Online Learning Community,244,1,0,0,2,rstats,advanced,4.0.3,TRUE
+tSVBlAP5DIY,2021-03-07T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 18: Expressions (2021-02-15) (advr04),"Roberto Villegas-Diaz presents Chapter 18 (""Expressions"") from Advanced R by Hadley Wickham on 2021-02-15, to the R4DSCommunity Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/tSVBlAP5DIY/default.jpg,R4DS Online Learning Community,23,0,0,0,0,rstats,advanced,4.0.5,TRUE
+pj0hTW1CtbI,2021-01-17T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 21: Translating R code (2021-01-14) (advr02),"Jorge Mendes presents Chapter 21 (""Translating R code"") from Advanced R by Hadley Wickham on 2021-01-14, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/pj0hTW1CtbI/default.jpg,R4DS Online Learning Community,7,0,0,0,0,rstats,advanced,4.0.3,TRUE
+YrZ13_4vUMw,2020-10-18T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 9: Functionals (2020-10-01) (advr02),"Jake Riley presenting Chapter 9: ""Functionals"" from Advanced R by Hadley Wickham on October 1, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/YrZ13_4vUMw/default.jpg,R4DS Online Learning Community,31,0,0,0,0,rstats,advanced,4.0.3,TRUE
+4la5adcWwKE,2021-01-17T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 12: OOP Base types (2021-01-04) (advr04),"Toryn Schafer introduces Object-Oriented Programming (OOP) and presents Chapter 12 (""Base types"") from Advanced R by Hadley Wickham on 2021-01-04, to the R4DSCommunity Book Club (cohort 4). Roberto Villegas-Diaz begins Chapter 13 (""S3"").
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/4la5adcWwKE/default.jpg,R4DS Online Learning Community,35,0,0,0,0,rstats,advanced,4.0.3,TRUE
+0K1vyiV8_qo,2021-03-01T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 20: Evaluation (2021-02-22) (advr03),"Anna-Leigh Brown presents Chapter 20 Evaluation from Advanced R from by Hadley Wickham on 2021-02-22, to the Advanced R Book Club (cohort 3). 
+
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/index.html!",https://i.ytimg.com/vi/0K1vyiV8_qo/default.jpg,R4DS Online Learning Community,15,0,0,0,0,rstats,advanced,4.0.4,TRUE
+FSm2_TJmhm0,2021-07-29T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 17 (Big Picture) (2021-07-06) (advr05),"Mariela Cortés López presents Chapter 17 (""Big Picture"") from Advanced R by Hadley Wickham on 2021-07-06, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/FSm2_TJmhm0/default.jpg,R4DS Online Learning Community,15,0,0,0,0,rstats,advanced,4.1.0,TRUE
+pOaiDK7J7EE,2021-08-26T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 23 &amp; 24 (Measuring and Improving Performance) (2021-08-24) (advr05),"Brett Longworth presents Chapter 23 and 24 (""Measuring and Improving Performance"") from Advanced R by Hadley Wickham on 2021-08-24, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/pOaiDK7J7EE/default.jpg,R4DS Online Learning Community,34,1,0,0,0,rstats,advanced,4.1.1,TRUE
+9GkgNC15EAw,2020-11-01T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapters 12&amp;13: OOP Intro (2020-10-29) (advr02),"Chris Yarrison presenting Chapters 12 (""Base types"") & 13 (""S3"") from Advanced R by Hadley Wickham on October 29, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/9GkgNC15EAw/default.jpg,R4DS Online Learning Community,33,0,0,0,0,rstats,advanced,4.0.3,TRUE
+w_97Vr-d3yM,2019-05-22T00:00:00Z,UC_TqJEQoQK6XNljuuwY_FNg,Introduction to R Markdown | Part 3 - More Advanced Features,In this video on R Markdown we show off a few more advanced features of how to make the best use of R Markdown.,https://i.ytimg.com/vi/w_97Vr-d3yM/default.jpg,Carroll Math,556,15,0,0,0,"R Markdown,RStudio",advanced,3.6.0,TRUE
+bzo37PHCM1I,2020-11-21T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapters 15 &amp; 16: S4 &amp; Trade-Offs (2020-11-12) (advr02),"Erick Knackstedt presenting Chapters 15 (""S4"") & 16 (""Trade-Offs"") from Advanced R by Hadley Wickham on November 12, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/bzo37PHCM1I/default.jpg,R4DS Online Learning Community,24,0,0,0,0,rstats,advanced,4.0.3,TRUE
+AZwJjsl8xiI,2021-04-29T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Ch 5: Control flow (2021-04-20) (advr05),"Jiwan Heo presents Chapter 5 (""Control flow"") from Advanced R by Hadley Wickham on 2021-04-20, to the R4DS Book Club (cohort 5).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/AZwJjsl8xiI/default.jpg,R4DS Online Learning Community,29,1,0,0,0,rstats,advanced,4.0.5,TRUE
+0TclsXa085Y,2021-03-25T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 21: Translating R code (2021-03-22) (advr04),"Camilo Strange presents Chapter 21 (""Translating R code"") from Advanced R by Hadley Wickham on 2021-03-22, to the R4DSCommunity Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/0TclsXa085Y/default.jpg,R4DS Online Learning Community,14,0,0,0,0,rstats,advanced,4.0.5,TRUE
+_zeLDufwTwY,2021-02-28T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 23: Measuring Performance (2021-02-11) (advr02),"Josh Pohlkamp-Hartt presents Chapter 23 (""Measuring Performance"") from Advanced R by Hadley Wickham on 2021-02-11, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/_zeLDufwTwY/default.jpg,R4DS Online Learning Community,13,0,0,0,0,rstats,advanced,4.0.4,TRUE
+CpLM6SdpTFY,2020-10-18T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 3: Vectors (2020-08-13) (advr02),"Vajresh Balaji presenting Chapter 3: ""Vectors"" from Advanced R by Hadley Wickham on August 13, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/CpLM6SdpTFY/default.jpg,R4DS Online Learning Community,32,0,0,0,0,rstats,advanced,4.0.3,TRUE
+Tw1k46ywN6E,2016-03-05T00:00:00Z,UCEBb1b_L6zDS3xTUrIALZOw,10. Dynamic Programming: Advanced DP,"MIT 6.046J Design and Analysis of Algorithms, Spring 2015
+View the complete course: http://ocw.mit.edu/6-046JS15
+Instructor: Srinivas Devadas
+
+In this lecture, Professor Devadas introduces the concept of dynamic programming.
+
+License: Creative Commons BY-NC-SA
+More information at http://ocw.mit.edu/terms
+More courses at http://ocw.mit.edu",https://i.ytimg.com/vi/Tw1k46ywN6E/default.jpg,MIT OpenCourseWare,86035,994,9,0,50,"dynamic programming,longest palindromic sequence,optimal binary search tree,alternating coin game",advanced,3.2.4,FALSE
+lyFDNkbsQuE,2021-01-04T00:00:00Z,UCCktnahuRFYIBtNnKT5IYyg,R Programming Interview Questions | R Programming Interview Questions and Answers | Intellipaat,"🔵. Intellipaat Data Science with R course: https://intellipaat.com/data-scientist-course-training/
+In this R programming interview questions, you will learn all the latest interview questions with answers recently asked in MNCs. This video will help you to prepare for the R Programming interview and clear it successfully.
+
+🔵. Here are the topics covered in this video: 
+00:52 - R Programming Interview Questions
+00:56 - Comparing R and Python
+02:54 - Explain the data import in R Language
+03:38 - Explain how to Communicate the outputs of Data Analysis
+04:31 - Difference between library() and require() functions
+05:34 - What are the advantages of R programming?
+07:01 - What are the disadvantages of R programming?
+10:40 - What is the use of the Subset() and sample() function in R?
+12:51 - Explain what is Transpose
+13:45 - Why do we use R Programming?
+17:43 - What is the function used for adding datasets in R?
+20:50 - What is the difference between matrix and data frames?
+21:46 - What is the difference between lapply and sapply?
+23:06  How many data structures R has?
+27:43 - What are R packages?
+29:32 - What is power analysis?
+31:17 - What is the use of abline() function?
+31:57 - What is iplots?
+32:54 - What is the use of corrgram() function?
+33:53 - How to create scatterplot matrices?
+35:16 - What is the use of Diagnostic plots?
+37:37 - Define Anova() function
+38:34 - What is the use of MANOVA?
+39:53 - What is logistic regression?
+41:02 - Define Poisson regression?
+41:53 - Define cluster.stats()?
+43:10 - What is principal() function?
+
+#RProgrammingInterviewQuestionsandAnswers #RProgrammingInterviewQuestions #RProgrammingInterviewPreparation #RProgrammingInterviewQuestions #HowToPrepareRInterviewQuestions #RProgrammingInterview #intellipaat
+
+🔵. Read R Programming for beginners tutorial here: https://intellipaat.com/blog/tutorial/r-programming/
+
+🔵. To subscribe to the Intellipaat channel & get regular updates on videos: http://bit.ly/Intellipaat
+
+🔵. Interested to learn r programming still more? Please check similar r Programming blogs here: https://intellipaat.com/blog/why-learn-r-programming/
+
+Are you looking for something more? Enroll in our r programming language course & become a certified R Programmer (https://intellipaat.com/r-programming-certification-training/). It is a 16 hrs instructor-led r programming training provided by Intellipaat which is completely aligned with industry standards and certification bodies.
+
+If you’ve enjoyed this r programming interview questions and answers, Like us and Subscribe to our channel for more similar informative r tutorials. 
+Got any questions about r programming for data science? Ask us in the comment section below.
+----------------------------
+Intellipaat Edge
+1. 24*7 Lifetime Access & Support 
+2. Flexible Class Schedule
+3. Job Assistance
+4. Mentors with +14 yrs 
+5. Industry Oriented Courseware
+6. Lifetime free Course Upgrade
+------------------------------
+
+Q. Who should watch this R Interview Questions Video?
+
+Professionals who are passionate about R Programming and who are preparing for R Interviews, and also who wants to go ahead and make their career as a R Programmer
+
+Q. Why should you watch this r programming tutorial?
+
+R programming has been the most promising language when it comes to data analytics and machine learning as it is equipped with a wide array of functionalities. We are offering the top r programming tutorial that can be watched by anybody to learn r language. Our r programming tutorial has been created with extensive inputs from the industry so that you can learn r programming easily.
+
+Q Why r programming is important?
+
+Because of its extensible nature, R programming is finding higher adoption rates for Data Science specialization. It can be widely deployed for various applications and can be easily scaled. learning this r language will help you grab all those jobs that are being created at large companies offering very good pay scales.
+
+Q Why should you opt for a r programming career?
+
+It is one of the booming technologies in the market and hence R professionals are highly required by the companies. You will grab the best jobs in top MNCs after finishing this Intellipaat r programming online training. The entire Intellipaat r programming course is in line with the industry needs. There is a huge demand for r programming certified professional. The salaries for r programming professional are very good. Hence this Intellipaat R tutorial is your stepping stone to a successful career!
+------------------------------
+For more information:
+Please write us to sales@intellipaat.com, or call us at: +91- 7847955955
+
+Website: https://intellipaat.com/r-programming-certification-training/
+
+Facebook: https://www.facebook.com/intellipaatonline
+
+LinkedIn: https://www.linkedin.com/company/intellipaat-software-solutions/
+
+Twitter: https://twitter.com/Intellipaat
+
+Telegram: https://t.me/s/Learn_with_Intellipaat
+
+Instagram: https://www.instagram.com/intellipaat",https://i.ytimg.com/vi/lyFDNkbsQuE/default.jpg,Intellipaat,6894,171,8,0,9,"R Programming Interview Questions,r interview questions,R Programming Interview Preparation,R Programming,How to prepare for R Programming Interview,How to crack R programming interview,r programming language,r programming for beginners,r programming tutorial,r programming for data science,r programming interview questions and answers,r programming interview questions for freshers,intellipaat",advanced,4.0.3,TRUE
+UhQyzOwQmOI,2021-04-18T00:00:00Z,UCfJyQ3P2k_SuqfxVdqIEQNw,How to draw a line graph using ggplot with R programming. Plots and graphs to visualize data.,"If you want to use R programming to create plots and graphs using the ggplot package, then watch this video. In this video, I'll go though how to visualize two numeric variables and one categoric variable using line graphs and faceting with ggplot2 (which is a part of the tidyverse set of packages). This is an R programming for beginners video. Good data visualisation and descriptive statistics is the first step in data analysis. If you want to learn statistics and quantitative analysis, then this is a great place to start.",https://i.ytimg.com/vi/UhQyzOwQmOI/default.jpg,R Programming 101,8303,233,3,0,37,"ggplot,r programming,line graph,tidyverse,data visualization,data visualisation",advanced,4.0.5,TRUE
+UZhrsVz6wi0,2020-10-15T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 8: Conditions (2020-10-06) (advr03),"Shel Kariuki presenting Chapter 8: ""Conditions"" from Advanced R by Hadley Wickham on October 6th, 2020, to the R4DS Book Club, cohort 3. 
+
+Join the conversation at r4ds.io/join
+Read along at https://adv-r.hadley.nz/conditions.html",https://i.ytimg.com/vi/UZhrsVz6wi0/default.jpg,R4DS Online Learning Community,35,0,1,0,0,rstats,advanced,4.0.3,TRUE
+zZwGLit3iqQ,2020-07-03T00:00:00Z,UCM53toOQc4IGnZ8wBW1oSFw,"R Programming, week (1-4) All Quiz Answers with Assignments.","course link:  https://www.coursera.org/learn/r-programming?
+
+Assignment Link : https://www.thinktomake.xyz/2020/07/r-programming-week-1-4-all-quiz-answers.html
+
+Friends support me to give you more useful videos.
+Subscribe me and comment me whatever courses you want.
+However for any issues Coursera is requested to mail us at thinktomake1@gmail.com
+
+Telegram link:https://t.me/joinchat/MqTeiEXCfjW8OFT1qJqxFA
+
+
+Essentials of Entrepreneurship: Thinking & Action: https://youtu.be/IPSJ1pZIRwM
+
+Hacking Exercise For Health. The surprising new science of fitness : https://youtu.be/S_1_-ywro8k
+
+Digital Manufacturing & Design: https://youtu.be/inPhsKdyaxo
+
+Introduction to International Criminal Law : https://youtu.be/SQcPsZaaebw
+
+Create and Format a Basic Document with LibreOffice Writer: https://youtu.be/tXzgdNa2uss
+
+Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360 : https://youtu.be/ZHs1xNetzn8
+
+
+
+Some Easy Courses in my Blog:
+Create Informative Presentations with Google Slides:https://thinktomake12.blogspot.com/2020/06/create-informative-presentations-with.html
+Business Operations Support in Google Sheets       :https://thinktomake12.blogspot.com/2020/06/business-operations-support-in-google.html
+
+
+About this Course
+
+In this course you will learn how to program in R and how to use R for effective data analysis. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language. The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
+
+
+SKILLS YOU WILL GAIN
+Data Analysis
+Debugging
+R Programming
+Rstudio
+
+
+Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism,
+comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.
+
+
+#thinktomake    #courseracourseanswers  #courseraquizanswrs  
+#freecertificate    #learners",https://i.ytimg.com/vi/zZwGLit3iqQ/default.jpg,Think to make,22365,250,22,0,16,"coursera free courses with certificates,coursera quiz answers,coursera quiz answers english,coursera,coursera answer checker,peer graded assignment coursera,Case Studies,Data Analysis,Debugging,R Programming,Rstudio,r programming certification,r programming certification by john hopkins university (coursera),r programming questions and answers",advanced,4.0.2,TRUE
+fSdAqlkeq6I,2021-02-28T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 24: Improving Performance (2021-02-18) (advr02),"Jorge Mendes presents Chapter 24 (""Improving Performance"") from Advanced R by Hadley Wickham on 2021-02-18, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/fSdAqlkeq6I/default.jpg,R4DS Online Learning Community,9,0,0,0,0,rstats,advanced,4.0.4,TRUE
+kfwjJDuyN8U,2021-03-11T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 20: Evaluation (2021-03-08) (advr04),"Graeme Davidson presents Chapter 20 (""Evaluation"") from Advanced R by Hadley Wickham on 2021-03-08, to the R4DSCommunity Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/kfwjJDuyN8U/default.jpg,R4DS Online Learning Community,55,1,0,0,0,rstats,advanced,4.0.5,TRUE
+Re6y5CQzwG4,2020-11-05T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 11: Function operators (2020-11-03) (advr03),"Anna-Leigh Brown presents chapter 11 (""Function operators"") from Advanced R by Hadley Wickham on November 3, 2020, to the R4DS Book Club, cohort 3. 
+
+Join the conversation at r4ds.io/join
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/Re6y5CQzwG4/default.jpg,R4DS Online Learning Community,28,1,0,0,0,rstats,advanced,4.0.3,TRUE
+syRMRYKN30k,2020-09-24T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 7: Environments (2020-09-17) (advr02),"Kevin Kent presenting Chapter 7: ""Environments"" from Advanced R by Hadley Wickham on September 17, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/syRMRYKN30k/default.jpg,R4DS Online Learning Community,46,1,0,0,0,rstats,advanced,4.0.2,TRUE
+eTCT2O58GYM,2021-01-17T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 13: S3 cont (2021-01-11) (advr04),"Roberto Villegas-Diaz continues Chapter 13 (""S3"") from Advanced R by Hadley Wickham on 2021-01-11, to the R4DSCommunity Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/eTCT2O58GYM/default.jpg,R4DS Online Learning Community,17,0,0,0,0,rstats,advanced,4.0.3,TRUE
+u6UMGWDuxDE,2020-09-02T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 5: Control Flow (2020-09-01) (advr03),"Megan Stodel presenting  Chapter 5: Control Flow from Advanced R by Hadley Wickham on September 01, 2020, to the R4DS Book Club.",https://i.ytimg.com/vi/u6UMGWDuxDE/default.jpg,R4DS Online Learning Community,48,0,0,0,0,rstats,advanced,4.0.2,TRUE
+sgJVk80X2EQ,2021-09-14T00:00:00Z,UC6LqpR5qBfNlQp5mVIVsthA,Best Practices for Coding in R,"Anna Skrzydło, Project Lead at Appsilon, presents best coding practices to ensure maintainable, durable code in your R projects. 
+
+Appsilon is a global leader in Shiny and has developed many large-scale Shiny projects for Fortune 500 companies. This presentation was first held at RStudio Community X-Session in August 2021. The event was a collaboration between RStudio and Appsilon. 
+
+00:20 Importance of Durable Code
+01:50 Code Encapsulation
+02:05 Importance of Code Encapsulation
+02:35 Three Methods of Code Encapsulation
+05:05 Shiny Modules
+06:33 Box Package
+08:20 R6 Classes
+11:15 Tests!
+12:15 Unit Testing With testthat
+13:55 Other Tests
+14:20 User Interviews
+17:00 Importance of Project Structure
+
+Presenter: Anna Skrzydło - Project Lead  @ Appsilon
+
+Appsilon open source packages for your Shiny project:
+https://shiny.tools/
+
+Appsilon is hiring! See all open positions here:
+https://appsilon.com/careers/",https://i.ytimg.com/vi/sgJVk80X2EQ/default.jpg,Appsilon,473,22,0,0,0,",",advanced,4.1.1,TRUE
+92zCRV3eQxw,2017-01-05T00:00:00Z,UCQdw3kgGGv5ahM9BEZ4ZecQ,QuantBros.com Introduction to R Programming for Financial Timeseries,"Learn Financial Programming and Timeseries Analysis Basics in R and R Studio 
+
+Not enough for you? Want to learn more R? Our friends over at DataCamp will whip you into shape real quick if you need help:
+https://www.datacamp.com/courses/free-introduction-to-r?tap_a=5644-dce66f&tap_s=84932-063f71
+
+Or if you're more of a Python guy, we have an intro to finance for Python course live on DataCamp right now:
+https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-r?tap_a=5644-dce66f&tap_s=84932-063f71
+
+Join the Quants by taking our Quant Course at http://quantcourse.com
+
+1) Basics of R Programming / Downloading R
+2) Using Data Frames
+3) An Intro to the Quantmod Package
+4) Reading in Financial Data from Quantmod
+5) Using Vectors in R
+6) Reading and Writing Data as CSV Files
+7) Plotting Timeseries Data in R
+8) Working with Split / Dividend Adjusted Data
+9) Calculating Log Returns
+10) Converting Log Returns to Arithmetic and Vice-Versa
+11) Apply Function in R / Working With Multivariate Data
+12) Intro to the Performance Analytics Package
+13) XTS and Zoo Objects for Financial Data
+14) Chart the Cumulative Return of an Asset
+15) Chart the Drawdown and Daily Returns of an Asset
+16) Charting Multiple Assets at Once in R
+17) Merging Different Datasets With Different Indexes
+18) Calculating Sharpe Ratios and other Performance Metrics",https://i.ytimg.com/vi/92zCRV3eQxw/default.jpg,QuantCourse,58762,1016,8,0,43,"r programming,financial timeseries,quantmod,data frames,vectors,plotting timeseries data,xts,zoo,log returns,arithmetic returns,performance analytics,cumulative returns,drawdown,daily returns,sharpe ratios",advanced,3.3.2,TRUE
+rVooJFdbePs,2020-12-22T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 11: Function Operators (2020-12-14) (advr04),"Stephen Holsenbeck presents Chapter 11 (""Function Operators"") from Advanced R by Hadley Wickham on December 14, 2020, to the R4DSCommunity Book Club (cohort 4).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/rVooJFdbePs/default.jpg,R4DS Online Learning Community,27,0,0,0,0,rstats,advanced,4.0.3,TRUE
+LVkDJ28XJUE,2020-11-10T00:00:00Z,UCCaChdLMTYMxyawR_Qf-kYA,Advanced R Book Club: Chapter 14: R6 (2020-11-05) (advr02),"Ezra Porter presenting Chapter 14 (""R6"") from Advanced R by Hadley Wickham on November 5, 2020, to the R4DS Book Club (cohort 2).
+
+Join the conversation at r4ds.io/join!
+Read along at https://adv-r.hadley.nz/",https://i.ytimg.com/vi/LVkDJ28XJUE/default.jpg,R4DS Online Learning Community,31,1,0,0,0,rstats,advanced,4.0.3,TRUE
