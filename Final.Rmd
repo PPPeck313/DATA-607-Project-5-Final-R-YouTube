@@ -175,17 +175,10 @@ library(stringr)
 
 directory <- "data/"
 
-files <- c(
-  "R Programming.csv", 
-  "Beginner R Programming.csv",
-  "Intermediate R Programming.csv",
-  "Advanced R Programming.csv"
-)
-
-rFilePath <- paste(directory, rFile, sep = "")
-beginnerFilePath <- paste(directory, beginnerFile, sep = "")
-intermediateFilePath <- paste(directory, intermediateFile, sep = "")
-advancedFilePath <- paste(directory, advancedFile, sep = "")
+rFilePath <- paste(directory, "R Programming.csv", sep = "")
+beginnerFilePath <- paste(directory, "Beginner R Programming.csv", sep = "")
+intermediateFilePath <- paste(directory, "Intermediate R Programming.csv", sep = "")
+advancedFilePath <- paste(directory, "Advanced R Programming.csv", sep = "")
 
 rVideos <- read_csv(rFilePath)
 beginnerVideos <- read_csv(beginnerFilePath)
