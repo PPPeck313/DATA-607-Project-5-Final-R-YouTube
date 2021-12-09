@@ -5,173 +5,173 @@ date: "12/3/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+# Proposal
+##### What are some special topics in R programming? How popular are they, how are they taught, and are they being taught effectively? My goal was to be able to crowd source and recommend a playlist through data collection and analysis that might act as an extension of our curriculum using YouTube. I would identify trending tools and libraries according to quantity of tutorials on them in addition to quality of said tutorials as measured by views, likes, comments, and favorites. 
+
+##### I was also interested to know the most popular style of video and teaching (i.e. code or design first?) by analyzing titles and channel structures. What would the average projected difficulty of R on YouTube be? Would YouTube be beginner friendly and be able to be substituted for a formal education? Especially considering it's a a free service, could it be expert friendly?
+
+##### Ultimately, I wanted to compare our lessons and curriculum the quality of those found on YouTube. Are trending R curricula touching on the same points and areas of focus, and are they doing so with the same level of depth and expertise?
+
+# Part 1: Data Collection
+##### Using the YouTube API, I'm able to collect search results given a search term (~500). I create search terms that target different levels (beginner, intermediate, advanced) of topic difficulty.
+```{r credentials, warning=FALSE, message=FALSE}
+# YouTube v3 API keys from Google Cloud Platform go here
+clientId <- ""
+clientSecret <- ""
+```
+
+```{r authenticate, warning=FALSE}
 library(tuber)
-library(tidyverse)
-library(readr)
-library(dplyr)
-library(tidytext)
-library(stringr)
-library(lubridate)
-library(ggplot2)
-library(runner)
-library("stopwords")
-library("wordcloud")
-library(ggrepel)
-library(psych)
-```
 
-```{r credentials, include=FALSE}
-youTubeKey1 <- ""
-clientId1 <- ""
-clientSecret1 <- ""
-
-youTubeKey2 <- ""
-clientId2 <- ""
-clientSecret2 <- ""
-```
-
-```{r authenticate, include=FALSE}
 # Delete .httr-oauth to reset
-# Knit can't launch browser
-
-library(tuber)
-
-#yt_oauth(
-#  app_id = clientId1,
-#  app_secret = clientSecret1
-#)
+if (clientId != "" & clientSecret != "") {
+  yt_oauth(
+    app_id = clientId,
+    app_secret = clientSecret
+  )
+}
 ```
 
-```{r search}
+```{r search, warning=FALSE, message=FALSE}
 library(readr)
 library(tuber)
 
-#directory <- "data/"
-#
-#terms <- c(
-#  "R Programming", 
-#  "Beginner R Programming",
-#  "Intermediate R Programming",
-#  "Advanced R Programming"
-#)
-#
-#numTerms <- length(terms)
-#
-## Grab general info from search endpoint for each term
-#for (x in 1:numTerms) {
-#  term <- terms[x]
-#  file <- paste(term, ".csv", sep = "")
-#  
-#  filePath <- paste(directory, file, sep = "")
-#
-#  videos <- yt_search(term)
-#  videos <- videos[, c(1,2,3,4,5,6,15)]
-#  # [1] "video_id"                  "publishedAt"               "channelId"                
-#  # [4] "title"                     "description"               "thumbnails.default.url"   
-#  # [7] "thumbnails.default.width"  "thumbnails.default.height" "thumbnails.medium.url"    
-#  #[10] "thumbnails.medium.width"   "thumbnails.medium.height"  "thumbnails.high.url"      
-#  #[13] "thumbnails.high.width"     "thumbnails.high.height"    "channelTitle"             
-#  #[16] "liveBroadcastContent"      "publishTime"
-#
-#  videos <- videos %>%
-#    add_column(viewCount = NA,
-#               likeCount = NA,
-#               dislikeCount = NA,
-#               favoriteCount = NA,
-#               commentCount = NA,
-#               tags = NA)
-#
-#  videos
-#  write_csv(videos, filePath)
-#}
-```
+directory <- "data/"
 
-```{r details}
+terms <- c(
+  "R Programming", 
+  "Beginner R Programming",
+  "Intermediate R Programming",
+  "Advanced R Programming"
+)
+
+numTerms <- length(terms)
+
+# Grab general info from search endpoint for each term
+for (x in 1:numTerms) {
+  term <- terms[x]
+  file <- paste(term, ".csv", sep = "")
+  
+  filePath <- paste(directory, file, sep = "")
+
+  if (!file.exists(filePath)) {
+    videos <- yt_search(term)
+    videos <- videos[, c(1,2,3,4,5,6,15)]
+    # [1] "video_id"                  "publishedAt"               "channelId"                
+    # [4] "title"                     "description"               "thumbnails.default.url"   
+    # [7] "thumbnails.default.width"  "thumbnails.default.height" "thumbnails.medium.url"    
+    #[10] "thumbnails.medium.width"   "thumbnails.medium.height"  "thumbnails.high.url"      
+    #[13] "thumbnails.high.width"     "thumbnails.high.height"    "channelTitle"             
+    #[16] "liveBroadcastContent"      "publishTime"
+  
+    videos <- videos %>%
+      add_column(viewCount = NA,
+                 likeCount = NA,
+                 dislikeCount = NA,
+                 favoriteCount = NA,
+                 commentCount = NA,
+                 tags = NA)
+  
+    videos
+    write_csv(videos, filePath)
+  }
+}
+```
+##### After receiving general information on each video under the term, I'm able to use its id to request more details such as full description, metadata tags, and performance metrics (views, likes, dislikes, comments). Because of API limitations, detail calls are limited to the top 100 videos (sorted by relevancy) returned for each term.
+```{r details, warning=FALSE, message=FALSE}
 library(readr)
 library(tuber)
 library(dplyr)
 library(lubridate)
 
-#directory <- "data/"
-#
-#files <- c(
-#  "R Programming.csv", 
-#  "Beginner R Programming.csv",
-#  "Intermediate R Programming.csv",
-#  "Advanced R Programming.csv"
-#)
-#
-#numFiles <- length(files)
-#
-## Get details for top 100 results per search (sorted by relevancy)
-#for (x in 1:numFiles) {
-#  file <- files[x]
-#  filePath <- paste(directory, file, sep = "")
-#  
-#  videos <- read_csv(filePath)
-#  
-#  videos <- videos %>%
-#    add_column(viewCount = NA,
-#               likeCount = NA,
-#               dislikeCount = NA,
-#               favoriteCount = NA,
-#               commentCount = NA,
-#               tags = NA)
-#  
-#  numVideos <- nrow(videos)
-#  maxRelevant <- 100
-#  
-#  for (y in 1:maxRelevant) {
-#    videoId <- videos[[y,1]]
-#    channelId <- videos[[y,3]]
-#  
-#    
-#    
-#    stats <- get_stats(videoId)
-#    videos[y, 8] <- if ("viewCount" %in% names(stats) && !is.null(stats[["viewCount"]])) as.double(stats$viewCount) else 0
-#    videos[y, 9] <- if ("likeCount" %in% names(stats) && !is.null(stats[["likeCount"]])) as.double(stats$likeCount) else 0
-#    videos[y, 10] <- if ("dislikeCount" %in% names(stats) && !is.null(stats[["dislikeCount"]])) as.double(stats$dislikeCount) else 0
-#    videos[y, 11] <- if ("favoriteCount" %in% names(stats) && !is.null(stats[["favoriteCount"]])) as.double(stats$favoriteCount) else 0
-#    videos[y, 12] <- if ("commentCount" %in% names(stats) && !is.null(stats[["commentCount"]])) as.double(stats$commentCount) else 0
-#    
-#    
-#    
-#    details <- get_video_details(videoId)
-#    items <- details$items[[1]]
-#    snippet <- items$snippet
-#    
-#    tags <- if ("tags" %in% names(snippet) && !is.null(snippet[["tags"]])) snippet$tags else c()
-#    numTags <- length(tags)
-#    tagConcat <- ""
-#      
-#    for (z in 1:numTags) {
-#      tagConcat <- paste(tagConcat, tags[[z]], sep = if (z == 1) "" else ",")
-#    }
-#    
-#    videos[y, 2] <- round_date(videos[y, 2], "day")
-#    videos[y, 5] <- if ("description" %in% names(snippet) && !is.null(snippet[["description"]])) snippet$description else ""
-#    videos[y, 13] <- tagConcat
-#    
-#    
-#    
-#    #captions <- get_captions(videoId)
-#    
-#    
-#    
-#    #comments <- get_comment_threads(c(video_id = videoId))
-#  }
-#}
-#
-#videos
-#write_csv(videos, filePath)
+directory <- "data/"
+
+files <- c(
+  "R Programming.csv", 
+  "Beginner R Programming.csv",
+  "Intermediate R Programming.csv",
+  "Advanced R Programming.csv"
+)
+
+numFiles <- length(files)
+
+# Get details for top 100 results per search (sorted by relevancy)
+for (x in 1:numFiles) {
+  file <- files[x]
+  filePath <- paste(directory, file, sep = "")
+  
+  videos <- read_csv(filePath)
+  
+  if (!any(names(videos) == "viewCount")) {
+    videos <- videos %>%
+      add_column(viewCount = NA,
+                 likeCount = NA,
+                 dislikeCount = NA,
+                 favoriteCount = NA,
+                 commentCount = NA,
+                 tags = NA)
+    
+    numVideos <- nrow(videos)
+    maxRelevant <- 100
+    
+    for (y in 1:maxRelevant) {
+      videoId <- videos[[y,1]]
+      channelId <- videos[[y,3]]
+    
+      
+      
+      stats <- get_stats(videoId)
+      videos[y, 8] <- if ("viewCount" %in% names(stats) && !is.null(stats[["viewCount"]])) as.double(stats$viewCount) else 0
+      videos[y, 9] <- if ("likeCount" %in% names(stats) && !is.null(stats[["likeCount"]])) as.double(stats$likeCount) else 0
+      videos[y, 10] <- if ("dislikeCount" %in% names(stats) && !is.null(stats[["dislikeCount"]])) as.double(stats$dislikeCount) else 0
+      videos[y, 11] <- if ("favoriteCount" %in% names(stats) && !is.null(stats[["favoriteCount"]])) as.double(stats$favoriteCount) else 0
+      videos[y, 12] <- if ("commentCount" %in% names(stats) && !is.null(stats[["commentCount"]])) as.double(stats$commentCount) else 0
+      
+      
+      
+      details <- get_video_details(videoId)
+      items <- details$items[[1]]
+      snippet <- items$snippet
+      
+      tags <- if ("tags" %in% names(snippet) && !is.null(snippet[["tags"]])) snippet$tags else c()
+      numTags <- length(tags)
+      tagConcat <- ""
+        
+      for (z in 1:numTags) {
+        tagConcat <- paste(tagConcat, tags[[z]], sep = if (z == 1) "" else ",")
+      }
+      
+      videos[y, 2] <- round_date(videos[y, 2], "day")
+      videos[y, 5] <- if ("description" %in% names(snippet) && !is.null(snippet[["description"]])) snippet$description else ""
+      videos[y, 13] <- tagConcat
+      
+      
+      
+      #captions <- get_captions(videoId)
+      
+      
+      
+      #comments <- get_comment_threads(c(video_id = videoId))
+    }
+  }
+}
+
+videos
+write_csv(videos, filePath)
 ```
 
-```{r clean}
+# Part 2: Data Cleaning
+##### Since it's not unusual for different search terms to yield similar results, I distinguish each set by finding which results are unique to its respective term through set difference. I also try to distinguish which results are creating noise as not being R related, which is bound to happen with so many results. To do this, I check its title, description, and metadata for "R".
+
+##### For smoother handling, I then compile the sets into a super set but make sure to tag them with their parent search term for future filtering. 
+
+##### For an extra dimension, using a secondary data source, I perform date manipulation and comparison to find what the latest R release was at the time of a video's publishing. Perhaps one version is far more popular, or served as a much larger entry point for learners when compared to others.
+```{r clean, warning=FALSE, message=FALSE}
 library(readr)
 library(dplyr)
 library(lubridate)
 library(stringr)
+library(tibble)
 
 directory <- "data/"
 
@@ -249,23 +249,25 @@ rVersionFile <- "R Versions.csv"
 rVersionsPath <- paste(directory, rVersionFile, sep = "")
 rVersions <- read_delim(rVersionsPath, trim_ws = TRUE)
 
-rVersions <- rVersions %>%
-  add_column(dateReleased = NA)
+if (!any(names(rVersions) == "dateReleased")) {
+  rVersions <- rVersions %>%
+    add_column(dateReleased = NA)
+    
+  dateSplits <- str_split(rVersions$date, ",")
   
-dateSplits <- str_split(rVersions$date, ",")
-
-numDateSplits <- length(dateSplits)
-
-for (x in 1:numDateSplits) {
-  rVersions[x,3] <- as.POSIXct(paste(
-    dateSplits[[x]][2],
-    match(dateSplits[[x]][1], month.name),
-    "01",
-    sep = "-"
-  ), format = "%Y-%m-%d")
+  numDateSplits <- length(dateSplits)
+  
+  for (x in 1:numDateSplits) {
+    rVersions[x,3] <- as.POSIXct(paste(
+      dateSplits[[x]][2],
+      match(dateSplits[[x]][1], month.name),
+      "01",
+      sep = "-"
+    ), format = "%Y-%m-%d")
+  }
+  
+  write_csv(rVersions, paste(directory, rVersionFile, sep = ""))
 }
-
-write_csv(rVersions, paste(directory, rVersionFile, sep = ""))
 
 
 # Check R version available at time of video release
@@ -332,11 +334,14 @@ write_csv(advancedVideosUnique, paste(directory, "Advanced R Programming Unique.
 write_csv(uniqueAll, paste(directory, "R Programming Unique.csv", sep = ""))
 ```
 
-```{r analyze}
+# Part 3: Data Analysis
+##### Looking at our data sets, I compare performance by level of difficulty. I also try to extract buzz words and prominent topics at each level looking at frequency of words in the title, description, and metadata. Surprisingly, intermediate level R videos perform the best.
+```{r analyze, warning=FALSE, message=FALSE}
 library(readr)
 library(ggplot2)
 library(runner)
 library(stringr)
+library(tidytext)
 library("stopwords")
 library("wordcloud")
 library(ggrepel)
